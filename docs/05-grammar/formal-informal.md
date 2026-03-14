@@ -86,25 +86,25 @@
 
 > *Sehr geehrte Frau Berger,*
 >
-> *ich schreibe Ihnen, weil ich am Freitag leider nicht kommen kann. Mein Kind ist krank und ich muss zu Hause bleiben.*
+> *ich schreibe Ihnen, weil ich am Freitag leider nicht ins Büro kommen kann. Ich habe einen wichtigen Arzttermin, den ich nicht verschieben kann.*
 >
-> *Könnten Sie mir bitte Bescheid geben, ob ich den Tag nachholen muss?*
+> *Ich werde von zu Hause aus arbeiten, falls das möglich ist. Könnten Sie mir bitte Bescheid geben?*
 >
 > *Vielen Dank für Ihr Verständnis.*
 >
 > *Freundliche Grüsse*
-> *Fatima Yilmaz*
+> *Andrei Capastru*
 
 ### Informal (to colleague/friend)
 
-> *Hallo Lisa,*
+> *Hallo Marco,*
 >
-> *ich kann am Freitag leider nicht kommen. Mein Kind ist krank und ich muss zu Hause bleiben.*
+> *ich kann am Freitag leider nicht ins Büro kommen. Ich habe einen Arzttermin, den ich nicht verschieben kann.*
 >
-> *Kannst du mir bitte sagen, ob ich den Tag nachholen muss?*
+> *Kannst du mir bitte sagen, ob das Team-Meeting verschoben wird?*
 >
 > *Danke und liebe Grüsse*
-> *Fatima*
+> *Andrei*
 
 ---
 

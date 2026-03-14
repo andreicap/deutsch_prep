@@ -23,8 +23,8 @@ Never give one-word answers. Use the **3-sentence rule**:
 
 | Question | Bad answer | Good answer |
 |----------|-----------|-------------|
-| Was machen Sie beruflich? | "Ich arbeite." | "Ich arbeite als Reinigungskraft in einem Hotel. Ich arbeite dort seit 3 Jahren. Die Arbeit gefällt mir, weil die Kollegen nett sind." |
-| Haben Sie Kinder? | "Ja, zwei." | "Ja, ich habe zwei Kinder. Mein Sohn ist 8 und geht in die Primarschule. Meine Tochter ist 5 und geht in den Kindergarten." |
+| Was machen Sie beruflich? | "Ich arbeite." | "Ich arbeite als Data Scientist bei SMG in Zürich. Ich analysiere Daten und programmiere. Die Arbeit gefällt mir, weil sie abwechslungsreich ist." |
+| Woher kommen Sie? | "Moldau." | "Ich komme aus Chișinău in Moldau. Ich habe in Moldau, Italien und Schweden studiert. Jetzt lebe ich in Zürich mit meiner Freundin." |
 
 ## Strategy 3: Use Fillers and Stalling Phrases
 

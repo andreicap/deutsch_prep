@@ -156,5 +156,5 @@
 [Vorschlag]     → Montag oder Dienstag wäre gut für mich.
 [Schluss]       → Vielen Dank für Ihr Verständnis.
 [Gruss]         → Freundliche Grüsse
-[Name]          → Ana Pereira
+[Name]          → Andrei Capastru
 ```

@@ -39,11 +39,11 @@
 
 | Deutsch | English | Example |
 |---------|---------|---------|
-| arbeiten | to work | Ich arbeite bei einer Firma in Zürich. |
+| arbeiten | to work | Ich arbeite als Data Scientist bei SMG in Zürich. |
 | kündigen | to resign/terminate | Er hat gekündigt. |
 | verdienen | to earn | Sie verdient gut. |
 | sich beschweren | to complain | Ich möchte mich beschweren. |
-| teilnehmen (an + Dat.) | to participate (in) | Ich nehme an der Sitzung teil. |
+| teilnehmen (an + Dat.) | to participate (in) | Ich nehme an der Team-Sitzung bei SMG teil. |
 | organisieren | to organize | Wir organisieren ein Fest. |
 | erledigen | to complete/handle | Ich muss diese Aufgabe erledigen. |
 | besprechen | to discuss | Wir besprechen das Projekt. |
@@ -56,8 +56,8 @@
 
 | Deutsch | English |
 |---------|---------|
-| Ich arbeite als… | I work as… |
-| Ich bin bei der Firma… angestellt. | I'm employed at the company… |
+| Ich arbeite als Data Scientist. | I work as a data scientist. |
+| Ich bin bei der Firma SMG angestellt. | I'm employed at the company SMG. |
 | Ich arbeite seit… Jahren dort. | I've worked there for… years. |
 | Meine Arbeitszeit ist von… bis… | My working hours are from… to… |
 | Ich habe eine Frage zu meinem Vertrag. | I have a question about my contract. |

@@ -70,8 +70,8 @@
 | Deutsch | English | Example |
 |---------|---------|---------|
 | mieten | to rent | Ich miete eine 3-Zimmer-Wohnung. |
-| wohnen | to live/reside | Ich wohne in Bern. |
-| umziehen | to move (relocate) | Wir ziehen nächsten Monat um. |
+| wohnen | to live/reside | Ich wohne in Zürich mit meiner Freundin. |
+| umziehen | to move (relocate) | Wir ziehen bald in eine neue Wohnung in Zürich um. |
 | suchen | to search/look for | Ich suche eine Wohnung. |
 | besichtigen | to view/inspect | Kann ich die Wohnung besichtigen? |
 | kündigen | to give notice | Ich habe die Wohnung gekündigt. |
@@ -81,14 +81,14 @@
 | waschen | to wash (laundry) | Ich wasche am Dienstag. |
 | reparieren | to repair | Der Hauswart repariert das. |
 | sich beschweren (über) | to complain (about) | Ich beschwere mich über den Lärm. |
-| einziehen | to move in | Wir ziehen am 1. April ein. |
-| ausziehen | to move out | Wir ziehen Ende März aus. |
+| einziehen | to move in | Wir ziehen bald in die neue Wohnung ein. |
+| ausziehen | to move out | Wir ziehen aus unserer alten Wohnung in Zürich aus. |
 
 ## Useful Phrases
 
 | Deutsch | English |
 |---------|---------|
-| Ich suche eine Wohnung in… | I'm looking for an apartment in… |
+| Ich suche eine Wohnung in Zürich. | I'm looking for an apartment in Zurich. |
 | Wie hoch ist die Miete? | How much is the rent? |
 | Sind Nebenkosten inklusive? | Are utilities included? |
 | Ab wann ist die Wohnung frei? | When is the apartment available? |

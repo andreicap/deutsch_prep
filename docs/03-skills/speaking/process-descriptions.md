@@ -53,29 +53,29 @@ Closing: "So funktioniert das normalerweise."
 
 ## Process 2: Searching for an Apartment (Wohnungssuche)
 
-> *Die Wohnungssuche in der Schweiz ist oft nicht einfach. Man muss mehrere Schritte machen.*
+> *Die Wohnungssuche in der Schweiz ist oft nicht einfach, besonders in Zürich. Man muss mehrere Schritte machen.*
 >
-> *Zuerst sucht man Inserate auf Webseiten wie Homegate oder Immoscout24. Man kann dort nach Ort, Preis und Grösse filtern.*
+> *Zuerst sucht man Inserate auf Webseiten wie Homegate oder Immoscout24. Man kann dort nach Ort, Preis und Grösse filtern. In Zürich gibt es viel Konkurrenz, deshalb muss man schnell sein.*
 >
-> *Wenn man eine interessante Wohnung findet, meldet man sich für eine Besichtigung an. Bei der Besichtigung schaut man sich die Wohnung an und stellt Fragen — zum Beispiel über Nebenkosten, Waschküche oder Haustiere.*
+> *Wenn man eine interessante Wohnung findet, meldet man sich für eine Besichtigung an. Bei der Besichtigung schaut man sich die Wohnung an und stellt Fragen — zum Beispiel über Nebenkosten, Waschküche oder die Nachbarschaft.*
 >
-> *Dann muss man die Bewerbungsunterlagen einreichen. Dazu braucht man meistens: einen Betreibungsregisterauszug, eine Kopie des Ausweises und einen Lohnausweis.*
+> *Dann muss man die Bewerbungsunterlagen einreichen. Dazu braucht man meistens: einen Betreibungsregisterauszug, eine Kopie des Ausweises und einen Lohnausweis. Als Ausländer braucht man oft auch eine Kopie der Aufenthaltsbewilligung.*
 >
 > *Wenn man eine Zusage bekommt, unterschreibt man den Mietvertrag und bezahlt die Kaution. Die Kaution ist normalerweise drei Monatsmieten.*
 >
-> *Zum Schluss zieht man ein und meldet sich bei der Gemeinde um.*
+> *Zum Schluss zieht man ein und meldet sich bei der Gemeinde um. Meine Freundin und ich machen das gerade — wir ziehen bald in eine neue Wohnung in Zürich um.*
 
 ---
 
 ## Process 3: Renewing a Residence Permit (Aufenthaltsbewilligung verlängern)
 
-> *Wenn die Aufenthaltsbewilligung bald abläuft, muss man sie rechtzeitig verlängern.*
+> *Wenn die Aufenthaltsbewilligung bald abläuft, muss man sie rechtzeitig verlängern. Das kenne ich gut, weil ich als Moldauer in der Schweiz einen Ausweis B habe.*
 >
-> *Zuerst bekommt man normalerweise einen Brief von der Gemeinde oder dem Migrationsamt. Dort steht, welche Dokumente man braucht.*
+> *Zuerst bekommt man normalerweise einen Brief von der Gemeinde oder dem Migrationsamt in Zürich. Dort steht, welche Dokumente man braucht.*
 >
 > *Dann muss man die Dokumente vorbereiten: Pass, aktuelle Fotos, Arbeitsvertrag, Lohnausweis und manchmal einen Nachweis der Deutschkenntnisse.*
 >
-> *Anschliessend füllt man das Antragsformular aus und reicht alles bei der Gemeinde oder beim Migrationsamt ein. Manchmal kann man das online machen.*
+> *Anschliessend füllt man das Antragsformular aus und reicht alles beim Migrationsamt ein. In Zürich kann man vieles online machen.*
 >
 > *Danach muss man die Gebühr bezahlen und warten. Die Bearbeitungszeit dauert einige Wochen.*
 >
@@ -87,13 +87,13 @@ Closing: "So funktioniert das normalerweise."
 
 ## Process 4: Starting a New Job (Eine neue Stelle anfangen)
 
-> *Wenn man eine Zusage für eine neue Stelle bekommt, gibt es einige Schritte.*
+> *Wenn man eine Zusage für eine neue Stelle bekommt, gibt es einige Schritte. Als ich bei SMG als Data Scientist angefangen habe, war es ähnlich.*
 >
 > *Zuerst unterschreibt man den Arbeitsvertrag. Man sollte den Vertrag genau lesen: Arbeitszeit, Lohn, Ferien, Probezeit und Kündigungsfrist.*
 >
 > *Dann muss man bei der alten Stelle kündigen, wenn man noch angestellt ist. Die Kündigungsfrist steht im alten Vertrag.*
 >
-> *Am ersten Arbeitstag stellt man sich den Kollegen vor und bekommt eine Einführung. Man lernt die Abläufe, die Systeme und die wichtigsten Ansprechpersonen kennen.*
+> *Am ersten Arbeitstag stellt man sich den Kollegen vor und bekommt eine Einführung. Man lernt die Systeme, die Tools und die wichtigsten Ansprechpersonen kennen.*
 >
 > *In den ersten Wochen ist Probezeit. In dieser Zeit können beide Seiten den Vertrag mit kurzer Frist kündigen.*
 >

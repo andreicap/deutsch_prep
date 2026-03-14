@@ -21,31 +21,31 @@ You don't need all 8 points — pick 5–6 that feel natural.
 
 ---
 
-## Template (fill in your details)
+## Template (pre-filled with your details)
 
-> *Guten Tag, mein Name ist [Name]. Ich komme aus [Land] und ich lebe seit [Anzahl] Jahren in der Schweiz. Ich wohne in [Stadt/Ort].*
+> *Guten Tag, mein Name ist Andrei. Ich komme aus Chișinău in Moldau und ich lebe seit [Anzahl] Jahren in der Schweiz. Ich wohne in Zürich.*
 >
-> *Ich bin [verheiratet/ledig/…] und ich habe [Anzahl] Kinder. Mein/e [Sohn/Tochter] ist [Alter] Jahre alt.*
+> *Ich bin zweiunddreissig Jahre alt und ledig. Ich lebe mit meiner Freundin zusammen in Zürich und wir ziehen bald in eine neue Wohnung um.*
 >
-> *Beruflich arbeite ich als [Beruf] bei [Firma/Ort]. Ich arbeite dort seit [Zeitangabe].*
+> *Beruflich arbeite ich als Data Scientist bei SMG. Ich arbeite dort seit [Zeitangabe].*
 >
-> *Ich spreche [Sprachen]. Deutsch lerne ich seit [Zeitangabe], weil [Grund — z.B. ich in der Schweiz bleiben möchte].*
+> *Ich spreche Rumänisch, Englisch, Italienisch und lerne Deutsch. Ich habe in Moldau, Italien und Schweden studiert. Deutsch lerne ich, weil ich in der Schweiz bleiben möchte.*
 >
-> *In meiner Freizeit [Hobby 1] und [Hobby 2]. Am Wochenende [Aktivität].*
+> *In meiner Freizeit spiele ich Volleyball, Fussball und Schach. Im Winter fahre ich Ski. Ich gehe auch gerne in Restaurants und reise oft.*
 
 ---
 
-## Example (complete)
+## Example (Andrei's version)
 
-> *Guten Tag, mein Name ist Ana Pereira. Ich komme aus Portugal und lebe seit vier Jahren in der Schweiz. Ich wohne in Winterthur mit meiner Familie.*
+> *Guten Tag, mein Name ist Andrei. Ich komme aus Chișinău in Moldau und lebe seit einigen Jahren in der Schweiz. Ich wohne in Zürich mit meiner Freundin.*
 >
-> *Ich bin verheiratet und habe zwei Kinder. Mein Sohn ist acht Jahre alt und meine Tochter ist fünf.*
+> *Ich bin zweiunddreissig Jahre alt und ledig. Meine Freundin und ich ziehen bald in eine neue Wohnung in Zürich um.*
 >
-> *Ich arbeite als Verkäuferin bei Migros. Ich arbeite dort Teilzeit, drei Tage pro Woche.*
+> *Beruflich arbeite ich als Data Scientist bei SMG. Ich arbeite dort Vollzeit und analysiere Daten mit Programmierung und Statistik.*
 >
-> *Ich spreche Portugiesisch, ein bisschen Englisch und Deutsch. Deutsch lerne ich seit drei Jahren, weil ich mich hier integrieren möchte.*
+> *Ich spreche Rumänisch, Englisch, Italienisch und lerne Deutsch. Ich habe in Moldau, Italien und Schweden studiert und auch in Luxemburg und Singapur gelebt.*
 >
-> *In meiner Freizeit koche ich gerne und gehe spazieren. Am Wochenende machen wir oft Ausflüge mit den Kindern.*
+> *In meiner Freizeit spiele ich gerne Volleyball, Fussball und Schach. Im Winter fahre ich Ski. Ich gehe auch gerne in Restaurants und reise oft.*
 
 ---
 
@@ -55,12 +55,13 @@ Prepare short answers (2–3 sentences each):
 
 | Question | Your notes |
 |----------|-----------|
-| Was gefällt Ihnen an der Schweiz? | |
-| Was vermissen Sie von Ihrem Heimatland? | |
-| Wie haben Sie Deutsch gelernt? | |
-| Was möchten Sie in der Zukunft machen? | |
-| Erzählen Sie mehr über Ihre Arbeit. | |
-| Was machen Ihre Kinder gerne? | |
+| Was gefällt Ihnen an der Schweiz? | Berge, Natur, Sicherheit, die Lebensqualität in Zürich |
+| Was vermissen Sie von Ihrem Heimatland? | Familie, moldauisches Essen, die Menschen |
+| Wie haben Sie Deutsch gelernt? | Deutschkurs in Zürich, Podcasts, Selbststudium |
+| Was möchten Sie in der Zukunft machen? | Deutsch verbessern, in der Schweiz bleiben, reisen |
+| Erzählen Sie mehr über Ihre Arbeit. | Data Science, Datenanalyse, Programmierung bei SMG |
+| Was haben Sie studiert? | In Moldau, Italien und Schweden studiert |
+| Warum sind Sie in die Schweiz gekommen? | Berufliche Möglichkeiten, gute Lebensqualität |
 
 ---
 

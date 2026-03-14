@@ -80,14 +80,14 @@ Record everything. Have someone ask you questions, or use a timer.
 | Pro/contra + opinion | 4 min | *Was denken Sie über [topic]?* |
 
 **Random personal questions** (pick 3):
-1. Was machen Sie beruflich?
-2. Wie sieht ein typischer Tag bei Ihnen aus?
-3. Was machen Sie in der Freizeit?
-4. Was ist Ihr Lieblingsessen?
-5. Wie haben Sie Deutsch gelernt?
-6. Was gefällt Ihnen an der Schweiz?
-7. Haben Sie Kinder? Erzählen Sie.
-8. Wie kommen Sie zur Arbeit?
+1. Was machen Sie beruflich? *(Data Scientist bei SMG)*
+2. Wie sieht ein typischer Tag bei Ihnen aus? *(Tram, Büro, Daten, Sport)*
+3. Was machen Sie in der Freizeit? *(Volleyball, Fussball, Schach, Skifahren, Restaurants)*
+4. Was ist Ihr Lieblingsessen? *(moldauisch, italienisch — aus Studienzeit in Italien)*
+5. Wie haben Sie Deutsch gelernt? *(Kurs in Zürich, Selbststudium)*
+6. Was gefällt Ihnen an der Schweiz? *(Berge, Lebensqualität, Sicherheit)*
+7. Woher kommen Sie? *(Chișinău, Moldau — studiert in Moldau, Italien, Schweden)*
+8. Wie kommen Sie zur Arbeit? *(Tram, ca. 15 Minuten)*
 
 **Speaking self-assessment**:
 

@@ -40,7 +40,7 @@
 |---------|---------|---------|
 | beantragen | to apply for | Ich möchte eine Verlängerung beantragen. |
 | anmelden (sich) | to register | Ich muss mich bei der Gemeinde anmelden. |
-| abmelden (sich) | to deregister | Ich melde mich ab, weil ich umziehe. |
+| abmelden (sich) | to deregister | Ich melde mich ab, weil ich in ein anderes Quartier in Zürich umziehe. |
 | verlängern | to extend/renew | Ich muss meinen Ausweis verlängern. |
 | unterschreiben | to sign | Bitte unterschreiben Sie hier. |
 | ausfüllen | to fill in/out | Bitte füllen Sie das Formular aus. |

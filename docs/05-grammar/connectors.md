@@ -29,12 +29,12 @@ These start a subordinate clause. The conjugated verb moves to the **end** of th
 | wenn | if / when | **Wenn** ich Zeit **habe**, gehe ich spazieren. |
 | dass | that | Ich denke, **dass** das eine gute Idee **ist**. |
 | damit | so that | Ich lerne, **damit** ich den Test **bestehe**. |
-| als | when (past, single event) | **Als** ich nach Zürich **kam**, sprach ich kein Deutsch. |
+| als | when (past, single event) | **Als** ich aus Moldau in die Schweiz **kam**, sprach ich kein Deutsch. |
 | bevor | before | **Bevor** ich zur Arbeit **gehe**, frühstücke ich. |
 | nachdem | after | **Nachdem** ich gegessen **habe**, räume ich auf. |
 | während | while | **Während** ich arbeite, hören die Kinder Musik. |
 | ob | whether | Ich weiss nicht, **ob** er **kommt**. |
-| seit / seitdem | since (time) | **Seitdem** ich hier **wohne**, fühle ich mich besser. |
+| seit / seitdem | since (time) | **Seitdem** ich in Zürich **wohne**, fühle ich mich besser. |
 | bis | until | Warte, **bis** ich fertig **bin**. |
 | falls | in case | **Falls** es **regnet**, bleiben wir zu Hause. |
 
@@ -61,8 +61,8 @@ These start a new main clause. The verb stays in **position 2** (inversion).
 | danach | after that | Ich arbeite bis fünf. **Danach** hole ich die Kinder ab. |
 | schliesslich | finally | **Schliesslich** hat er die Prüfung bestanden. |
 | allerdings | however | Das Restaurant ist gut. **Allerdings** ist es teuer. |
-| stattdessen | instead | Ich fahre nicht Auto. **Stattdessen** nehme ich den Zug. |
-| inzwischen | meanwhile | **Inzwischen** hat er einen neuen Job. |
+| stattdessen | instead | Ich fahre nicht Auto. **Stattdessen** nehme ich das Tram in Zürich. |
+| inzwischen | meanwhile | **Inzwischen** habe ich mich gut in Zürich eingelebt. |
 
 ---
 
@@ -72,11 +72,11 @@ These start a new main clause. The verb stays in **position 2** (inversion).
 |---------|---------|---------|
 | einerseits… andererseits | on one hand… on the other | **Einerseits** ist es praktisch, **andererseits** ist es teuer. |
 | zwar… aber | indeed… but | Das Hotel ist **zwar** schön, **aber** zu weit weg. |
-| nicht nur… sondern auch | not only… but also | Er spricht **nicht nur** Deutsch, **sondern auch** Französisch. |
+| nicht nur… sondern auch | not only… but also | Ich spreche **nicht nur** Rumänisch und Englisch, **sondern auch** Italienisch. |
 | sowohl… als auch | both… and | **Sowohl** die Lage **als auch** der Preis sind gut. |
 | weder… noch | neither… nor | Er hat **weder** Zeit **noch** Geld. |
 | entweder… oder | either… or | **Entweder** du kommst mit **oder** du bleibst hier. |
-| je… desto/umso | the more… the more | **Je** mehr ich übe, **desto** besser werde ich. |
+| je… desto/umso | the more… the more | **Je** mehr ich Deutsch übe, **desto** besser werde ich. |
 
 ---
 

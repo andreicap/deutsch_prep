@@ -62,43 +62,43 @@
 | Deutsch | English | Example |
 |---------|---------|---------|
 | lesen | to read | Ich lese gerne Bücher. |
-| wandern | to hike | Am Wochenende wandere ich. |
-| schwimmen | to swim | Im Sommer schwimme ich im See. |
-| kochen | to cook | Ich koche gerne italienisch. |
-| reisen | to travel | Ich reise gerne nach Italien. |
-| fernsehen | to watch TV | Abends sehe ich fern. |
-| sich treffen (mit) | to meet (with) | Ich treffe mich mit Freunden. |
-| spazieren gehen | to go for a walk | Ich gehe gerne spazieren. |
-| spielen | to play | Meine Kinder spielen Fussball. |
-| fotografieren | to photograph | Ich fotografiere gerne. |
-| sich entspannen | to relax | Am Sonntag entspanne ich mich. |
-| sich interessieren (für) | to be interested (in) | Ich interessiere mich für Musik. |
-| teilnehmen (an) | to participate (in) | Ich nehme an einem Kurs teil. |
-| verbringen | to spend (time) | Ich verbringe die Ferien am Meer. |
+| wandern | to hike | Am Wochenende wandere ich in den Bergen. |
+| schwimmen | to swim | Im Sommer schwimme ich im Zürichsee. |
+| kochen | to cook | Meine Freundin und ich kochen gerne zusammen. |
+| reisen | to travel | Ich reise oft — ich war schon in vielen Ländern. |
+| fernsehen | to watch TV | Abends sehe ich manchmal eine Serie. |
+| sich treffen (mit) | to meet (with) | Ich treffe mich mit Freunden zum Volleyball. |
+| spazieren gehen | to go for a walk | Ich gehe gerne am Zürichsee spazieren. |
+| spielen | to play | Ich spiele gerne Fussball, Volleyball und Schach. |
+| Ski fahren | to ski | Im Winter fahre ich Ski in den Alpen. |
+| sich entspannen | to relax | Am Sonntag entspanne ich mich oder gehe in ein Restaurant. |
+| sich interessieren (für) | to be interested (in) | Ich interessiere mich für Sport und Reisen. |
+| teilnehmen (an) | to participate (in) | Ich nehme an einem Deutschkurs teil. |
+| verbringen | to spend (time) | Ich verbringe gerne Zeit mit meiner Freundin. |
 
 ## Useful Phrases
 
 | Deutsch | English |
 |---------|---------|
-| In meiner Freizeit… | In my free time… |
-| Mein Hobby ist… | My hobby is… |
-| Am Wochenende gehe ich gerne… | On the weekend I like to go… |
-| Ich interessiere mich für… | I'm interested in… |
-| Ich bin in einem Verein. | I'm in a club. |
-| Haben Sie Empfehlungen? | Do you have recommendations? |
-| Was kann man hier machen? | What can you do here? |
+| In meiner Freizeit spiele ich Volleyball und Schach. | In my free time I play volleyball and chess. |
+| Meine Hobbys sind Skifahren, Fussball und Reisen. | My hobbies are skiing, football and traveling. |
+| Am Wochenende gehe ich gerne in ein Restaurant. | On the weekend I like to go to a restaurant. |
+| Ich interessiere mich für Sport und Reisen. | I'm interested in sport and traveling. |
+| Haben Sie Empfehlungen für ein gutes Restaurant? | Do you have recommendations for a good restaurant? |
+| Was kann man hier in Zürich machen? | What can you do here in Zurich? |
 | Ich lese jeden Tag die Nachrichten. | I read the news every day. |
-| Wir machen einen Ausflug nach… | We're taking a trip to… |
-| Ich verbringe gerne Zeit mit meiner Familie. | I like spending time with my family. |
-| Ich habe einen Deutschkurs besucht. | I attended a German course. |
-| Im Winter gehe ich Skifahren. | In winter I go skiing. |
+| Wir machen einen Ausflug in die Berge. | We're taking a trip to the mountains. |
+| Ich verbringe gerne Zeit mit meiner Freundin. | I like spending time with my girlfriend. |
+| Ich besuche einen Deutschkurs in Zürich. | I attend a German course in Zurich. |
+| Im Winter fahre ich Ski in den Alpen. | In winter I go skiing in the Alps. |
+| Ich reise oft — ich war schon in vielen Ländern. | I travel often — I've been to many countries. |
 
 ## Speaking Practice — Describe Your Free Time (2 min)
 
 Structure:
-1. What you like to do (2–3 hobbies)
-2. How often / when
-3. With whom
+1. What you like to do (skiing, volleyball, football, chess, restaurants, traveling)
+2. How often / when (weekends, winter for skiing, evenings for chess)
+3. With whom (Freundin, Freunde, Kollegen)
 4. Why you enjoy it
 
 ## Self-Test

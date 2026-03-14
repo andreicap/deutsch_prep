@@ -36,35 +36,35 @@
 
 ---
 
-## Template
+## Template (pre-filled with your details)
 
-> *Ich stehe normalerweise um [Uhrzeit] auf. Zuerst [Morgenroutine — duschen, frühstücken, Kinder vorbereiten].*
+> *Ich stehe normalerweise um [Uhrzeit] auf. Zuerst dusche ich und mache mir einen Kaffee.*
 >
-> *Dann fahre ich mit [Verkehrsmittel] zur Arbeit. Die Fahrt dauert etwa [Minuten]. Ich arbeite von [Uhrzeit] bis [Uhrzeit].*
+> *Dann fahre ich mit dem Tram zur Arbeit bei SMG. Die Fahrt dauert etwa fünfzehn Minuten. Ich arbeite von [Uhrzeit] bis [Uhrzeit].*
 >
-> *Bei der Arbeit [Beschreibung der Tätigkeit — z.B. bediene ich Kunden / putze ich Büros / arbeite ich am Computer]. In der Mittagspause esse ich [was/wo].*
+> *Bei der Arbeit analysiere ich Daten, programmiere und habe Besprechungen. In der Mittagspause esse ich in der Kantine oder gehe mit Kollegen in ein Restaurant.*
 >
-> *Nach der Arbeit [was machen Sie — z.B. hole ich die Kinder ab / gehe ich einkaufen / gehe ich zum Deutschkurs].*
+> *Nach der Arbeit gehe ich zum Sport oder zum Deutschkurs. Manchmal gehe ich mit meiner Freundin in ein Restaurant.*
 >
-> *Am Abend koche ich das Abendessen und wir essen zusammen. Danach [Abendaktivität — z.B. sehe ich fern / lese ich / spiele mit den Kindern].*
+> *Am Abend kochen wir zusammen oder ich spiele Schach online. Danach lese ich oder schaue eine Serie.*
 >
 > *Ich gehe meistens um [Uhrzeit] ins Bett.*
 
 ---
 
-## Example (complete)
+## Example (Andrei's version)
 
-> *Ich stehe normalerweise um halb sieben auf. Zuerst dusche ich und dann mache ich Frühstück für die ganze Familie. Meine Kinder müssen um acht Uhr in der Schule sein, also bringe ich sie zuerst hin.*
+> *Ich stehe normalerweise um sieben Uhr auf. Zuerst dusche ich und dann mache ich mir einen Kaffee und frühstücke mit meiner Freundin.*
 >
-> *Danach fahre ich mit dem Bus zur Arbeit. Die Fahrt dauert etwa zwanzig Minuten. Ich arbeite als Reinigungskraft in einem Hotel, von neun bis vierzehn Uhr.*
+> *Dann fahre ich mit dem Tram ins Büro. Die Fahrt dauert etwa fünfzehn Minuten. Ich arbeite als Data Scientist bei SMG, von neun bis achtzehn Uhr ungefähr.*
 >
-> *Bei der Arbeit putze ich die Zimmer und mache die Betten. In der Pause trinke ich Kaffee mit meinen Kolleginnen. Wir sprechen meistens Deutsch, das hilft mir beim Lernen.*
+> *Bei der Arbeit analysiere ich Daten, programmiere und habe Besprechungen mit meinem Team. In der Mittagspause esse ich meistens in der Kantine oder gehe mit Kollegen in ein Restaurant.*
 >
-> *Nach der Arbeit gehe ich einkaufen oder hole die Kinder ab. Am Dienstag und Donnerstag gehe ich zum Deutschkurs, von vier bis sechs.*
+> *Manchmal arbeite ich auch im Home-Office. Das ist praktisch, weil ich dann mehr Zeit habe.*
 >
-> *Am Abend koche ich das Abendessen. Wir essen zusammen und dann helfe ich den Kindern bei den Hausaufgaben. Danach sehe ich ein bisschen fern oder lese ein Buch.*
+> *Am Abend koche ich zusammen mit meiner Freundin oder wir gehen auswärts essen. Danach lese ich, spiele Schach online oder schaue eine Serie.*
 >
-> *Ich gehe meistens um zehn Uhr ins Bett.*
+> *Ich gehe meistens um elf Uhr ins Bett.*
 
 ---
 
@@ -72,11 +72,13 @@
 
 If asked *"Was machen Sie am Wochenende?"*:
 
-> *Am Wochenende stehe ich später auf, meistens um acht Uhr. Am Samstag gehe ich einkaufen und putze die Wohnung. Nachmittags treffe ich mich manchmal mit Freunden.*
+> *Am Wochenende stehe ich später auf, meistens um neun Uhr. Am Samstagmorgen gehe ich zum Sport — ich spiele Volleyball oder Fussball mit Freunden.*
 >
-> *Am Sonntag machen wir oft einen Ausflug — zum Beispiel an den See oder in die Berge. Manchmal kochen wir zusammen etwas Besonderes.*
+> *Nachmittags gehe ich manchmal einkaufen oder wir erkunden ein neues Restaurant in Zürich. Im Winter fahren wir oft in die Berge zum Skifahren.*
 >
-> *Das Wochenende ist wichtig für mich, weil ich dann Zeit mit meiner Familie verbringen kann.*
+> *Am Sonntag machen wir manchmal einen Ausflug — zum Beispiel an den Zürichsee oder wandern. Oder wir bleiben zu Hause und ich spiele Schach oder lese.*
+>
+> *Das Wochenende ist wichtig für mich, weil ich dann Zeit mit meiner Freundin verbringen und meine Hobbys geniessen kann.*
 
 ---
 

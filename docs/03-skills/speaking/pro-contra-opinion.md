@@ -93,6 +93,7 @@
 **Dafür:**
 - Flexibilität, bessere Work-Life-Balance
 - Spart Pendelzeit und ist umweltfreundlicher
+- Als Data Scientist kann ich gut von zu Hause arbeiten — ich brauche nur meinen Laptop
 - Studien zeigen: viele sind produktiver zu Hause
 
 **Dagegen:**
@@ -101,7 +102,7 @@
 - Nicht alle Berufe sind geeignet (Handwerk, Pflege, Verkauf)
 
 **Meine Meinung:**
-- Flexibilität ist gut, aber kein absolutes Recht — es hängt vom Beruf ab
+- Als Data Scientist profitiere ich vom Home-Office, aber ich gehe gerne ins Büro für Besprechungen und den Kontakt mit Kollegen. Ein Mix ist ideal.
 
 ---
 
@@ -135,7 +136,7 @@
 **Dafür:**
 - Gut für die Umwelt: weniger Autos
 - Sozial gerecht: auch Menschen mit wenig Geld können mobil sein
-- Weniger Stau in den Städten
+- Weniger Stau in den Städten — in Zürich ist der ÖV schon sehr gut
 
 **Dagegen:**
 - Sehr teuer: wer bezahlt das?
@@ -143,7 +144,7 @@
 - Nicht alle würden das Auto aufgeben
 
 **Meine Meinung:**
-- Günstiger ja, gratis nein — die Qualität muss stimmen
+- Ich benutze das Tram und den Zug jeden Tag in Zürich. Günstiger ja, gratis nein — die Qualität muss stimmen
 
 ---
 
@@ -156,6 +157,7 @@
 **Dafür:**
 - Mitarbeitende werden qualifizierter → Firma profitiert
 - Motivation und Zufriedenheit steigen
+- In der IT und Data Science muss man sich ständig weiterbilden — neue Tools, neue Methoden
 - Im internationalen Vergleich: Schweiz braucht qualifizierte Fachkräfte
 
 **Dagegen:**
@@ -164,7 +166,7 @@
 - Nicht alle Weiterbildungen sind beruflich relevant
 
 **Meine Meinung:**
-- Ja, wenn die Weiterbildung für den Job relevant ist — mit einer Rückzahlungsklausel
+- In meinem Beruf als Data Scientist ist Weiterbildung sehr wichtig. Ja, wenn die Weiterbildung für den Job relevant ist — mit einer Rückzahlungsklausel
 
 ---
 

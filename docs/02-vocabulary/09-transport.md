@@ -81,7 +81,7 @@
 | Lohnt sich ein GA? | Is a GA worth it? |
 | Wie lange dauert die Fahrt? | How long is the journey? |
 | Gibt es eine direkte Verbindung? | Is there a direct connection? |
-| Ich fahre mit dem Velo zur Arbeit. | I cycle to work. |
+| Ich fahre mit dem Tram zur Arbeit bei SMG. | I take the tram to work at SMG. |
 
 ## Swiss Transport — Key Info
 

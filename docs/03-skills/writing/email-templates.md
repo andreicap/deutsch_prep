@@ -27,14 +27,14 @@ Freundliche Grüsse
 
 > *Sehr geehrte Damen und Herren,*
 >
-> *ich habe am Mittwoch um 14 Uhr einen Termin bei Ihnen. Leider kann ich nicht kommen, weil ich arbeiten muss.*
+> *ich habe am Mittwoch um 14 Uhr einen Termin bei Ihnen. Leider kann ich nicht kommen, weil ich eine wichtige Besprechung bei der Arbeit habe.*
 >
 > *Könnten Sie mir bitte einen neuen Termin geben? Donnerstag oder Freitag wäre gut für mich.*
 >
 > *Vielen Dank für Ihr Verständnis.*
 >
 > *Freundliche Grüsse*
-> *Maria Schneider*
+> *Andrei Capastru*
 
 ---
 
@@ -180,9 +180,9 @@ Es ist wichtig, dass [abschliessender Gedanke].
 
 > *Die Frage, ob Geschäfte am Sonntag geöffnet sein sollten, wird oft diskutiert. Es gibt sowohl Argumente dafür als auch dagegen.*
 >
-> *Einerseits wäre es praktisch für berufstätige Menschen, die unter der Woche keine Zeit zum Einkaufen haben. Ausserdem könnten die Geschäfte mehr Umsatz machen und neue Arbeitsplätze schaffen.*
+> *Einerseits wäre es praktisch für berufstätige Menschen wie mich, die unter der Woche keine Zeit zum Einkaufen haben. Wenn ich am Samstag Ski fahren oder Volleyball spielen gehe, bleibt wenig Zeit für Einkäufe. Ausserdem könnten die Geschäfte mehr Umsatz machen.*
 >
-> *Andererseits ist der Sonntag ein wichtiger Ruhetag für die Gesellschaft. Die Angestellten im Verkauf hätten weniger freie Zeit mit ihren Familien. Darüber hinaus gibt es bereits Tankstellen und Bahnhofsshops, die am Sonntag offen sind.*
+> *Andererseits ist der Sonntag ein wichtiger Ruhetag für die Gesellschaft. Die Angestellten im Verkauf hätten weniger freie Zeit. Darüber hinaus gibt es in Zürich bereits Bahnhofsshops, die am Sonntag offen sind.*
 >
 > *Meiner Meinung nach sollte der Sonntag als Ruhetag bestehen bleiben. Ich denke, dass die Erholung der Arbeitnehmenden wichtiger ist als die Bequemlichkeit beim Einkaufen.*
 >
