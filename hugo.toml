@@ -1,0 +1,94 @@
+baseURL = '/'
+languageCode = 'de'
+title = 'Deutsch Prep — SDS Exam'
+theme = 'PaperMod'
+
+[params]
+description = 'Sprachstandstest Deutsch Schweiz preparation system'
+defaultTheme = 'light'
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = true
+
+[params.homeInfoParams]
+Title = 'SDS Exam Preparation'
+Content = 'Comprehensive preparation system for the Sprachstandstest Deutsch Schweiz — all 4 skills at levels pre-A1 through B2.'
+
+[[params.socialIcons]]
+name = 'github'
+url = 'https://github.com/andreicapastru'
+
+[menu]
+
+[[menu.main]]
+identifier = 'home'
+name = 'Home'
+url = '/'
+weight = 1
+
+[[menu.main]]
+identifier = 'exam-formats'
+name = 'Exam Formats'
+url = '/exam-formats/'
+weight = 2
+
+[[menu.main]]
+identifier = 'vocabulary'
+name = 'Vocabulary'
+url = '/vocabulary/'
+weight = 3
+
+[[menu.main]]
+identifier = 'skills'
+name = 'Skills'
+url = '/skills/'
+weight = 4
+
+[[menu.main]]
+identifier = 'weekly-plan'
+name = 'Weekly Plan'
+url = '/weekly-plan/'
+weight = 5
+
+[[menu.main]]
+identifier = 'grammar'
+name = 'Grammar & Phrases'
+url = '/grammar/'
+weight = 6
+
+[[menu.main]]
+identifier = 'test-day'
+name = 'Test Day'
+url = '/test-day/'
+weight = 7
+
+[markup]
+[markup.tableOfContents]
+endLevel = 3
+startLevel = 2
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.extensions]
+[markup.goldmark.extensions.passthrough]
+enable = true
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\\[', '\\]'], ['$$', '$$']]
+inline = [['\\(', '\\)'], ['$', '$']]
+
+[markup.goldmark.extensions.extras]
+[markup.goldmark.extensions.extras.delete]
+enable = true
+[markup.goldmark.extensions.extras.subscript]
+enable = true
+[markup.goldmark.extensions.extras.superscript]
+enable = true
+
+[outputs]
+home = ['HTML', 'RSS', 'JSON']
