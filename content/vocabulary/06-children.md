@@ -5,49 +5,49 @@ weight: 6
 
 > Childcare, school system, parent-teacher communication, children's activities.
 
-## Nouns — School
+## Substantive (Nouns) — Schule (School)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Schule | die | Schulen | school |
-| Kindergarten | der | Kindergärten | kindergarten |
-| Krippe | die | Krippen | daycare/crèche |
-| Kita | die | Kitas | daycare center |
-| Hort | der | Horte | after-school care |
-| Klasse | die | Klassen | class/grade |
-| Lehrer/in | der/die | Lehrer/innen | teacher |
-| Schüler/in | der/die | Schüler/innen | student/pupil |
-| Eltern | die (Pl.) | — | parents |
-| Elternabend | der | Elternabende | parent-teacher evening |
-| Elterngespräch | das | Elterngespräche | parent-teacher meeting |
-| Zeugnis | das | Zeugnisse | report card |
-| Note | die | Noten | grade/mark |
-| Hausaufgaben | die (Pl.) | — | homework |
-| Stundenplan | der | Stundenpläne | timetable/schedule |
-| Fach | das | Fächer | subject |
-| Ferien | die (Pl.) | — | school holidays |
-| Schuljahr | das | Schuljahre | school year |
-| Prüfung | die | Prüfungen | exam/test |
-| Ausflug | der | Ausflüge | field trip/excursion |
-| Mittagstisch | der | — | school lunch (CH) |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Schule 🏫 | Schulen | school |
+| der | Kindergarten 👶 | Kindergärten | kindergarten |
+| die | Krippe 🍼 | Krippen | daycare/crèche |
+| die | Kita 👧 | Kitas | daycare center |
+| der | Hort 🏫 | Horte | after-school care |
+| die | Klasse 👨‍🏫 | Klassen | class/grade |
+| der/die | Lehrer/in 👩‍🏫 | Lehrer/innen | teacher |
+| der/die | Schüler/in 🧑‍🎓 | Schüler/innen | student/pupil |
+| die (Pl.) | Eltern 👨‍👩‍👧 | — | parents |
+| der | Elternabend 📅 | Elternabende | parent-teacher evening |
+| das | Elterngespräch 🗣️ | Elterngespräche | parent-teacher meeting |
+| das | Zeugnis 📜 | Zeugnisse | report card |
+| die | Note 📝 | Noten | grade/mark |
+| die (Pl.) | Hausaufgaben 📚 | — | homework |
+| der | Stundenplan 🗓️ | Stundenpläne | timetable/schedule |
+| das | Fach 📖 | Fächer | subject |
+| die (Pl.) | Ferien 🏖️ | — | school holidays |
+| das | Schuljahr 📅 | Schuljahre | school year |
+| die | Prüfung ✍️ | Prüfungen | exam/test |
+| der | Ausflug 🚌 | Ausflüge | field trip/excursion |
+| der | Mittagstisch 🍽️ | — | school lunch (CH) |
 
-## Nouns — Childcare
+## Substantive (Nouns) — Kinderbetreuung (Childcare)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Betreuung | die | — | care/supervision |
-| Kinderbetreuung | die | — | childcare |
-| Tagesmutter | die | Tagesmütter | childminder |
-| Spielgruppe | die | Spielgruppen | playgroup |
-| Spielplatz | der | Spielplätze | playground |
-| Erziehung | die | — | upbringing/education |
-| Impfung | die | Impfungen | vaccination |
-| Krankheit | die | Krankheiten | illness |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Betreuung 🤱 | — | care/supervision |
+| die | Kinderbetreuung 👶 | — | childcare |
+| die | Tagesmutter 👩‍👧 | Tagesmütter | childminder |
+| die | Spielgruppe 🧸 | Spielgruppen | playgroup |
+| der | Spielplatz 🛝 | Spielplätze | playground |
+| die | Erziehung 📖 | — | upbringing/education |
+| die | Impfung 💉 | Impfungen | vaccination |
+| die | Krankheit 🤒 | Krankheiten | illness |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | lernen | to learn/study | Mein Kind lernt Deutsch. |
 | unterrichten | to teach | Sie unterrichtet Mathematik. |
 | abholen | to pick up | Ich hole mein Kind um 16 Uhr ab. |
@@ -59,10 +59,10 @@ weight: 6
 | bestehen | to pass (exam) | Sie hat die Prüfung bestanden. |
 | sich kümmern (um) | to take care (of) | Wer kümmert sich um die Kinder? |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Mein Kind geht in die 3. Klasse. | My child is in 3rd grade. |
 | Wann beginnt die Schule? | When does school start? |
 | Mein Kind ist heute krank. | My child is sick today. |
@@ -75,18 +75,18 @@ weight: 6
 | Mein Kind hat eine Allergie gegen… | My child is allergic to… |
 | Gibt es ein Mittagessen in der Schule? | Is there lunch at school? |
 
-## Swiss School System — Key Terms
+## Schweizer Schulsystem (Swiss School System) — Wichtige Begriffe (Key Terms)
 
-| Deutsch | English |
-|---------|---------|
-| Primarschule | primary school (1st–6th grade in CH) |
-| Sekundarschule / Oberstufe | secondary school |
-| Gymnasium | academic secondary school |
-| Lehre / Berufslehre | apprenticeship |
-| Berufsschule | vocational school |
-| Mittelschule | middle school / upper secondary |
+| Deutsch | Englisch (English) |
+|---------|--------------------|
+| Primarschule 🏫 | primary school (1st–6th grade in CH) |
+| Sekundarschule / Oberstufe 🏫 | secondary school |
+| Gymnasium 🎓 | academic secondary school |
+| Lehre / Berufslehre 🔧 | apprenticeship |
+| Berufsschule 🏫 | vocational school |
+| Mittelschule 🏫 | middle school / upper secondary |
 
-## Email Prompt Practice
+## E-Mail-Übung (Email Prompt Practice)
 
 > **Prompt**: Your child is sick and cannot go to school. Write an email to the teacher.
 
@@ -105,9 +105,9 @@ Try writing it yourself, then check:
 *[Ihr Name]*
 </details>
 
-## Self-Test
+## Selbsttest (Self-Test)
 
-- [ ] I can name 10+ school-related nouns
+- [ ] I can name 10+ school-related Substantive (nouns)
 - [ ] I can write an absence email to a teacher
 - [ ] I can talk about my child's school/care situation
 - [ ] I know the basic Swiss school system terms

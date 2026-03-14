@@ -1,5 +1,5 @@
 ---
-title: "Connectors (Konnektoren) — B1/B2"
+title: "Konnektoren (Connectors) — B1/B2"
 weight: 50
 ---
 
@@ -7,12 +7,12 @@ weight: 50
 
 ---
 
-## Coordinating Conjunctions (Position 0 — no verb change)
+## Koordinierende Konjunktionen (Coordinating Conjunctions) — Position 0
 
 These connect two main clauses. The verb stays in **position 2** in both clauses.
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | und | and | Ich arbeite und ich lerne Deutsch. |
 | aber | but | Es ist teuer, aber es ist gut. |
 | oder | or | Kommst du mit oder bleibst du zu Hause? |
@@ -21,12 +21,12 @@ These connect two main clauses. The verb stays in **position 2** in both clauses
 
 ---
 
-## Subordinating Conjunctions (Verb goes to END)
+## Subordinierende Konjunktionen (Subordinating Conjunctions) — Verb am Ende
 
 These start a subordinate clause. The conjugated verb moves to the **end** of the clause.
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | weil | because | Ich lerne Deutsch, **weil** ich in der Schweiz **lebe**. |
 | obwohl | although | Er geht arbeiten, **obwohl** er krank **ist**. |
 | wenn | if / when | **Wenn** ich Zeit **habe**, gehe ich spazieren. |
@@ -41,7 +41,7 @@ These start a subordinate clause. The conjugated verb moves to the **end** of th
 | bis | until | Warte, **bis** ich fertig **bin**. |
 | falls | in case | **Falls** es **regnet**, bleiben wir zu Hause. |
 
-**Word order rule**: In the subordinate clause, the conjugated verb goes to the END.
+**Wortstellungsregel (Word order rule)**: In the subordinate clause, the conjugated verb goes to the END.
 
 ```
 Main clause:        Ich lerne Deutsch.         (verb in position 2)
@@ -50,12 +50,12 @@ Subordinate clause: ...weil ich in Zürich lebe. (verb at the end)
 
 ---
 
-## Adverbs / Adverbial Connectors (Position 1 — verb in position 2)
+## Adverbien / Adverbiale Konnektoren (Adverbs / Adverbial Connectors) — Position 1
 
 These start a new main clause. The verb stays in **position 2** (inversion).
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | deshalb / deswegen | therefore | Es regnet. **Deshalb** bleibe ich zu Hause. |
 | trotzdem | nevertheless | Es regnet. **Trotzdem** gehe ich spazieren. |
 | ausserdem | moreover / besides | Die Wohnung ist gross. **Ausserdem** ist sie günstig. |
@@ -69,10 +69,10 @@ These start a new main clause. The verb stays in **position 2** (inversion).
 
 ---
 
-## Two-Part Connectors (Zweiteilige Konnektoren)
+## Zweiteilige Konnektoren (Two-Part Connectors)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | einerseits… andererseits | on one hand… on the other | **Einerseits** ist es praktisch, **andererseits** ist es teuer. |
 | zwar… aber | indeed… but | Das Hotel ist **zwar** schön, **aber** zu weit weg. |
 | nicht nur… sondern auch | not only… but also | Ich spreche **nicht nur** Rumänisch und Englisch, **sondern auch** Italienisch. |
@@ -83,34 +83,34 @@ These start a new main clause. The verb stays in **position 2** (inversion).
 
 ---
 
-## Connectors by Function
+## Konnektoren nach Funktion (Connectors by Function)
 
-### Giving reasons
+### Begründung (Giving Reasons)
 weil, da, denn, deshalb, deswegen, darum, daher, nämlich
 
-### Contrasting
+### Gegensatz (Contrasting)
 aber, obwohl, trotzdem, allerdings, dennoch, jedoch, zwar…aber
 
-### Adding information
+### Zusätzliche Informationen (Adding Information)
 und, ausserdem, darüber hinaus, zusätzlich, nicht nur…sondern auch
 
-### Showing consequence
+### Folge (Showing Consequence)
 deshalb, deswegen, darum, daher, folglich, also, somit
 
-### Expressing opinion
+### Meinung ausdrücken (Expressing Opinion)
 meiner Meinung nach, ich denke/finde/glaube, aus meiner Sicht
 
-### Sequencing
+### Reihenfolge (Sequencing)
 zuerst, dann, danach, anschliessend, schliesslich, zum Schluss, am Ende
 
-### Conditions
+### Bedingungen (Conditions)
 wenn, falls, sofern, vorausgesetzt dass
 
 ---
 
-## Practice
+## Übung (Practice)
 
-Write one sentence with each connector from the "Two-Part" section. Check your word order!
+Write one sentence with each connector from the "Zweiteilige Konnektoren" section. Check your word order!
 
 1. einerseits… andererseits: ___
 2. zwar… aber: ___
@@ -120,10 +120,10 @@ Write one sentence with each connector from the "Two-Part" section. Check your w
 
 ---
 
-## Quick Cheat Sheet
+## Kurzübersicht (Quick Cheat Sheet)
 
-| Want to say… | Use… | Word order |
-|-------------|------|------------|
+| Ausdruck (Expression) | Konnektor (Connector) | Wortstellung (Word Order) |
+|------------------------|-----------------------|---------------------------|
 | because (casual) | denn | normal (V2) |
 | because (formal) | weil | verb at end |
 | although | obwohl | verb at end |

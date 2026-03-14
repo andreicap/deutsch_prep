@@ -5,73 +5,73 @@ weight: 10
 
 > Apartment search, renting, neighbors, household, neighborhood.
 
-## Nouns — Housing
+## Substantive (Nouns) — Wohnen (Housing)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Wohnung | die | Wohnungen | apartment |
-| Zimmer | das | Zimmer | room |
-| Schlafzimmer | das | Schlafzimmer | bedroom |
-| Wohnzimmer | das | Wohnzimmer | living room |
-| Küche | die | Küchen | kitchen |
-| Bad / Badezimmer | das | Bäder / Badezimmer | bathroom |
-| Balkon | der | Balkone | balcony |
-| Keller | der | Keller | basement/cellar |
-| Garage | die | Garagen | garage |
-| Stockwerk / Etage | das/die | Stockwerke / Etagen | floor/story |
-| Erdgeschoss | das | — | ground floor |
-| Miete | die | Mieten | rent |
-| Nebenkosten | die (Pl.) | — | utilities/additional costs |
-| Kaution | die | Kautionen | security deposit |
-| Mietvertrag | der | Mietverträge | rental contract |
-| Vermieter/in | der/die | — | landlord/landlady |
-| Mieter/in | der/die | — | tenant |
-| Verwaltung | die | — | property management |
-| Hauswart | der | Hauswarte | building caretaker (CH) |
-| Waschküche | die | — | laundry room (CH) |
-| Kündigung | die | — | termination (of lease) |
-| Kündigungsfrist | die | — | notice period |
-| Makler | der | Makler | real estate agent |
-| Besichtigung | die | — | viewing/inspection |
-| Umzug | der | Umzüge | move (relocation) |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Wohnung 🏠 | Wohnungen | apartment |
+| das | Zimmer 🚪 | Zimmer | room |
+| das | Schlafzimmer 🛏️ | Schlafzimmer | bedroom |
+| das | Wohnzimmer 🛋️ | Wohnzimmer | living room |
+| die | Küche 🍳 | Küchen | kitchen |
+| das | Bad / Badezimmer 🛁 | Bäder / Badezimmer | bathroom |
+| der | Balkon 🌇 | Balkone | balcony |
+| der | Keller 🏚️ | Keller | basement/cellar |
+| die | Garage 🚗 | Garagen | garage |
+| das/die | Stockwerk / Etage 🏢 | Stockwerke / Etagen | floor/story |
+| das | Erdgeschoss 🏢 | — | ground floor |
+| die | Miete 💰 | Mieten | rent |
+| die (Pl.) | Nebenkosten 💸 | — | utilities/additional costs |
+| die | Kaution 💰 | Kautionen | security deposit |
+| der | Mietvertrag 📝 | Mietverträge | rental contract |
+| der/die | Vermieter/in 🏠 | — | landlord/landlady |
+| der/die | Mieter/in 🧑 | — | tenant |
+| die | Verwaltung 🏢 | — | property management |
+| der | Hauswart 🔧 | Hauswarte | building caretaker (CH) |
+| die | Waschküche 🧺 | — | laundry room (CH) |
+| die | Kündigung 📄 | — | termination (of lease) |
+| die | Kündigungsfrist ⏰ | — | notice period |
+| der | Makler 🏠 | Makler | real estate agent |
+| die | Besichtigung 🔍 | — | viewing/inspection |
+| der | Umzug 📦 | Umzüge | move (relocation) |
 
-## Nouns — Furniture & Household
+## Substantive (Nouns) — Möbel & Haushalt (Furniture & Household)
 
-| Deutsch | Artikel | English |
-|---------|---------|---------|
-| Möbel | die (Pl.) | furniture |
-| Tisch | der | table |
-| Stuhl | der | chair |
-| Bett | das | bed |
-| Schrank | der | wardrobe/closet |
-| Sofa | das | sofa |
-| Waschmaschine | die | washing machine |
-| Kühlschrank | der | refrigerator |
-| Herd | der | stove |
-| Backofen | der | oven |
-| Geschirrspüler | der | dishwasher |
+| Artikel | Deutsch | Englisch (English) |
+|---------|---------|---------------------|
+| die (Pl.) | Möbel 🪑 | furniture |
+| der | Tisch 🪑 | table |
+| der | Stuhl 🪑 | chair |
+| das | Bett 🛏️ | bed |
+| der | Schrank 🚪 | wardrobe/closet |
+| das | Sofa 🛋️ | sofa |
+| die | Waschmaschine 🧺 | washing machine |
+| der | Kühlschrank 🧊 | refrigerator |
+| der | Herd 🔥 | stove |
+| der | Backofen 🔥 | oven |
+| der | Geschirrspüler 🍽️ | dishwasher |
 
-## Nouns — Neighborhood
+## Substantive (Nouns) — Nachbarschaft (Neighborhood)
 
-| Deutsch | Artikel | English |
-|---------|---------|---------|
-| Nachbar/in | der/die | neighbor |
-| Nachbarschaft | die | neighborhood |
-| Quartier | das | neighborhood/district (CH) |
-| Hauordnung | die | house rules |
-| Lärm | der | noise |
-| Ruhezeiten | die (Pl.) | quiet hours |
-| Mittagsruhe | die | midday quiet time (12–13h) |
-| Nachtruhe | die | nighttime quiet (22–07h) |
-| Mülltrennung | die | waste separation |
-| Abfall | der | waste/garbage |
-| Kehricht | der | garbage (CH) |
-| Recycling | das | recycling |
+| Artikel | Deutsch | Englisch (English) |
+|---------|---------|---------------------|
+| der/die | Nachbar/in 🏘️ | neighbor |
+| die | Nachbarschaft 🏘️ | neighborhood |
+| das | Quartier 🏘️ | neighborhood/district (CH) |
+| die | Hauordnung 📋 | house rules |
+| der | Lärm 🔊 | noise |
+| die (Pl.) | Ruhezeiten 🤫 | quiet hours |
+| die | Mittagsruhe 🤫 | midday quiet time (12–13h) |
+| die | Nachtruhe 🌙 | nighttime quiet (22–07h) |
+| die | Mülltrennung ♻️ | waste separation |
+| der | Abfall 🗑️ | waste/garbage |
+| der | Kehricht 🗑️ | garbage (CH) |
+| das | Recycling ♻️ | recycling |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | mieten | to rent | Ich miete eine 3-Zimmer-Wohnung. |
 | wohnen | to live/reside | Ich wohne in Zürich mit meiner Freundin. |
 | umziehen | to move (relocate) | Wir ziehen bald in eine neue Wohnung in Zürich um. |
@@ -87,10 +87,10 @@ weight: 10
 | einziehen | to move in | Wir ziehen bald in die neue Wohnung ein. |
 | ausziehen | to move out | Wir ziehen aus unserer alten Wohnung in Zürich aus. |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Ich suche eine Wohnung in Zürich. | I'm looking for an apartment in Zurich. |
 | Wie hoch ist die Miete? | How much is the rent? |
 | Sind Nebenkosten inklusive? | Are utilities included? |
@@ -106,7 +106,7 @@ weight: 10
 | Wann ist Waschtag? | When is laundry day? |
 | Wo stelle ich den Abfall hin? | Where do I put the garbage? |
 
-## Process: Finding an Apartment in Switzerland (for speaking)
+## Ablauf: Wohnungssuche in der Schweiz (Process: Finding an Apartment)
 
 1. **Inserate suchen** — search ads (Homegate, Immoscout24, Comparis)
 2. **Bewerbungsunterlagen vorbereiten** — prepare application documents (Betreibungsauszug, Lohnausweis, Ausweiskopie)
@@ -119,7 +119,7 @@ weight: 10
 9. **Einziehen** — move in
 10. **Bei der Gemeinde anmelden** — register at the municipality
 
-## Self-Test
+## Selbsttest (Self-Test)
 
 - [ ] I can describe my apartment/living situation
 - [ ] I can understand a housing ad

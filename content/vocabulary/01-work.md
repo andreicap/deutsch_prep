@@ -5,43 +5,43 @@ weight: 1
 
 > Work conditions, communication at work, workplace situations.
 
-## Nouns
+## Substantive (Nouns)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Arbeit | die | Arbeiten | work, job |
-| Arbeitsplatz | der | Arbeitsplätze | workplace |
-| Arbeitgeber | der | Arbeitgeber | employer |
-| Arbeitnehmer | der | Arbeitnehmer | employee |
-| Arbeitsbedingungen | die (Pl.) | — | working conditions |
-| Arbeitsvertrag | der | Arbeitsverträge | employment contract |
-| Arbeitszeit | die | Arbeitszeiten | working hours |
-| Überstunden | die (Pl.) | — | overtime |
-| Teilzeit | die | — | part-time |
-| Vollzeit | die | — | full-time |
-| Gehalt | das | Gehälter | salary |
-| Lohn | der | Löhne | wage |
-| Ferien | die (Pl.) | — | holidays/vacation (CH) |
-| Urlaub | der | — | holiday/vacation (DE) |
-| Pause | die | Pausen | break |
-| Besprechung | die | Besprechungen | meeting |
-| Sitzung | die | Sitzungen | meeting/session (CH) |
-| Termin | der | Termine | appointment |
-| Aufgabe | die | Aufgaben | task |
-| Projekt | das | Projekte | project |
-| Abteilung | die | Abteilungen | department |
-| Chef/Chefin | der/die | Chefs/Chefinnen | boss |
-| Kollege/Kollegin | der/die | Kollegen/Kolleginnen | colleague |
-| Schicht | die | Schichten | shift |
-| Kündigung | die | Kündigungen | termination/resignation |
-| Weiterbildung | die | Weiterbildungen | further training |
-| Praktikum | das | Praktika | internship |
-| Büro | das | Büros | office |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Arbeit 💼 | Arbeiten | work, job |
+| der | Arbeitsplatz 🏢 | Arbeitsplätze | workplace |
+| der | Arbeitgeber 👔 | Arbeitgeber | employer |
+| der | Arbeitnehmer 👷 | Arbeitnehmer | employee |
+| die (Pl.) | Arbeitsbedingungen 📋 | — | working conditions |
+| der | Arbeitsvertrag 📝 | Arbeitsverträge | employment contract |
+| die | Arbeitszeit ⏰ | Arbeitszeiten | working hours |
+| die (Pl.) | Überstunden ⏱️ | — | overtime |
+| die | Teilzeit 🕐 | — | part-time |
+| die | Vollzeit 🕐 | — | full-time |
+| das | Gehalt 💰 | Gehälter | salary |
+| der | Lohn 💵 | Löhne | wage |
+| die (Pl.) | Ferien 🏖️ | — | holidays/vacation (CH) |
+| der | Urlaub 🌴 | — | holiday/vacation (DE) |
+| die | Pause ☕ | Pausen | break |
+| die | Besprechung 🤝 | Besprechungen | meeting |
+| die | Sitzung 🪑 | Sitzungen | meeting/session (CH) |
+| der | Termin 📅 | Termine | appointment |
+| die | Aufgabe ✅ | Aufgaben | task |
+| das | Projekt 📊 | Projekte | project |
+| die | Abteilung 🏬 | Abteilungen | department |
+| der/die | Chef/Chefin 👩‍💼 | Chefs/Chefinnen | boss |
+| der/die | Kollege/Kollegin 🧑‍🤝‍🧑 | Kollegen/Kolleginnen | colleague |
+| die | Schicht 🔄 | Schichten | shift |
+| die | Kündigung 📄 | Kündigungen | termination/resignation |
+| die | Weiterbildung 📚 | Weiterbildungen | further training |
+| das | Praktikum 🎓 | Praktika | internship |
+| das | Büro 🖥️ | Büros | office |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | arbeiten | to work | Ich arbeite als Data Scientist bei SMG in Zürich. |
 | kündigen | to resign/terminate | Er hat gekündigt. |
 | verdienen | to earn | Sie verdient gut. |
@@ -55,10 +55,10 @@ weight: 1
 | fehlen | to be absent | Er fehlt heute. |
 | leiten | to manage/lead | Sie leitet die Abteilung. |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Ich arbeite als Data Scientist. | I work as a data scientist. |
 | Ich bin bei der Firma SMG angestellt. | I'm employed at the company SMG. |
 | Ich arbeite seit… Jahren dort. | I've worked there for… years. |
@@ -70,10 +70,10 @@ weight: 1
 | Können wir das besprechen? | Can we discuss that? |
 | Ich bin krank und kann heute nicht kommen. | I'm sick and can't come today. |
 
-## Self-Test
+## Selbsttest (Self-Test)
 
 Cover the English column and try to translate each word. Mark the ones you miss and review them again tomorrow.
 
-- [ ] I can name 20+ work-related nouns
-- [ ] I can conjugate the 12 work verbs in present tense
+- [ ] I can name 20+ work-related Substantive (nouns)
+- [ ] I can conjugate the 12 work Verben (verbs) in present tense
 - [ ] I can use 5+ work phrases in a sentence from memory

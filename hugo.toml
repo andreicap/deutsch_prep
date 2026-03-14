@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://andreicap.github.io/deutsch_prep/'
 languageCode = 'de'
 title = 'Deutsch Prep — SDS Exam'
 theme = 'PaperMod'

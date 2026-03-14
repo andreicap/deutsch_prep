@@ -5,40 +5,40 @@ weight: 4
 
 > Shops, advertisements, online shopping, prices, returns.
 
-## Nouns
+## Substantive (Nouns)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Geschäft | das | Geschäfte | shop/store |
-| Laden | der | Läden | shop/store |
-| Supermarkt | der | Supermärkte | supermarket |
-| Einkaufszentrum | das | Einkaufszentren | shopping center |
-| Markt | der | Märkte | market |
-| Kasse | die | Kassen | checkout/register |
-| Quittung | die | Quittungen | receipt |
-| Angebot | das | Angebote | offer/deal |
-| Rabatt | der | Rabatte | discount |
-| Aktion | die | Aktionen | special offer/promotion (CH) |
-| Preis | der | Preise | price |
-| Werbung | die | — | advertising |
-| Grösse | die | Grössen | size |
-| Umtausch | der | — | exchange |
-| Rückgabe | die | — | return |
-| Garantie | die | Garantien | warranty |
-| Bestellung | die | Bestellungen | order |
-| Lieferung | die | Lieferungen | delivery |
-| Rechnung | die | Rechnungen | invoice/bill |
-| Ware | die | Waren | goods |
-| Kunde/Kundin | der/die | Kunden/Kundinnen | customer |
-| Verkäufer/in | der/die | — | salesperson |
-| Einkaufsliste | die | — | shopping list |
-| Sonderangebot | das | Sonderangebote | special offer |
-| Verpackung | die | Verpackungen | packaging |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| das | Geschäft 🏪 | Geschäfte | shop/store |
+| der | Laden 🛒 | Läden | shop/store |
+| der | Supermarkt 🛒 | Supermärkte | supermarket |
+| das | Einkaufszentrum 🏬 | Einkaufszentren | shopping center |
+| der | Markt 🏪 | Märkte | market |
+| die | Kasse 💳 | Kassen | checkout/register |
+| die | Quittung 🧾 | Quittungen | receipt |
+| das | Angebot 🏷️ | Angebote | offer/deal |
+| der | Rabatt 💲 | Rabatte | discount |
+| die | Aktion 🏷️ | Aktionen | special offer/promotion (CH) |
+| der | Preis 💰 | Preise | price |
+| die | Werbung 📢 | — | advertising |
+| die | Grösse 📏 | Grössen | size |
+| der | Umtausch 🔄 | — | exchange |
+| die | Rückgabe ↩️ | — | return |
+| die | Garantie 🛡️ | Garantien | warranty |
+| die | Bestellung 📦 | Bestellungen | order |
+| die | Lieferung 🚚 | Lieferungen | delivery |
+| die | Rechnung 🧾 | Rechnungen | invoice/bill |
+| die | Ware 📦 | Waren | goods |
+| der/die | Kunde/Kundin 🧑 | Kunden/Kundinnen | customer |
+| der/die | Verkäufer/in 🧑‍💼 | — | salesperson |
+| die | Einkaufsliste 📝 | — | shopping list |
+| das | Sonderangebot 🏷️ | Sonderangebote | special offer |
+| die | Verpackung 📦 | Verpackungen | packaging |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | kaufen | to buy | Ich kaufe Brot und Milch. |
 | einkaufen | to go shopping | Ich gehe am Samstag einkaufen. |
 | verkaufen | to sell | Er verkauft Gemüse auf dem Markt. |
@@ -52,10 +52,10 @@ weight: 4
 | probieren | to try (on/out) | Kann ich das probieren? |
 | suchen | to look for | Ich suche eine Winterjacke. |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Wie viel kostet das? | How much does this cost? |
 | Haben Sie das in einer anderen Grösse? | Do you have this in a different size? |
 | Kann ich mit Karte bezahlen? | Can I pay by card? |
@@ -70,22 +70,22 @@ weight: 4
 | Das passt nicht. | It doesn't fit. |
 | Ist das im Angebot? | Is that on offer? |
 
-## Online Shopping Vocabulary
+## Online-Einkauf Wortschatz (Online Shopping Vocabulary)
 
-| Deutsch | English |
-|---------|---------|
-| Warenkorb | shopping cart |
-| Versandkosten | shipping costs |
-| Zahlungsart | payment method |
-| Rücksendung | return shipment |
-| Kundenkonto | customer account |
-| Passwort | password |
-| Bewertung | review/rating |
+| Deutsch | Englisch (English) |
+|---------|--------------------|
+| Warenkorb 🛒 | shopping cart |
+| Versandkosten 📦 | shipping costs |
+| Zahlungsart 💳 | payment method |
+| Rücksendung ↩️ | return shipment |
+| Kundenkonto 👤 | customer account |
+| Passwort 🔑 | password |
+| Bewertung ⭐ | review/rating |
 | Verfügbar / nicht verfügbar | available / not available |
 
-## Self-Test
+## Selbsttest (Self-Test)
 
 - [ ] I can handle a basic shopping conversation (ask price, size, pay)
 - [ ] I can understand a product ad or promotion
-- [ ] I know online shopping vocabulary
+- [ ] I know Online-Einkauf Wortschatz (online shopping vocabulary)
 - [ ] I can write 3 sentences about a recent purchase

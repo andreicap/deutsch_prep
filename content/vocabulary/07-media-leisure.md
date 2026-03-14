@@ -5,65 +5,65 @@ weight: 7
 
 > Hobbies, travel, media consumption, sports, entertainment.
 
-## Nouns — Hobbies & Leisure
+## Substantive (Nouns) — Hobbys & Freizeit (Hobbies & Leisure)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Hobby | das | Hobbys | hobby |
-| Freizeit | die | — | free time |
-| Sport | der | — | sport |
-| Musik | die | — | music |
-| Film | der | Filme | movie |
-| Buch | das | Bücher | book |
-| Zeitung | die | Zeitungen | newspaper |
-| Zeitschrift | die | Zeitschriften | magazine |
-| Verein | der | Vereine | club/association |
-| Kurs | der | Kurse | course/class |
-| Konzert | das | Konzerte | concert |
-| Theater | das | Theater | theater |
-| Museum | das | Museen | museum |
-| Restaurant | das | Restaurants | restaurant |
-| Ausflug | der | Ausflüge | excursion/trip |
-| Wanderung | die | Wanderungen | hike |
-| Spaziergang | der | Spaziergänge | walk/stroll |
-| Schwimmbad | das | Schwimmbäder | swimming pool |
-| Fitness / Fitnessstudio | das | — | gym |
-| Bibliothek | die | Bibliotheken | library |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| das | Hobby 🎨 | Hobbys | hobby |
+| die | Freizeit ⏰ | — | free time |
+| der | Sport ⚽ | — | sport |
+| die | Musik 🎵 | — | music |
+| der | Film 🎬 | Filme | movie |
+| das | Buch 📖 | Bücher | book |
+| die | Zeitung 📰 | Zeitungen | newspaper |
+| die | Zeitschrift 📰 | Zeitschriften | magazine |
+| der | Verein 🏟️ | Vereine | club/association |
+| der | Kurs 📚 | Kurse | course/class |
+| das | Konzert 🎶 | Konzerte | concert |
+| das | Theater 🎭 | Theater | theater |
+| das | Museum 🏛️ | Museen | museum |
+| das | Restaurant 🍽️ | Restaurants | restaurant |
+| der | Ausflug 🚌 | Ausflüge | excursion/trip |
+| die | Wanderung 🥾 | Wanderungen | hike |
+| der | Spaziergang 🚶 | Spaziergänge | walk/stroll |
+| das | Schwimmbad 🏊 | Schwimmbäder | swimming pool |
+| das | Fitness / Fitnessstudio 🏋️ | — | gym |
+| die | Bibliothek 📚 | Bibliotheken | library |
 
-## Nouns — Travel
+## Substantive (Nouns) — Reisen (Travel)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Reise | die | Reisen | trip/journey |
-| Ferien | die (Pl.) | — | vacation/holiday (CH) |
-| Urlaub | der | — | vacation/holiday (DE) |
-| Hotel | das | Hotels | hotel |
-| Flug | der | Flüge | flight |
-| Koffer | der | Koffer | suitcase |
-| Sehenswürdigkeit | die | Sehenswürdigkeiten | sight/attraction |
-| Strand | der | Strände | beach |
-| Berge | die (Pl.) | — | mountains |
-| Unterkunft | die | Unterkünfte | accommodation |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Reise ✈️ | Reisen | trip/journey |
+| die (Pl.) | Ferien 🏖️ | — | vacation/holiday (CH) |
+| der | Urlaub 🌴 | — | vacation/holiday (DE) |
+| das | Hotel 🏨 | Hotels | hotel |
+| der | Flug ✈️ | Flüge | flight |
+| der | Koffer 🧳 | Koffer | suitcase |
+| die | Sehenswürdigkeit 🗿 | Sehenswürdigkeiten | sight/attraction |
+| der | Strand 🏖️ | Strände | beach |
+| die (Pl.) | Berge ⛰️ | — | mountains |
+| die | Unterkunft 🏠 | Unterkünfte | accommodation |
 
-## Nouns — Media
+## Substantive (Nouns) — Medien (Media)
 
-| Deutsch | Artikel | English |
-|---------|---------|---------|
-| Nachrichten | die (Pl.) | news |
-| Fernsehen | das | television |
-| Radio | das | radio |
-| Internet | das | internet |
-| Handy | das | mobile phone |
-| App | die | app |
-| Soziale Medien | die (Pl.) | social media |
-| Podcast | der | podcast |
-| Sendung | die | TV/radio program |
-| Werbung | die | advertisement |
+| Artikel | Deutsch | Englisch (English) |
+|---------|---------|---------------------|
+| die (Pl.) | Nachrichten 📰 | news |
+| das | Fernsehen 📺 | television |
+| das | Radio 📻 | radio |
+| das | Internet 🌐 | internet |
+| das | Handy 📱 | mobile phone |
+| die | App 📲 | app |
+| die (Pl.) | Soziale Medien 📱 | social media |
+| der | Podcast 🎙️ | podcast |
+| die | Sendung 📺 | TV/radio program |
+| die | Werbung 📢 | advertisement |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | lesen | to read | Ich lese gerne Bücher. |
 | wandern | to hike | Am Wochenende wandere ich in den Bergen. |
 | schwimmen | to swim | Im Sommer schwimme ich im Zürichsee. |
@@ -79,10 +79,10 @@ weight: 7
 | teilnehmen (an) | to participate (in) | Ich nehme an einem Deutschkurs teil. |
 | verbringen | to spend (time) | Ich verbringe gerne Zeit mit meiner Freundin. |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | In meiner Freizeit spiele ich Volleyball und Schach. | In my free time I play volleyball and chess. |
 | Meine Hobbys sind Skifahren, Fussball und Reisen. | My hobbies are skiing, football and traveling. |
 | Am Wochenende gehe ich gerne in ein Restaurant. | On the weekend I like to go to a restaurant. |
@@ -96,7 +96,7 @@ weight: 7
 | Im Winter fahre ich Ski in den Alpen. | In winter I go skiing in the Alps. |
 | Ich reise oft — ich war schon in vielen Ländern. | I travel often — I've been to many countries. |
 
-## Speaking Practice — Describe Your Free Time (2 min)
+## Sprechübung (Speaking Practice) — Freizeit beschreiben (Describe Your Free Time) (2 Min.)
 
 Structure:
 1. What you like to do (skiing, volleyball, football, chess, restaurants, traveling)
@@ -104,9 +104,9 @@ Structure:
 3. With whom (Freundin, Freunde, Kollegen)
 4. Why you enjoy it
 
-## Self-Test
+## Selbsttest (Self-Test)
 
 - [ ] I can talk about 3+ hobbies for 2 minutes
 - [ ] I can describe a recent trip
-- [ ] I know media vocabulary (TV, internet, news)
+- [ ] I know Medien-Wortschatz (media vocabulary) (TV, internet, news)
 - [ ] I can invite someone to an activity in German

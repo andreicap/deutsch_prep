@@ -5,56 +5,56 @@ weight: 5
 
 > Doctor visits, symptoms, healthy eating, pharmacy, emergencies.
 
-## Nouns — Body & Health
+## Substantive (Nouns) — Körper & Gesundheit (Body & Health)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Arzt/Ärztin | der/die | Ärzte/Ärztinnen | doctor |
-| Hausarzt | der | Hausärzte | family doctor / GP |
-| Zahnarzt | der | Zahnärzte | dentist |
-| Apotheke | die | Apotheken | pharmacy |
-| Krankenhaus | das | Krankenhäuser | hospital |
-| Spital | das | Spitäler | hospital (CH) |
-| Notfall | der | Notfälle | emergency |
-| Praxis | die | Praxen | doctor's office/practice |
-| Rezept | das | Rezepte | prescription |
-| Medikament | das | Medikamente | medication |
-| Tablette | die | Tabletten | tablet/pill |
-| Schmerzen | die (Pl.) | — | pain |
-| Kopfschmerzen | die (Pl.) | — | headache |
-| Bauchschmerzen | die (Pl.) | — | stomach ache |
-| Rückenschmerzen | die (Pl.) | — | back pain |
-| Fieber | das | — | fever |
-| Erkältung | die | Erkältungen | cold |
-| Grippe | die | — | flu |
-| Husten | der | — | cough |
-| Schnupfen | der | — | runny nose |
-| Allergie | die | Allergien | allergy |
-| Untersuchung | die | Untersuchungen | examination |
-| Behandlung | die | Behandlungen | treatment |
-| Impfung | die | Impfungen | vaccination |
-| Krankschreibung | die | — | sick note |
-| Termin | der | Termine | appointment |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| der/die | Arzt/Ärztin 👨‍⚕️ | Ärzte/Ärztinnen | doctor |
+| der | Hausarzt 🏥 | Hausärzte | family doctor / GP |
+| der | Zahnarzt 🦷 | Zahnärzte | dentist |
+| die | Apotheke 💊 | Apotheken | pharmacy |
+| das | Krankenhaus 🏥 | Krankenhäuser | hospital |
+| das | Spital 🏥 | Spitäler | hospital (CH) |
+| der | Notfall 🚨 | Notfälle | emergency |
+| die | Praxis 🏥 | Praxen | doctor's office/practice |
+| das | Rezept 📋 | Rezepte | prescription |
+| das | Medikament 💊 | Medikamente | medication |
+| die | Tablette 💊 | Tabletten | tablet/pill |
+| die (Pl.) | Schmerzen 😣 | — | pain |
+| die (Pl.) | Kopfschmerzen 🤕 | — | headache |
+| die (Pl.) | Bauchschmerzen 🤢 | — | stomach ache |
+| die (Pl.) | Rückenschmerzen 😣 | — | back pain |
+| das | Fieber 🌡️ | — | fever |
+| die | Erkältung 🤧 | Erkältungen | cold |
+| die | Grippe 🤒 | — | flu |
+| der | Husten 😷 | — | cough |
+| der | Schnupfen 🤧 | — | runny nose |
+| die | Allergie 🤧 | Allergien | allergy |
+| die | Untersuchung 🔍 | Untersuchungen | examination |
+| die | Behandlung 🩺 | Behandlungen | treatment |
+| die | Impfung 💉 | Impfungen | vaccination |
+| die | Krankschreibung 📋 | — | sick note |
+| der | Termin 📅 | Termine | appointment |
 
-## Nouns — Healthy Eating
+## Substantive (Nouns) — Gesunde Ernährung (Healthy Eating)
 
-| Deutsch | Artikel | English |
-|---------|---------|---------|
-| Ernährung | die | nutrition/diet |
-| Gemüse | das | vegetables |
-| Obst | das | fruit |
-| Fleisch | das | meat |
-| Fisch | der | fish |
-| Getreide | das | grains/cereals |
-| Milchprodukte | die (Pl.) | dairy products |
-| Zucker | der | sugar |
-| Fett | das | fat |
-| Vitamine | die (Pl.) | vitamins |
+| Artikel | Deutsch | Englisch (English) |
+|---------|---------|---------------------|
+| die | Ernährung 🥗 | nutrition/diet |
+| das | Gemüse 🥦 | vegetables |
+| das | Obst 🍎 | fruit |
+| das | Fleisch 🥩 | meat |
+| der | Fisch 🐟 | fish |
+| das | Getreide 🌾 | grains/cereals |
+| die (Pl.) | Milchprodukte 🥛 | dairy products |
+| der | Zucker 🍬 | sugar |
+| das | Fett 🧈 | fat |
+| die (Pl.) | Vitamine 💊 | vitamins |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | wehtun | to hurt | Mein Kopf tut weh. |
 | sich fühlen | to feel | Ich fühle mich nicht gut. |
 | husten | to cough | Er hustet seit einer Woche. |
@@ -67,10 +67,10 @@ weight: 5
 | überweisen | to refer (to specialist) | Der Hausarzt hat mich überwiesen. |
 | bluten | to bleed | Die Wunde blutet. |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Ich möchte einen Termin vereinbaren. | I'd like to make an appointment. |
 | Ich bin krank. | I'm sick. |
 | Ich habe Schmerzen hier. | I have pain here. |
@@ -85,7 +85,7 @@ weight: 5
 | Ich esse gesund. | I eat healthily. |
 | Man sollte viel Wasser trinken. | One should drink a lot of water. |
 
-## Process: Going to the Doctor (for speaking practice)
+## Ablauf: Arztbesuch (Process: Going to the Doctor)
 
 1. **Termin vereinbaren** — call and make an appointment
 2. **Zur Praxis gehen** — go to the practice, check in (Anmeldung)
@@ -96,7 +96,7 @@ weight: 5
 7. **Apotheke** — go to pharmacy, get medication
 8. **Krankschreibung** — get a sick note for your employer
 
-## Self-Test
+## Selbsttest (Self-Test)
 
 - [ ] I can describe 5+ symptoms in German
 - [ ] I can make a doctor's appointment by phone

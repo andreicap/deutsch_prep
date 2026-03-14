@@ -5,68 +5,68 @@ weight: 8
 
 > Postal services, banking, e-banking, health insurance, financial transactions.
 
-## Nouns — Post
+## Substantive (Nouns) — Post (Mail)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Post | die | — | post office / mail |
-| Brief | der | Briefe | letter |
-| Paket | das | Pakete | package |
-| Briefmarke | die | Briefmarken | stamp |
-| Absender | der | Absender | sender |
-| Empfänger | der | Empfänger | recipient |
-| Einschreiben | das | Einschreiben | registered letter |
-| Postfach | das | Postfächer | PO box |
-| Nachsendeauftrag | der | — | mail forwarding order |
-| Sendungsverfolgung | die | — | tracking |
-| Zustellung | die | — | delivery |
-| Briefkasten | der | Briefkästen | mailbox |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Post 📮 | — | post office / mail |
+| der | Brief ✉️ | Briefe | letter |
+| das | Paket 📦 | Pakete | package |
+| die | Briefmarke 📮 | Briefmarken | stamp |
+| der | Absender 📤 | Absender | sender |
+| der | Empfänger 📥 | Empfänger | recipient |
+| das | Einschreiben 📬 | Einschreiben | registered letter |
+| das | Postfach 📬 | Postfächer | PO box |
+| der | Nachsendeauftrag 📨 | — | mail forwarding order |
+| die | Sendungsverfolgung 🔍 | — | tracking |
+| die | Zustellung 🚚 | — | delivery |
+| der | Briefkasten 📪 | Briefkästen | mailbox |
 
-## Nouns — Bank & Finance
+## Substantive (Nouns) — Bank & Finanzen (Bank & Finance)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Bank | die | Banken | bank |
-| Konto | das | Konten | account |
-| Girokonto | das | Girokonten | checking account |
-| Sparkonto | das | Sparkonten | savings account |
-| Überweisung | die | Überweisungen | bank transfer |
-| Kreditkarte | die | Kreditkarten | credit card |
-| Bankkarte | die | Bankkarten | debit card |
-| Geldautomat | der | Geldautomaten | ATM |
-| Bankomat | der | Bankomaten | ATM (CH) |
-| Zins | der | Zinsen | interest |
-| Gebühr | die | Gebühren | fee |
-| Kredit | der | Kredite | loan/credit |
-| Schulden | die (Pl.) | — | debts |
-| Kontoauszug | der | Kontoauszüge | bank statement |
-| IBAN | die | — | IBAN number |
-| Einzahlungsschein | der | — | payment slip (CH) |
-| E-Banking | das | — | online banking |
-| TWINT | — | — | Swiss mobile payment app |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Bank 🏦 | Banken | bank |
+| das | Konto 🏦 | Konten | account |
+| das | Girokonto 🏦 | Girokonten | checking account |
+| das | Sparkonto 💰 | Sparkonten | savings account |
+| die | Überweisung 💸 | Überweisungen | bank transfer |
+| die | Kreditkarte 💳 | Kreditkarten | credit card |
+| die | Bankkarte 💳 | Bankkarten | debit card |
+| der | Geldautomat 🏧 | Geldautomaten | ATM |
+| der | Bankomat 🏧 | Bankomaten | ATM (CH) |
+| der | Zins 📈 | Zinsen | interest |
+| die | Gebühr 💰 | Gebühren | fee |
+| der | Kredit 💰 | Kredite | loan/credit |
+| die (Pl.) | Schulden 💸 | — | debts |
+| der | Kontoauszug 📄 | Kontoauszüge | bank statement |
+| die | IBAN 🔢 | — | IBAN number |
+| der | Einzahlungsschein 📄 | — | payment slip (CH) |
+| das | E-Banking 💻 | — | online banking |
+| — | TWINT 📱 | — | Swiss mobile payment app |
 
-## Nouns — Insurance
+## Substantive (Nouns) — Versicherung (Insurance)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Versicherung | die | Versicherungen | insurance |
-| Krankenkasse | die | Krankenkassen | health insurance (CH) |
-| Grundversicherung | die | — | basic health insurance (CH) |
-| Zusatzversicherung | die | — | supplementary insurance |
-| Prämie | die | Prämien | premium |
-| Franchise | die | Franchisen | deductible (CH) |
-| Selbstbehalt | der | — | co-payment |
-| Unfallversicherung | die | — | accident insurance |
-| Haftpflichtversicherung | die | — | liability insurance |
-| Hausratversicherung | die | — | household contents insurance |
-| Police | die | Policen | policy |
-| Schadenfall | der | Schadenfälle | claim/damage case |
-| Leistung | die | Leistungen | benefit/service |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Versicherung 🛡️ | Versicherungen | insurance |
+| die | Krankenkasse 🏥 | Krankenkassen | health insurance (CH) |
+| die | Grundversicherung 🛡️ | — | basic health insurance (CH) |
+| die | Zusatzversicherung 🛡️ | — | supplementary insurance |
+| die | Prämie 💰 | Prämien | premium |
+| die | Franchise 💰 | Franchisen | deductible (CH) |
+| der | Selbstbehalt 💰 | — | co-payment |
+| die | Unfallversicherung 🚑 | — | accident insurance |
+| die | Haftpflichtversicherung 🛡️ | — | liability insurance |
+| die | Hausratversicherung 🏠 | — | household contents insurance |
+| die | Police 📄 | Policen | policy |
+| der | Schadenfall ⚠️ | Schadenfälle | claim/damage case |
+| die | Leistung 📋 | Leistungen | benefit/service |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | überweisen | to transfer (money) | Ich überweise das Geld. |
 | einzahlen | to deposit | Ich möchte Geld einzahlen. |
 | abheben | to withdraw | Ich hebe 200 Franken ab. |
@@ -79,10 +79,10 @@ weight: 8
 | bezahlen | to pay | Ich bezahle die Rechnung. |
 | sparen | to save | Ich spare jeden Monat 500 Franken. |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Ich möchte ein Paket schicken. | I'd like to send a package. |
 | Was kostet der Versand nach…? | How much is shipping to…? |
 | Ich möchte ein Konto eröffnen. | I'd like to open an account. |
@@ -96,7 +96,7 @@ weight: 8
 | Deckt die Versicherung das? | Does the insurance cover that? |
 | Bis wann muss ich bezahlen? | By when do I have to pay? |
 
-## Swiss-Specific: Health Insurance (Krankenkasse)
+## Schweizspezifisch: Krankenkasse (Swiss-Specific: Health Insurance)
 
 Key facts for conversation:
 - **Grundversicherung** (basic insurance) is mandatory in Switzerland
@@ -105,7 +105,7 @@ Key facts for conversation:
 - You can **switch** your Krankenkasse every year (by November 30 for January 1)
 - Common providers: CSS, Helsana, Swica, Concordia, Visana, Groupe Mutuel
 
-## Self-Test
+## Selbsttest (Self-Test)
 
 - [ ] I can handle a post office transaction (send package, buy stamps)
 - [ ] I can talk about my bank account and do basic e-banking

@@ -1,15 +1,15 @@
 ---
-title: "Writing Strategies for SDS"
+title: "Schreibstrategien für SDS (Writing Strategies for SDS)"
 weight: 50
 ---
 
-## Core Principle: Complete All Parts of the Prompt
+## Kernprinzip (Core Principle): Complete All Parts of the Prompt
 
 The #1 mistake in SDS writing: **not answering all parts of the prompt**. If the prompt says "apologize, explain why, suggest a new date" — you MUST do all three.
 
 ---
 
-## Strategy 1: Read the Prompt Twice
+## Strategie 1 (Strategy 1): Read the Prompt Twice
 
 Before writing:
 1. Read the prompt once to understand the situation
@@ -19,7 +19,7 @@ Before writing:
 Example prompt: *"Write an email to your boss. Ask for vacation. Say when and how long. Give a reason."*
 → Tasks: (1) ask for vacation (2) say when (3) say how long (4) give a reason = **4 items to include**
 
-## Strategy 2: Use a Template
+## Strategie 2 (Strategy 2): Use a Template
 
 For emails, always use the same structure:
 
@@ -37,24 +37,24 @@ Gruss (Sign-off)
 
 This structure works for A2, B1, AND B2 — just with more complexity at higher levels.
 
-## Strategy 3: Keep Sentences Short
+## Strategie 3 (Strategy 3): Keep Sentences Short
 
 At A2/B1 level:
 - 1 idea per sentence
-- Use simple connectors: und, aber, weil, deshalb, dann
+- Use simple Konnektoren (connectors): und, aber, weil, deshalb, dann
 - Avoid long subordinate clauses if you're not confident
 
 At B2 level:
-- Combine sentences with connectors: obwohl, trotzdem, einerseits/andererseits
+- Combine sentences with Konnektoren (connectors): obwohl, trotzdem, einerseits/andererseits
 - Use relative clauses: *Die Firma, bei der ich arbeite, bietet Weiterbildungen an.*
 - Show range: alternate between simple and complex sentences
 
-## Strategy 4: Formal vs. Informal
+## Strategie 4 (Strategy 4): Formell vs. Informell (Formal vs. Informal)
 
 Know which register to use:
 
-| Formal (Sie) | Informal (du) |
-|--------------|---------------|
+| Formell (Formal) — Sie | Informell (Informal) — du |
+|-------------------------|---------------------------|
 | Employer, landlord, school, authority | Friend, close colleague, family |
 | Sehr geehrte/r… | Liebe/r… or Hallo… |
 | Könnten Sie… / Ich würde gerne… | Kannst du… / Ich möchte… |
@@ -62,7 +62,7 @@ Know which register to use:
 
 **When in doubt, use formal.** It's never wrong to be too polite.
 
-## Strategy 5: Pro/Contra Structure (B2)
+## Strategie 5 (Strategy 5): Pro/Contra-Struktur (B2)
 
 For opinion texts, use this template:
 
@@ -77,24 +77,24 @@ Target: ~200 words. Practice until you can write this in 15–20 minutes.
 
 ---
 
-## Common Mistakes to Avoid
+## Häufige Fehler (Common Mistakes to Avoid)
 
-| Mistake | Fix |
-|---------|-----|
-| Forgetting the greeting | Always start with Sehr geehrte/r… or Liebe/r… |
-| Forgetting the sign-off | Always end with Freundliche Grüsse + your name |
+| Fehler (Mistake) | Lösung (Fix) |
+|-------------------|---------------|
+| Forgetting the Anrede (greeting) | Always start with Sehr geehrte/r… or Liebe/r… |
+| Forgetting the Grussformel (sign-off) | Always end with Freundliche Grüsse + your name |
 | Not answering all parts | Count the tasks in the prompt before writing |
-| Wrong register | Formal for authority/employer, informal for friends |
-| No connectors | Use at least 3 connectors per email |
-| Noun not capitalized | ALL German nouns start with a capital letter |
-| Missing umlauts | Practice typing ä, ö, ü on a tablet keyboard |
+| Wrong register | Formell (formal) for authority/employer, informell (informal) for friends |
+| No Konnektoren (connectors) | Use at least 3 Konnektoren (connectors) per email |
+| Substantiv (Noun) not capitalized | ALL German Substantive (nouns) start with a capital letter |
+| Missing Umlaute | Practice typing ä, ö, ü on a tablet keyboard |
 
 ---
 
-## Practice Schedule
+## Übungsplan (Practice Schedule)
 
-| Type | Frequency | Target |
-|------|-----------|--------|
+| Typ (Type) | Häufigkeit (Frequency) | Ziel (Target) |
+|------------|------------------------|---------------|
 | Short emails (A2) | 2x per week | 20 total before exam |
 | Job-related emails (B1) | 2x per week | 10 total before exam |
 | Pro/contra texts (B2) | 1x per week | 5 total before exam |

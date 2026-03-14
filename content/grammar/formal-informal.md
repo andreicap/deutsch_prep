@@ -1,5 +1,5 @@
 ---
-title: "Formal vs. Informal Register (Sie vs. Du)"
+title: "Formell vs. Informell (Formal vs. Informal) — Sie vs. Du"
 weight: 50
 ---
 
@@ -7,10 +7,10 @@ weight: 50
 
 ---
 
-## When to Use Formal (Sie)
+## Wann formell? (When to Use Formal — Sie)
 
-| Situation | Example recipient |
-|-----------|------------------|
+| Situation | Beispiel (Example Recipient) |
+|-----------|------------------------------|
 | Employer / boss | Arbeitgeber, Chef/in |
 | Authorities / offices | Gemeinde, Migrationsamt, Krankenkasse |
 | Landlord / property management | Vermieter, Verwaltung |
@@ -22,10 +22,10 @@ weight: 50
 
 **Rule of thumb**: If you don't know the person well, or it's a professional/official context → **use Sie**.
 
-## When to Use Informal (du)
+## Wann informell? (When to Use Informal — du)
 
-| Situation | Example recipient |
-|-----------|------------------|
+| Situation | Beispiel (Example Recipient) |
+|-----------|------------------------------|
 | Friends | Freunde, Bekannte |
 | Close colleagues | Arbeitskollegen (if they offer "du") |
 | Family | Familie, Verwandte |
@@ -37,45 +37,45 @@ weight: 50
 
 ---
 
-## Key Differences
+## Wichtige Unterschiede (Key Differences)
 
-### Pronouns
+### Pronomen (Pronouns)
 
-| Formal | Informal |
-|--------|----------|
+| Formell (Formal) | Informell (Informal) |
+|-------------------|----------------------|
 | **Sie** (always capitalized) | **du** (lowercase in emails) |
 | **Ihr** (your) | **dein** (your) |
 | **Ihnen** (to you) | **dir** (to you) |
 
-### Verb Forms
+### Verbformen (Verb Forms)
 
-| Formal | Informal |
-|--------|----------|
+| Formell (Formal) | Informell (Informal) |
+|-------------------|----------------------|
 | Sie **haben** | du **hast** |
 | Sie **sind** | du **bist** |
 | Sie **können** | du **kannst** |
 | Sie **möchten** | du **möchtest** |
 | Sie **wissen** | du **weisst** |
 
-### Greetings
+### Begrüssungen (Greetings)
 
-| Formal | Informal |
-|--------|----------|
+| Formell (Formal) | Informell (Informal) |
+|-------------------|----------------------|
 | Sehr geehrte Frau/Herr… | Liebe/Lieber… |
 | Guten Tag | Hallo / Hi |
 
-### Sign-Offs
+### Grussformeln (Sign-Offs)
 
-| Formal | Informal |
-|--------|----------|
+| Formell (Formal) | Informell (Informal) |
+|-------------------|----------------------|
 | Freundliche Grüsse | Liebe Grüsse |
 | Mit freundlichen Grüssen | Viele Grüsse / LG |
 | Mit besten Grüssen | Bis bald / Tschüss |
 
-### Requests
+### Bitten (Requests)
 
-| Formal | Informal |
-|--------|----------|
+| Formell (Formal) | Informell (Informal) |
+|-------------------|----------------------|
 | Könnten **Sie** mir bitte…? | Kannst **du** mir bitte…? |
 | Ich bitte **Sie** um… | Ich bitte **dich** um… |
 | Wäre es möglich, dass **Sie**…? | Wäre es möglich, dass **du**…? |
@@ -83,9 +83,9 @@ weight: 50
 
 ---
 
-## Side-by-Side: Same Email in Formal vs. Informal
+## Vergleich: Gleiche E-Mail formell vs. informell (Side-by-Side Comparison)
 
-### Formal (to employer)
+### Formell — an den Arbeitgeber (Formal — to Employer)
 
 > *Sehr geehrte Frau Berger,*
 >
@@ -98,7 +98,7 @@ weight: 50
 > *Freundliche Grüsse*
 > *Andrei Capastru*
 
-### Informal (to colleague/friend)
+### Informell — an Kollegen/Freund (Informal — to Colleague/Friend)
 
 > *Hallo Marco,*
 >
@@ -111,7 +111,7 @@ weight: 50
 
 ---
 
-## SDS Exam Tip
+## SDS-Prüfungstipp (Exam Tip)
 
 **When in doubt → formal.** In the SDS, most writing prompts involve professional/official situations. Using formal register shows competence and is never wrong. Being too informal in a formal context loses points.
 

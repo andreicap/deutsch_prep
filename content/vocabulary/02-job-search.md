@@ -5,38 +5,38 @@ weight: 2
 
 > Job ads, applications, interviews, CVs.
 
-## Nouns
+## Substantive (Nouns)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Bewerbung | die | Bewerbungen | application |
-| Lebenslauf | der | Lebensläufe | CV/resume |
-| Bewerbungsschreiben | das | — | cover letter |
-| Stellenanzeige | die | Stellenanzeigen | job advertisement |
-| Stelle | die | Stellen | position/job |
-| Vorstellungsgespräch | das | Vorstellungsgespräche | job interview |
-| Anforderung | die | Anforderungen | requirement |
-| Erfahrung | die | Erfahrungen | experience |
-| Ausbildung | die | Ausbildungen | education/training |
-| Beruf | der | Berufe | profession |
-| Qualifikation | die | Qualifikationen | qualification |
-| Zeugnis | das | Zeugnisse | certificate/reference |
-| Referenz | die | Referenzen | reference |
-| Anstellung | die | Anstellungen | employment |
-| Arbeitsbewilligung | die | Arbeitsbewilligungen | work permit |
-| Probezeit | die | Probezeiten | probation period |
-| Branche | die | Branchen | industry/sector |
-| Kenntnisse | die (Pl.) | — | knowledge/skills |
-| Sprachkenntnisse | die (Pl.) | — | language skills |
-| Führerschein | der | Führerscheine | driver's license |
-| Pensum | das | Pensen | workload percentage (CH) |
-| Absage | die | Absagen | rejection |
-| Zusage | die | Zusagen | acceptance/offer |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| die | Bewerbung 📨 | Bewerbungen | application |
+| der | Lebenslauf 📄 | Lebensläufe | CV/resume |
+| das | Bewerbungsschreiben ✉️ | — | cover letter |
+| die | Stellenanzeige 📰 | Stellenanzeigen | job advertisement |
+| die | Stelle 💼 | Stellen | position/job |
+| das | Vorstellungsgespräch 🗣️ | Vorstellungsgespräche | job interview |
+| die | Anforderung 📋 | Anforderungen | requirement |
+| die | Erfahrung 🧠 | Erfahrungen | experience |
+| die | Ausbildung 🎓 | Ausbildungen | education/training |
+| der | Beruf 👔 | Berufe | profession |
+| die | Qualifikation 🏅 | Qualifikationen | qualification |
+| das | Zeugnis 📜 | Zeugnisse | certificate/reference |
+| die | Referenz 📎 | Referenzen | reference |
+| die | Anstellung 🤝 | Anstellungen | employment |
+| die | Arbeitsbewilligung 🪪 | Arbeitsbewilligungen | work permit |
+| die | Probezeit ⏳ | Probezeiten | probation period |
+| die | Branche 🏭 | Branchen | industry/sector |
+| die (Pl.) | Kenntnisse 🧠 | — | knowledge/skills |
+| die (Pl.) | Sprachkenntnisse 🗣️ | — | language skills |
+| der | Führerschein 🚗 | Führerscheine | driver's license |
+| das | Pensum 📊 | Pensen | workload percentage (CH) |
+| die | Absage ❌ | Absagen | rejection |
+| die | Zusage ✅ | Zusagen | acceptance/offer |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | sich bewerben (um + Akk.) | to apply (for) | Ich bewerbe mich um die Stelle als Data Analyst. |
 | suchen | to search/look for | Ich suche eine Arbeit. |
 | finden | to find | Ich habe eine Stelle gefunden. |
@@ -49,10 +49,10 @@ weight: 2
 | erfüllen | to fulfill/meet | Ich erfülle die Anforderungen. |
 | abschliessen | to complete/graduate | Ich habe mein Studium in Schweden abgeschlossen. |
 
-## Reading Job Ads — Key Abbreviations
+## Stellenanzeigen lesen (Reading Job Ads) — Wichtige Abkürzungen (Key Abbreviations)
 
-| Abbreviation | Full Form | English |
-|-------------|-----------|---------|
+| Abkürzung (Abbreviation) | Langform (Full Form) | Englisch (English) |
+|---------------------------|----------------------|--------------------|
 | m/w/d | männlich/weiblich/divers | male/female/diverse |
 | % (z.B. 80%) | Pensum | workload (e.g., 80% = 4 days) |
 | ab sofort | — | starting immediately |
@@ -62,10 +62,10 @@ weight: 2
 | Festanstellung | — | permanent position |
 | befristet | — | temporary/fixed-term |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Ich interessiere mich für die Stelle als Data Scientist. | I'm interested in the position as data scientist. |
 | Ich habe Ihre Anzeige gelesen. | I've read your advertisement. |
 | Ich habe mehrere Jahre Erfahrung als Data Scientist. | I have several years of experience as a data scientist. |
@@ -77,10 +77,10 @@ weight: 2
 | Ich sende Ihnen meine Bewerbungsunterlagen. | I'm sending you my application documents. |
 | Ich freue mich auf Ihre Antwort. | I look forward to your reply. |
 
-## Common Job Titles (SDS Context + Tech)
+## Häufige Berufsbezeichnungen (Common Job Titles) — SDS-Kontext + Tech
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Data Scientist | data scientist |
 | Informatiker/in | IT specialist |
 | Softwareentwickler/in | software developer |
@@ -92,9 +92,9 @@ weight: 2
 | Mechaniker/in | mechanic |
 | Mitarbeiter/in | employee/staff member |
 
-## Self-Test
+## Selbsttest (Self-Test)
 
 - [ ] I can read a job ad and understand the key requirements
 - [ ] I can say 5 sentences about my work experience
-- [ ] I know the abbreviations in job ads
+- [ ] I know the Abkürzungen (abbreviations) in job ads
 - [ ] I can write 3 sentences for a cover letter

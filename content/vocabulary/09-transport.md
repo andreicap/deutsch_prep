@@ -5,57 +5,57 @@ weight: 9
 
 > Public transport, driving, mobility, directions, tickets.
 
-## Nouns — Public Transport
+## Substantive (Nouns) — Öffentlicher Verkehr (Public Transport)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Zug | der | Züge | train |
-| Bus | der | Busse | bus |
-| Tram | das | Trams | tram (CH) |
-| S-Bahn | die | S-Bahnen | suburban train |
-| Bahnhof | der | Bahnhöfe | train station |
-| Haltestelle | die | Haltestellen | stop (bus/tram) |
-| Gleis | das | Gleise | platform/track |
-| Fahrplan | der | Fahrpläne | timetable/schedule |
-| Abfahrt | die | Abfahrten | departure |
-| Ankunft | die | Ankünfte | arrival |
-| Verspätung | die | Verspätungen | delay |
-| Umsteigen | das | — | transfer/change |
-| Anschluss | der | Anschlüsse | connection |
-| Fahrkarte | die | Fahrkarten | ticket |
-| Billett | das | Billette | ticket (CH) |
-| Abo / Abonnement | das | Abos | subscription/pass |
-| Halbtax | das | — | half-fare card (CH) |
-| GA (Generalabonnement) | das | — | unlimited travel pass (CH) |
-| Tageskarte | die | Tageskarten | day pass |
-| Zone | die | Zonen | zone |
-| Automat | der | Automaten | ticket machine |
-| Kontrolleur | der | Kontrolleure | ticket inspector |
-| SBB | — | — | Swiss Federal Railways |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| der | Zug 🚆 | Züge | train |
+| der | Bus 🚌 | Busse | bus |
+| das | Tram 🚋 | Trams | tram (CH) |
+| die | S-Bahn 🚉 | S-Bahnen | suburban train |
+| der | Bahnhof 🚉 | Bahnhöfe | train station |
+| die | Haltestelle 🚏 | Haltestellen | stop (bus/tram) |
+| das | Gleis 🛤️ | Gleise | platform/track |
+| der | Fahrplan 🗓️ | Fahrpläne | timetable/schedule |
+| die | Abfahrt 🚀 | Abfahrten | departure |
+| die | Ankunft 🛬 | Ankünfte | arrival |
+| die | Verspätung ⏰ | Verspätungen | delay |
+| das | Umsteigen 🔄 | — | transfer/change |
+| der | Anschluss 🔗 | Anschlüsse | connection |
+| die | Fahrkarte 🎫 | Fahrkarten | ticket |
+| das | Billett 🎫 | Billette | ticket (CH) |
+| das | Abo / Abonnement 🎫 | Abos | subscription/pass |
+| das | Halbtax 🎫 | — | half-fare card (CH) |
+| das | GA (Generalabonnement) 🎫 | — | unlimited travel pass (CH) |
+| die | Tageskarte 🎫 | Tageskarten | day pass |
+| die | Zone 🗺️ | Zonen | zone |
+| der | Automat 🎰 | Automaten | ticket machine |
+| der | Kontrolleur 👮 | Kontrolleure | ticket inspector |
+| — | SBB 🚆 | — | Swiss Federal Railways |
 
-## Nouns — Driving & Roads
+## Substantive (Nouns) — Auto & Strassen (Driving & Roads)
 
-| Deutsch | Artikel | Plural | English |
-|---------|---------|--------|---------|
-| Auto | das | Autos | car |
-| Velo | das | Velos | bicycle (CH) |
-| Fahrrad | das | Fahrräder | bicycle (DE) |
-| Führerschein | der | Führerscheine | driver's license |
-| Parkplatz | der | Parkplätze | parking space |
-| Parkhaus | das | Parkhäuser | parking garage |
-| Benzin | das | — | gas/petrol |
-| Tankstelle | die | Tankstellen | gas station |
-| Stau | der | Staus | traffic jam |
-| Strasse | die | Strassen | street/road |
-| Autobahn | die | Autobahnen | highway |
-| Kreuzung | die | Kreuzungen | intersection |
-| Ampel | die | Ampeln | traffic light |
-| Fussgänger | der | Fussgänger | pedestrian |
+| Artikel | Deutsch | Plural | Englisch (English) |
+|---------|---------|--------|--------------------|
+| das | Auto 🚗 | Autos | car |
+| das | Velo 🚲 | Velos | bicycle (CH) |
+| das | Fahrrad 🚲 | Fahrräder | bicycle (DE) |
+| der | Führerschein 🪪 | Führerscheine | driver's license |
+| der | Parkplatz 🅿️ | Parkplätze | parking space |
+| das | Parkhaus 🅿️ | Parkhäuser | parking garage |
+| das | Benzin ⛽ | — | gas/petrol |
+| die | Tankstelle ⛽ | Tankstellen | gas station |
+| der | Stau 🚗 | Staus | traffic jam |
+| die | Strasse 🛣️ | Strassen | street/road |
+| die | Autobahn 🛣️ | Autobahnen | highway |
+| die | Kreuzung 🚦 | Kreuzungen | intersection |
+| die | Ampel 🚦 | Ampeln | traffic light |
+| der | Fussgänger 🚶 | Fussgänger | pedestrian |
 
-## Verbs
+## Verben (Verbs)
 
-| Deutsch | English | Example |
-|---------|---------|---------|
+| Deutsch | Englisch (English) | Beispiel (Example) |
+|---------|--------------------|--------------------|
 | fahren | to drive/go (by vehicle) | Ich fahre mit dem Zug. |
 | umsteigen | to transfer/change | Sie müssen in Bern umsteigen. |
 | einsteigen | to get on/board | Bitte einsteigen! |
@@ -68,10 +68,10 @@ weight: 9
 | laufen / zu Fuss gehen | to walk | Ich gehe zu Fuss zur Arbeit. |
 | tanken | to refuel | Ich muss tanken. |
 
-## Useful Phrases
+## Nützliche Sätze (Useful Phrases)
 
-| Deutsch | English |
-|---------|---------|
+| Deutsch | Englisch (English) |
+|---------|--------------------|
 | Wie komme ich zum/zur…? | How do I get to…? |
 | Wann fährt der nächste Zug nach…? | When does the next train to… leave? |
 | Auf welchem Gleis? | On which platform? |
@@ -86,10 +86,10 @@ weight: 9
 | Gibt es eine direkte Verbindung? | Is there a direct connection? |
 | Ich fahre mit dem Tram zur Arbeit bei SMG. | I take the tram to work at SMG. |
 
-## Swiss Transport — Key Info
+## Schweizer Verkehr (Swiss Transport) — Wichtige Infos (Key Info)
 
-| Term | Explanation |
-|------|------------|
+| Begriff (Term) | Erklärung (Explanation) |
+|----------------|-------------------------|
 | **SBB** | Swiss Federal Railways — main train operator |
 | **Halbtax** | Half-fare card (185 CHF/year) — 50% off most tickets |
 | **GA** | General subscription (~3860 CHF/year) — unlimited travel |
@@ -98,23 +98,23 @@ weight: 9
 | **SBB App** | Main app for timetables and tickets |
 | **Zones** | Ticket prices based on zones traveled |
 
-## Directions Vocabulary
+## Wegbeschreibung (Directions Vocabulary)
 
-| Deutsch | English |
-|---------|---------|
-| links | left |
-| rechts | right |
-| geradeaus | straight ahead |
+| Deutsch | Englisch (English) |
+|---------|--------------------|
+| links ⬅️ | left |
+| rechts ➡️ | right |
+| geradeaus ⬆️ | straight ahead |
 | die erste/zweite Strasse | the first/second street |
-| an der Ampel | at the traffic light |
+| an der Ampel 🚦 | at the traffic light |
 | an der Kreuzung | at the intersection |
 | gegenüber | across from |
 | neben | next to |
 | in der Nähe von | near |
 
-## Self-Test
+## Selbsttest (Self-Test)
 
 - [ ] I can buy a ticket and ask about connections
-- [ ] I can give and understand basic directions
+- [ ] I can give and understand basic Wegbeschreibungen (directions)
 - [ ] I know Swiss transport terms (SBB, Halbtax, GA)
 - [ ] I can describe how I get to work/school
