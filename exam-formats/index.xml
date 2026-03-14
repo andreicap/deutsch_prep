@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exam Formats on Deutsch Prep — SDS Exam</title>
+    <link>https://andreicap.github.io/deutsch_prep/exam-formats/</link>
+    <description>Recent content in Exam Formats on Deutsch Prep — SDS Exam</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="https://andreicap.github.io/deutsch_prep/exam-formats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SDS Exam — Format Overview</title>
+      <link>https://andreicap.github.io/deutsch_prep/exam-formats/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreicap.github.io/deutsch_prep/exam-formats/overview/</guid>
+      <description>&lt;h2 id=&#34;test-structure&#34;&gt;Test Structure&lt;/h2&gt;
+&lt;p&gt;The SDS tests &lt;strong&gt;4 skills&lt;/strong&gt; in one session. The test is &lt;strong&gt;adaptive&lt;/strong&gt;: it starts at a lower level and gets harder if you answer correctly. Mistakes early on can cap your maximum achievable level.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Skill&lt;/th&gt;
+          &lt;th&gt;Format&lt;/th&gt;
+          &lt;th&gt;Duration (approx.)&lt;/th&gt;
+          &lt;th&gt;Levels&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Reading&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;On-screen tasks (drag &amp;amp; drop, MC, true/false)&lt;/td&gt;
+          &lt;td&gt;~30 min&lt;/td&gt;
+          &lt;td&gt;pre-A1 → B2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Listening&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Audio with on-screen tasks&lt;/td&gt;
+          &lt;td&gt;~30 min&lt;/td&gt;
+          &lt;td&gt;pre-A1 → B2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Writing&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;On-screen typing (tablet keyboard)&lt;/td&gt;
+          &lt;td&gt;~30 min&lt;/td&gt;
+          &lt;td&gt;pre-A1 → B2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Speaking&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Live interview (phone/video call)&lt;/td&gt;
+          &lt;td&gt;~10–15 min&lt;/td&gt;
+          &lt;td&gt;pre-A1 → B2&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;adaptive-scoring--how-it-works&#34;&gt;Adaptive Scoring — How It Works&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Start (easy) → Correct → Harder question → Correct → Even harder → ...
+                 ↓                           ↓
+              Wrong → Easier question      Wrong → Level is capped
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Critical implication&lt;/strong&gt;: Take the first questions seriously. Early mistakes limit how high you can score.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SDS Listening — Task Formats</title>
+      <link>https://andreicap.github.io/deutsch_prep/exam-formats/listening-formats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreicap.github.io/deutsch_prep/exam-formats/listening-formats/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Listening tasks test your ability to understand spoken German. Audio may play &lt;strong&gt;only once&lt;/strong&gt; at higher levels (B1/B2), so &amp;ldquo;one-pass listening&amp;rdquo; is a critical skill.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;task-type-1-words--pictures-pre-a1--a1&#34;&gt;Task Type 1: Words → Pictures (pre-A1 / A1)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Format&lt;/strong&gt;: Hear 3 words → tap the 3 matching pictures from a set.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you need&lt;/strong&gt;: Recognize spoken words for everyday objects/concepts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Audio: &lt;em&gt;&amp;ldquo;Brot… Milch… Apfel&amp;rdquo;&lt;/em&gt;
+→ Tap the pictures for bread, milk, apple&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SDS Reading — Task Formats</title>
+      <link>https://andreicap.github.io/deutsch_prep/exam-formats/reading-formats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreicap.github.io/deutsch_prep/exam-formats/reading-formats/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Reading tasks test your ability to understand written German at increasing difficulty. The test is adaptive.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;task-type-1-word--picture-matching-pre-a1--a1&#34;&gt;Task Type 1: Word ↔ Picture Matching (pre-A1 / A1)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Format&lt;/strong&gt;: Drag &amp;amp; drop — match a German word to the correct picture.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you need&lt;/strong&gt;: Basic vocabulary recognition (nouns, everyday objects).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Match: &lt;em&gt;der Apfel&lt;/em&gt; → 🍎 | &lt;em&gt;die Katze&lt;/em&gt; → 🐱 | &lt;em&gt;das Auto&lt;/em&gt; → 🚗&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Know the 200 most common German nouns with articles&lt;/li&gt;
+&lt;li&gt;Focus on the SDS topic domains (food, transport, housing, work, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;task-type-2-truefalse-on-short-texts-a2&#34;&gt;Task Type 2: True/False on Short Texts (A2)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Format&lt;/strong&gt;: Read a job ad or short notice → mark statements &lt;em&gt;ja&lt;/em&gt; (true) or &lt;em&gt;nein&lt;/em&gt; (false).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SDS Speaking — Task Formats</title>
+      <link>https://andreicap.github.io/deutsch_prep/exam-formats/speaking-formats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreicap.github.io/deutsch_prep/exam-formats/speaking-formats/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The speaking section is a &lt;strong&gt;live interview&lt;/strong&gt; (phone or video call) during the test. An examiner calls you and asks you to do 1–4 tasks, depending on your level. You can speak &lt;strong&gt;Hochdeutsch&lt;/strong&gt; (Standard German) or &lt;strong&gt;Mundart&lt;/strong&gt; (Swiss German).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;task-type-1-answer-personal-questions-a1--a2&#34;&gt;Task Type 1: Answer Personal Questions (A1 / A2)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Format&lt;/strong&gt;: The interviewer asks about you — name, origin, family, job, daily life.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example questions&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Wie heissen Sie?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Woher kommen Sie?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Was machen Sie beruflich?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Haben Sie Kinder?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Was machen Sie in der Freizeit?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Was ist Ihr Lieblingsessen?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SDS Writing — Task Formats</title>
+      <link>https://andreicap.github.io/deutsch_prep/exam-formats/writing-formats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreicap.github.io/deutsch_prep/exam-formats/writing-formats/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Writing tasks progress from basic spelling to composing structured emails and opinion texts. You type on a &lt;strong&gt;tablet/touch keyboard&lt;/strong&gt; — practice this!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;task-type-1-fill-missing-letters-pre-a1&#34;&gt;Task Type 1: Fill Missing Letters (pre-A1)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Format&lt;/strong&gt;: A word is shown with gaps → type the missing letters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;_ch_le → &lt;strong&gt;Schule&lt;/strong&gt;
+Kra_kenh_us → &lt;strong&gt;Krankenhaus&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus on common German spelling patterns: sch, ch, ei, ie, au, äu, ß/ss&lt;/li&gt;
+&lt;li&gt;Practice the vocabulary from all 10 SDS domains&lt;/li&gt;
+&lt;li&gt;Watch for umlauts: ä, ö, ü — know where they appear in common words&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;task-type-2-copy-details-into-form-fields-pre-a1--a1&#34;&gt;Task Type 2: Copy Details into Form Fields (pre-A1 / A1)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Format&lt;/strong&gt;: Given a text (letter, card, message), fill in a form with specific details (name, address, phone, date, etc.).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

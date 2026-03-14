@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Writing on Deutsch Prep — SDS Exam</title>
+    <link>https://andreicap.github.io/deutsch_prep/skills/writing/</link>
+    <description>Recent content in Writing on Deutsch Prep — SDS Exam</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="https://andreicap.github.io/deutsch_prep/skills/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Email Templates for SDS Writing</title>
+      <link>https://andreicap.github.io/deutsch_prep/skills/writing/email-templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreicap.github.io/deutsch_prep/skills/writing/email-templates/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Ready-to-use templates for the most common SDS email types. Adapt them to each prompt.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;template-1-cancelreschedule-an-appointment-a2&#34;&gt;Template 1: Cancel/Reschedule an Appointment (A2)&lt;/h2&gt;
+&lt;h3 id=&#34;prompt-type-you-have-an-appointment-but-cant-come-write-an-email&#34;&gt;Prompt type: You have an appointment but can&amp;rsquo;t come. Write an email.&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Sehr geehrte Damen und Herren,
+
+ich habe am [Tag] um [Uhrzeit] einen Termin bei Ihnen.
+Leider kann ich nicht kommen, weil [Grund].
+
+Könnten Sie mir bitte einen neuen Termin geben?
+[Tag/Zeit] wäre gut für mich.
+
+Vielen Dank für Ihr Verständnis.
+
+Freundliche Grüsse
+[Ihr Name]
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;example-filled-in&#34;&gt;Example filled in:&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Sehr geehrte Damen und Herren,&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing Practice Prompts</title>
+      <link>https://andreicap.github.io/deutsch_prep/skills/writing/practice-prompts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreicap.github.io/deutsch_prep/skills/writing/practice-prompts/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;30 writing prompts organized by level. Write each one, then compare with the templates in &lt;code&gt;email-templates.md&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;a1--text-message-replies-5-prompts&#34;&gt;A1 — Text Message Replies (5 prompts)&lt;/h2&gt;
+&lt;h3 id=&#34;prompt-1&#34;&gt;Prompt 1&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nachricht: &amp;ldquo;Hallo Andrei! Hast du am Samstag Zeit? Wir machen ein Grillfest im Park.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Write a reply (2–3 sentences). Mention your weekend plans (sport, Freundin, etc.).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;prompt-2&#34;&gt;Prompt 2&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nachricht: &amp;ldquo;Hi Andrei! Wo treffen wir uns morgen zum Volleyball?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Write a reply — suggest a meeting place and time in Zürich.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing Strategies for SDS</title>
+      <link>https://andreicap.github.io/deutsch_prep/skills/writing/strategies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andreicap.github.io/deutsch_prep/skills/writing/strategies/</guid>
+      <description>&lt;h2 id=&#34;core-principle-complete-all-parts-of-the-prompt&#34;&gt;Core Principle: Complete All Parts of the Prompt&lt;/h2&gt;
+&lt;p&gt;The #1 mistake in SDS writing: &lt;strong&gt;not answering all parts of the prompt&lt;/strong&gt;. If the prompt says &amp;ldquo;apologize, explain why, suggest a new date&amp;rdquo; — you MUST do all three.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;strategy-1-read-the-prompt-twice&#34;&gt;Strategy 1: Read the Prompt Twice&lt;/h2&gt;
+&lt;p&gt;Before writing:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read the prompt once to understand the situation&lt;/li&gt;
+&lt;li&gt;Read it again and &lt;strong&gt;count the tasks&lt;/strong&gt; (how many things you must do)&lt;/li&gt;
+&lt;li&gt;Mentally check off each task as you write&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Example prompt: &lt;em&gt;&amp;ldquo;Write an email to your boss. Ask for vacation. Say when and how long. Give a reason.&amp;rdquo;&lt;/em&gt;
+→ Tasks: (1) ask for vacation (2) say when (3) say how long (4) give a reason = &lt;strong&gt;4 items to include&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
