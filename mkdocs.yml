@@ -28,7 +28,6 @@ theme:
 
 nav:
   - Home: index.md
-  - Master Checklist: 00-todo/master-checklist.md
   - Exam Formats:
       - Overview: 01-exam-formats/overview.md
       - Reading: 01-exam-formats/reading-formats.md

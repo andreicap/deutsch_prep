@@ -70,6 +70,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 
 ### Phase 5: Skill Training — Speaking
 
+- [ ] Read [Speaking Strategies](03-skills/speaking/strategies.md)
 - [ ] Prepare 60–90 sec self-introduction (memorize structure, not script)
 - [ ] Prepare 2–3 min "typical day" (work + free time)
 - [ ] Prepare 2–4 min process descriptions (3 different ones)
@@ -83,13 +84,22 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 
 ### Phase 6: Grammar & Connectors
 
-- [ ] Learn B1/B2 connectors (weil, obwohl, deswegen, außerdem)
-- [ ] Learn formal + informal email phrases
-- [ ] Know when to use which register
-- [ ] Practice using connectors in writing
+- [ ] Read [Connectors](05-grammar/connectors.md) — learn B1/B2 connectors
+- [ ] Read [Email Phrases](05-grammar/email-phrases.md) — learn formal + informal phrases
+- [ ] Read [Formal vs Informal](05-grammar/formal-informal.md) — know when to use which register
+- [ ] Practice using connectors in writing (weil, obwohl, deswegen, außerdem)
 - [ ] Practice email openings/closings from memory
 
-### Phase 7: Mock Tests & Final Review
+### Phase 7: Weekly Plan Execution
+
+- [ ] Complete Week 1: Formats + baseline + vocabulary packs 1–3
+- [ ] Complete Week 2: A1/A2 writing (messages + simple emails) + listening basics
+- [ ] Complete Week 3: Reading focus (ads/notices/texts) + speaking intro + process descriptions
+- [ ] Complete Week 4: B1 writing (inquiry emails) + longer listening/reading + interview practice
+- [ ] Complete Week 5: B2 argumentation (speaking + writing) + timed mixed practice
+- [ ] Complete Week 6: 2–3 full mock runs + error log + weak-area repair
+
+### Phase 8: Mock Tests & Final Review
 
 - [ ] Complete Mock Test 1 (all 4 skills, timed)
 - [ ] Complete Mock Test 2 (all 4 skills, timed)
@@ -99,6 +109,16 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Final vocabulary review (all 10 packs)
 - [ ] Final email writing review (write 3 emails under time pressure)
 - [ ] Final speaking rehearsal (all modules once)
+
+### Phase 9: Test-Day Preparation
+
+- [ ] Read [Tips & Preparation](06-test-day/test-day-tips.md)
+- [ ] Confirm test date, time, location
+- [ ] Bring valid ID (Ausweis / Pass)
+- [ ] Get a good night's sleep
+- [ ] Arrive early
+- [ ] Remember: early questions matter (adaptive scoring!)
+- [ ] Stay calm during speaking interview — ask for repetition if needed
 
 ---
 
