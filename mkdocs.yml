@@ -1,0 +1,96 @@
+site_name: Deutsch Prep — SDS Exam
+site_description: Sprachstandstest Deutsch Schweiz preparation system
+docs_dir: docs
+
+theme:
+  name: material
+  language: de
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Master Checklist: 00-todo/master-checklist.md
+  - Exam Formats:
+      - Overview: 01-exam-formats/overview.md
+      - Reading: 01-exam-formats/reading-formats.md
+      - Listening: 01-exam-formats/listening-formats.md
+      - Writing: 01-exam-formats/writing-formats.md
+      - Speaking: 01-exam-formats/speaking-formats.md
+  - Vocabulary:
+      - Work: 02-vocabulary/01-work.md
+      - Job Search: 02-vocabulary/02-job-search.md
+      - Authorities: 02-vocabulary/03-authorities.md
+      - Shopping: 02-vocabulary/04-shopping.md
+      - Health: 02-vocabulary/05-health.md
+      - Children: 02-vocabulary/06-children.md
+      - Media & Leisure: 02-vocabulary/07-media-leisure.md
+      - Post / Bank / Insurance: 02-vocabulary/08-post-bank-insurance.md
+      - Transport: 02-vocabulary/09-transport.md
+      - Housing & Neighborhood: 02-vocabulary/10-housing-neighborhood.md
+  - Skills:
+      - Reading:
+          - Strategies: 03-skills/reading/strategies.md
+          - Practice Exercises: 03-skills/reading/practice-exercises.md
+      - Listening:
+          - Strategies: 03-skills/listening/strategies.md
+          - Practice Drills: 03-skills/listening/practice-drills.md
+      - Writing:
+          - Strategies: 03-skills/writing/strategies.md
+          - Email Templates: 03-skills/writing/email-templates.md
+          - Practice Prompts: 03-skills/writing/practice-prompts.md
+      - Speaking:
+          - Strategies: 03-skills/speaking/strategies.md
+          - Self-Introduction: 03-skills/speaking/self-introduction.md
+          - Typical Day: 03-skills/speaking/typical-day.md
+          - Process Descriptions: 03-skills/speaking/process-descriptions.md
+          - Pro/Contra Opinion: 03-skills/speaking/pro-contra-opinion.md
+  - Weekly Plan:
+      - Daily Routine: 04-weekly-plan/daily-routine.md
+      - Week 1: 04-weekly-plan/week-1.md
+      - Week 2: 04-weekly-plan/week-2.md
+      - Week 3: 04-weekly-plan/week-3.md
+      - Week 4: 04-weekly-plan/week-4.md
+      - Week 5: 04-weekly-plan/week-5.md
+      - Week 6: 04-weekly-plan/week-6.md
+  - Grammar & Phrases:
+      - Connectors: 05-grammar/connectors.md
+      - Email Phrases: 05-grammar/email-phrases.md
+      - Formal vs Informal: 05-grammar/formal-informal.md
+  - Test Day:
+      - Tips & Preparation: 06-test-day/test-day-tips.md
+      - Mock Test Checklist: 06-test-day/mock-test-checklist.md
+
+exclude_docs: |
+  site/
+  .git/
+  __pycache__/
+  *.pyc
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true

@@ -1,0 +1,9 @@
+[project]
+name = "deutsch-prep"
+version = "0.1.0"
+description = "SDS Exam Preparation — Sprachstandstest Deutsch Schweiz"
+requires-python = ">=3.11"
+dependencies = [
+    "mkdocs",
+    "mkdocs-material",
+]
