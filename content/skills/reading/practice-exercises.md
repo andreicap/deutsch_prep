@@ -162,7 +162,7 @@ Read the text, then fill in the form.
 
 ### Text
 
-> Mein Name ist Andrei Capastru. Ich wohne in Zürich, Langstrasse 45. Meine Telefonnummer ist 044 123 45 67. Ich bin am 15. Dezember 1993 geboren. Ich bin ledig und habe keine Kinder. Ich arbeite als Data Scientist bei SMG.
+> Mein Name ist Andrei Surname. Ich wohne in Zürich, Langstrasse 45. Meine Telefonnummer ist 044 123 45 67. Ich bin am 15. Dezember 1993 geboren. Ich bin ledig und habe keine Kinder. Ich arbeite als Data Scientist bei SMG.
 
 ### Form
 
@@ -182,7 +182,7 @@ Read the text, then fill in the form.
 
 | Feld | Antwort |
 |------|---------|
-| Nachname | Capastru |
+| Nachname | Surname |
 | Vorname | Andrei |
 | Wohnort | Zürich |
 | Adresse | Langstrasse 45 |

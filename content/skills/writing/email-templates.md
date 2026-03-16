@@ -37,7 +37,7 @@ Freundliche Grüsse
 > *Vielen Dank für Ihr Verständnis.*
 >
 > *Freundliche Grüsse*
-> *Andrei Capastru*
+> *Andrei Surname*
 
 ---
 

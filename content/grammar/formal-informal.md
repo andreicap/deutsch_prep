@@ -96,7 +96,7 @@ weight: 50
 > *Vielen Dank für Ihr Verständnis.*
 >
 > *Freundliche Grüsse*
-> *Andrei Capastru*
+> *Andrei Surname*
 
 ### Informell — an Kollegen/Freund (Informal — to Colleague/Friend)
 

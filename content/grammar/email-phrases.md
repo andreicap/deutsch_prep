@@ -159,5 +159,5 @@ weight: 50
 [Vorschlag]     → Montag oder Dienstag wäre gut für mich.
 [Schluss]       → Vielen Dank für Ihr Verständnis.
 [Gruss]         → Freundliche Grüsse
-[Name]          → Andrei Capastru
+[Name]          → Andrei Surname
 ```
