@@ -1,6 +1,6 @@
 ---
 title: "Mock Test Checklist"
-weight: 50
+weight: 20
 ---
 
 > Use this to run a full practice test under realistic conditions. Do 2–3 mock tests in Week 6.

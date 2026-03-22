@@ -1,0 +1,11 @@
+{{- $summary := .Get "summary" -}}
+{{- if not $summary -}}
+{{- warnf "missing value for param 'summary': %s" .Position -}}
+{{- end -}}
+{{- $class := .Get "class" | default "" -}}
+<details class="collapsible-panel{{ with $class }} {{ . }}{{ end }}" {{ if (eq (.Get "openByDefault") true) }}open{{ end }}>
+  <summary markdown="span">{{ $summary | markdownify }}</summary>
+  <div class="collapsible-panel__content">
+    {{ .Inner | markdownify }}
+  </div>
+</details>

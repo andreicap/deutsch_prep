@@ -1,6 +1,6 @@
 ---
 title: "Listening Practice Drills"
-weight: 50
+weight: 20
 ---
 
 > Since we can't embed audio here, these drills describe what to practice and where to find audio. Use the structure below with real audio from the sources listed.

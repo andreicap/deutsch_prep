@@ -1,6 +1,6 @@
 ---
 title: "Email Templates for SDS Writing"
-weight: 50
+weight: 20
 ---
 
 > Ready-to-use templates for the most common SDS email types. Adapt them to each prompt.

@@ -73,17 +73,17 @@ weight: 50
 
 *Sollten Geschäfte am Sonntag geöffnet sein?*
 
-### Model answer:
+{{< collapse summary="Show model answer" class="qa-answer" >}}
+*Das Thema Sonntagsverkauf wird in der Schweiz oft diskutiert. Es gibt sowohl Argumente dafür als auch dagegen.*
 
-> *Das Thema Sonntagsverkauf wird in der Schweiz oft diskutiert. Es gibt sowohl Argumente dafür als auch dagegen.*
->
-> *Einerseits wäre es praktisch für berufstätige Menschen, die unter der Woche keine Zeit zum Einkaufen haben. Besonders Familien könnten davon profitieren. Ausserdem könnten die Geschäfte mehr Umsatz machen und vielleicht sogar neue Arbeitsplätze schaffen.*
->
-> *Andererseits ist der Sonntag traditionell ein Ruhetag, der wichtig für die Erholung und das Familienleben ist. Die Angestellten im Detailhandel hätten noch weniger freie Tage. Darüber hinaus gibt es bereits Tankstellen und Bahnhofsshops, die am Sonntag geöffnet sind, also ist es nicht wirklich nötig.*
->
-> *Meiner Meinung nach sollte der Sonntag als Ruhetag bestehen bleiben. Ich finde es wichtig, dass alle Menschen einen gemeinsamen freien Tag haben.*
->
-> *Zusammenfassend denke ich, dass die Nachteile überwiegen und der Sonntagsverkauf nicht ausgeweitet werden sollte.*
+*Einerseits wäre es praktisch für berufstätige Menschen, die unter der Woche keine Zeit zum Einkaufen haben. Besonders Familien könnten davon profitieren. Ausserdem könnten die Geschäfte mehr Umsatz machen und vielleicht sogar neue Arbeitsplätze schaffen.*
+
+*Andererseits ist der Sonntag traditionell ein Ruhetag, der wichtig für die Erholung und das Familienleben ist. Die Angestellten im Detailhandel hätten noch weniger freie Tage. Darüber hinaus gibt es bereits Tankstellen und Bahnhofsshops, die am Sonntag geöffnet sind, also ist es nicht wirklich nötig.*
+
+*Meiner Meinung nach sollte der Sonntag als Ruhetag bestehen bleiben. Ich finde es wichtig, dass alle Menschen einen gemeinsamen freien Tag haben.*
+
+*Zusammenfassend denke ich, dass die Nachteile überwiegen und der Sonntagsverkauf nicht ausgeweitet werden sollte.*
+{{< /collapse >}}
 
 ---
 
@@ -91,21 +91,15 @@ weight: 50
 
 *Sollten Arbeitnehmer das Recht auf Home-Office haben?*
 
-### Argument notes:
+{{< collapse summary="Show model answer" class="qa-answer" >}}
+*Viele Menschen diskutieren heute darüber, ob Arbeitnehmer ein Recht auf Home-Office haben sollten. Dieses Thema ist besonders seit der Pandemie sehr aktuell geworden.*
 
-**Dafür:**
-- Flexibilität, bessere Work-Life-Balance
-- Spart Pendelzeit und ist umweltfreundlicher
-- Als Data Scientist kann ich gut von zu Hause arbeiten — ich brauche nur meinen Laptop
-- Studien zeigen: viele sind produktiver zu Hause
+*Einerseits bietet Home-Office mehr Flexibilität und oft auch eine bessere Work-Life-Balance. Man spart Pendelzeit, was weniger Stress bedeutet und auch besser für die Umwelt sein kann. In meinem Beruf als Data Scientist kann ich viele Aufgaben gut von zu Hause erledigen, weil ich hauptsächlich einen Laptop brauche.*
 
-**Dagegen:**
-- Sozialer Kontakt fehlt, Teamarbeit leidet
-- Grenze zwischen Arbeit und Freizeit verschwimmt
-- Nicht alle Berufe sind geeignet (Handwerk, Pflege, Verkauf)
+*Andererseits fehlt im Home-Office oft der direkte Kontakt mit Kollegen. Teamarbeit und spontane Gespräche sind im Büro häufig einfacher. Ausserdem sind nicht alle Berufe für Home-Office geeignet, zum Beispiel in der Pflege, im Verkauf oder im Handwerk.*
 
-**Meine Meinung:**
-- Als Data Scientist profitiere ich vom Home-Office, aber ich gehe gerne ins Büro für Besprechungen und den Kontakt mit Kollegen. Ein Mix ist ideal.
+*Meiner Meinung nach sollten Arbeitnehmer grundsätzlich die Möglichkeit zu Home-Office haben, wenn ihr Beruf dafür geeignet ist. Ein gemischtes Modell mit Büro und Home-Office finde ich am besten.*
+{{< /collapse >}}
 
 ---
 
@@ -113,20 +107,15 @@ weight: 50
 
 *Ab welchem Alter sollten Kinder ein Smartphone haben?*
 
-### Argument notes:
+{{< collapse summary="Show model answer" class="qa-answer" >}}
+*Die Frage, ab welchem Alter Kinder ein Smartphone haben sollten, wird oft diskutiert. Es gibt gute Gründe dafür, aber auch wichtige Risiken.*
 
-**Dafür:**
-- Sicherheit: Eltern können Kinder erreichen
-- Digitale Kompetenz: wichtig für die Zukunft
-- Soziale Teilhabe: alle Freunde haben eines
+*Einerseits kann ein Smartphone die Sicherheit verbessern, weil Eltern ihre Kinder erreichen können. Ausserdem lernen Kinder früh den Umgang mit digitaler Technik, was in der Zukunft wichtig sein wird. Viele Kinder möchten auch mit ihren Freunden in Kontakt bleiben.*
 
-**Dagegen:**
-- Suchtgefahr, zu viel Bildschirmzeit
-- Cybermobbing und gefährliche Inhalte
-- Kinder bewegen sich weniger, spielen weniger draussen
+*Andererseits besteht die Gefahr von zu viel Bildschirmzeit und sogar einer gewissen Abhängigkeit. Kinder können ausserdem mit Cybermobbing oder ungeeigneten Inhalten in Kontakt kommen. Wenn sie zu viel am Handy sind, bewegen sie sich oft weniger und spielen seltener draussen.*
 
-**Meine Meinung:**
-- Ab 12–13 mit klaren Regeln; vorher reicht ein einfaches Handy
+*Meiner Meinung nach ist ein Smartphone ab etwa 12 oder 13 Jahren sinnvoll, aber nur mit klaren Regeln. Vorher reicht oft ein einfaches Handy, mit dem man nur anrufen oder Nachrichten schicken kann.*
+{{< /collapse >}}
 
 ---
 
@@ -134,20 +123,15 @@ weight: 50
 
 *Sollte der öffentliche Verkehr gratis sein?*
 
-### Argument notes:
+{{< collapse summary="Show model answer" class="qa-answer" >}}
+*Es wird oft gefragt, ob der öffentliche Verkehr gratis sein sollte. Besonders in grossen Städten ist dieses Thema sehr interessant.*
 
-**Dafür:**
-- Gut für die Umwelt: weniger Autos
-- Sozial gerecht: auch Menschen mit wenig Geld können mobil sein
-- Weniger Stau in den Städten — in Zürich ist der ÖV schon sehr gut
+*Einerseits wäre gratiser öffentlicher Verkehr gut für die Umwelt, weil vielleicht weniger Menschen mit dem Auto fahren würden. Ausserdem wäre es sozial gerechter, weil auch Menschen mit wenig Geld mobil bleiben könnten. Gerade in einer Stadt wie Zürich wäre das für viele Personen attraktiv.*
 
-**Dagegen:**
-- Sehr teuer: wer bezahlt das?
-- Qualität könnte sinken (Überfüllung, weniger Investitionen)
-- Nicht alle würden das Auto aufgeben
+*Andererseits wäre ein kostenloses System sehr teuer, und irgendjemand müsste diese Kosten bezahlen. Es besteht auch das Risiko, dass die Qualität sinkt, wenn Züge und Trams überfüllt sind und weniger Geld für Investitionen bleibt. Ausserdem würden wahrscheinlich nicht alle Autofahrer wirklich umsteigen.*
 
-**Meine Meinung:**
-- Ich benutze das Tram und den Zug jeden Tag in Zürich. Günstiger ja, gratis nein — die Qualität muss stimmen
+*Ich persönlich finde, dass der öffentliche Verkehr lieber günstiger als komplett gratis sein sollte. Für mich ist die wichtigste Frage, dass das System zuverlässig und von guter Qualität bleibt.*
+{{< /collapse >}}
 
 ---
 
@@ -155,21 +139,15 @@ weight: 50
 
 *Sollten Arbeitgeber Weiterbildungen für alle Mitarbeitenden bezahlen?*
 
-### Argument notes:
+{{< collapse summary="Show model answer" class="qa-answer" >}}
+*Viele Firmen fragen sich, ob sie Weiterbildungen für alle Mitarbeitenden bezahlen sollten. Das ist ein wichtiges Thema, besonders in Berufen, die sich schnell verändern.*
 
-**Dafür:**
-- Mitarbeitende werden qualifizierter → Firma profitiert
-- Motivation und Zufriedenheit steigen
-- In der IT und Data Science muss man sich ständig weiterbilden — neue Tools, neue Methoden
-- Im internationalen Vergleich: Schweiz braucht qualifizierte Fachkräfte
+*Einerseits profitieren die Mitarbeitenden, weil sie neue Kenntnisse und Fähigkeiten erwerben. Davon profitiert aber auch die Firma, weil qualifizierte Mitarbeiter bessere Arbeit leisten können. In Bereichen wie IT und Data Science ist Weiterbildung besonders wichtig, weil sich Tools und Methoden ständig weiterentwickeln.*
 
-**Dagegen:**
-- Hohe Kosten für die Firma
-- Risiko: Mitarbeitende gehen danach zu einer anderen Firma
-- Nicht alle Weiterbildungen sind beruflich relevant
+*Andererseits sind Weiterbildungen oft teuer, und nicht jedes Unternehmen kann das leicht bezahlen. Es gibt auch das Risiko, dass Mitarbeitende nach einer teuren Weiterbildung die Firma wechseln. Ausserdem ist nicht jede Weiterbildung wirklich relevant für die konkrete Arbeit.*
 
-**Meine Meinung:**
-- In meinem Beruf als Data Scientist ist Weiterbildung sehr wichtig. Ja, wenn die Weiterbildung für den Job relevant ist — mit einer Rückzahlungsklausel
+*Meiner Meinung nach sollten Arbeitgeber Weiterbildungen bezahlen, wenn sie klar mit dem Beruf zusammenhängen. Eine faire Lösung wäre zum Beispiel, dass Mitarbeitende einen Teil zurückzahlen müssen, wenn sie kurz danach kündigen.*
+{{< /collapse >}}
 
 ---
 

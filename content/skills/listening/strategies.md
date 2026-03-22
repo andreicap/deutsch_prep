@@ -1,6 +1,6 @@
 ---
 title: "Listening Strategies for SDS"
-weight: 50
+weight: 10
 ---
 
 ## Core Principle: One-Pass Listening

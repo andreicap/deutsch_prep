@@ -1,0 +1,57 @@
+{{- $section := .CurrentSection -}}
+{{- $pages := slice -}}
+{{- if and $section (gt (len $section.RegularPages) 0) -}}
+  {{- $pages = sort $section.RegularPages "Weight" "asc" -}}
+{{- else -}}
+  {{- $pages = sort (where site.RegularPages "Type" "in" site.Params.mainSections) "Weight" "asc" -}}
+{{- end -}}
+
+{{- $nav := newScratch -}}
+{{- $nav.Set "currentIndex" -1 -}}
+{{- $nav.Set "prev" nil -}}
+{{- $nav.Set "next" nil -}}
+
+{{- range $index, $page := $pages -}}
+  {{- if eq $page.RelPermalink $.RelPermalink -}}
+    {{- $nav.Set "currentIndex" $index -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $currentIndex := $nav.Get "currentIndex" -}}
+{{- if ge $currentIndex 0 -}}
+  {{- if gt $currentIndex 0 -}}
+    {{- $nav.Set "prev" (index $pages (sub $currentIndex 1)) -}}
+  {{- end -}}
+  {{- if lt (add $currentIndex 1) (len $pages) -}}
+    {{- $nav.Set "next" (index $pages (add $currentIndex 1)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $prev := $nav.Get "prev" -}}
+{{- $next := $nav.Get "next" -}}
+{{- $showOverview := and $section (ne $section.RelPermalink .RelPermalink) -}}
+
+{{- if or $prev $next $showOverview -}}
+<nav class="paginav paginav-study">
+  {{- with $prev -}}
+  <a class="prev" href="{{ .RelPermalink }}">
+    <span class="title">Previous lesson</span>
+    <span>{{ .LinkTitle }}</span>
+  </a>
+  {{- end -}}
+
+  {{- if $showOverview -}}
+  <a class="home" href="{{ $section.RelPermalink }}">
+    <span class="title">Section overview</span>
+    <span>{{ $section.LinkTitle }}</span>
+  </a>
+  {{- end -}}
+
+  {{- with $next -}}
+  <a class="next" href="{{ .RelPermalink }}">
+    <span class="title">Next lesson</span>
+    <span>{{ .LinkTitle }}</span>
+  </a>
+  {{- end -}}
+</nav>
+{{- end -}}

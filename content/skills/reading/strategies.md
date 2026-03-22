@@ -1,6 +1,6 @@
 ---
 title: "Reading Strategies for SDS"
-weight: 50
+weight: 10
 ---
 
 ## Core Principle: Scan, Don't Read
@@ -88,5 +88,4 @@ For title-matching exercises:
 | 20 Minuten              | A2–B1 | 20min.ch         |
 | Gemeinde websites       | A2–B1 | Official notices |
 | Migros/Coop flyers      | A1–A2 | Shopping ads     |
-
 

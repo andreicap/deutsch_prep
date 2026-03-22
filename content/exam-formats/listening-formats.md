@@ -1,6 +1,6 @@
 ---
 title: "SDS Listening — Task Formats"
-weight: 50
+weight: 30
 ---
 
 ## Overview

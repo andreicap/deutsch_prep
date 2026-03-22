@@ -1,6 +1,6 @@
 ---
 title: "Speaking Module: Typical Day (Ein typischer Tag)"
-weight: 50
+weight: 30
 ---
 
 > Duration: 2–3 minutes. Common at A2–B1 level. Describe your daily routine at work and/or in your free time.

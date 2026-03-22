@@ -1,6 +1,6 @@
 ---
 title: "Konnektoren (Connectors) — B1/B2"
-weight: 50
+weight: 10
 ---
 
 > Connectors join ideas and show relationships between sentences. Using them correctly elevates your writing and speaking from A2 to B1/B2.

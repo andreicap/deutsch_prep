@@ -1,6 +1,6 @@
 ---
 title: "Speaking Module: Self-Introduction (Selbstvorstellung)"
-weight: 50
+weight: 20
 ---
 
 > Duration: 60–90 seconds. This will almost certainly be your first speaking task.
@@ -54,17 +54,49 @@ You don't need all 8 points — pick 5–6 that feel natural.
 
 ## Common Follow-Up Questions
 
-Prepare short answers (2–3 sentences each):
+Prepare short answers (2-3 sentences each):
 
-| Question | Your notes |
-|----------|-----------|
-| Was gefällt Ihnen an der Schweiz? | Berge, Natur, Sicherheit, die Lebensqualität in Zürich |
-| Was vermissen Sie von Ihrem Heimatland? | Familie, moldauisches Essen, die Menschen |
-| Wie haben Sie Deutsch gelernt? | Deutschkurs in Zürich, Podcasts, Selbststudium |
-| Was möchten Sie in der Zukunft machen? | Deutsch verbessern, in der Schweiz bleiben, reisen |
-| Erzählen Sie mehr über Ihre Arbeit. | Data Science, Datenanalyse, Programmierung bei SMG |
-| Was haben Sie studiert? | In Moldau, Italien und Schweden studiert |
-| Warum sind Sie in die Schweiz gekommen? | Berufliche Möglichkeiten, gute Lebensqualität |
+### Was gefällt Ihnen an der Schweiz?
+
+{{< collapse summary="Show sample answer" class="qa-answer" >}}
+*An der Schweiz gefallen mir besonders die Berge, die Natur und die hohe Lebensqualität. Ich finde auch gut, dass Zürich sehr sicher ist und der öffentliche Verkehr sehr gut funktioniert.*
+{{< /collapse >}}
+
+### Was vermissen Sie von Ihrem Heimatland?
+
+{{< collapse summary="Show sample answer" class="qa-answer" >}}
+*Ich vermisse vor allem meine Familie und das moldauische Essen. Ausserdem fehlen mir manchmal die Menschen und die vertraute Atmosphäre aus meiner Heimat.*
+{{< /collapse >}}
+
+### Wie haben Sie Deutsch gelernt?
+
+{{< collapse summary="Show sample answer" class="qa-answer" >}}
+*Ich habe Deutsch in einem Kurs in Zürich gelernt und zusätzlich viel selbst geübt. Ich höre Podcasts, lerne Vokabeln und versuche, im Alltag möglichst viel Deutsch zu sprechen.*
+{{< /collapse >}}
+
+### Was möchten Sie in der Zukunft machen?
+
+{{< collapse summary="Show sample answer" class="qa-answer" >}}
+*In Zukunft möchte ich mein Deutsch weiter verbessern und langfristig in der Schweiz bleiben. Ausserdem möchte ich weiter reisen und mich beruflich als Data Scientist entwickeln.*
+{{< /collapse >}}
+
+### Erzählen Sie mehr über Ihre Arbeit.
+
+{{< collapse summary="Show sample answer" class="qa-answer" >}}
+*Ich arbeite als Data Scientist bei SMG in Zürich. Dort analysiere ich Daten, programmiere und entwickle Modelle, damit wir bessere Entscheidungen treffen können.*
+{{< /collapse >}}
+
+### Was haben Sie studiert?
+
+{{< collapse summary="Show sample answer" class="qa-answer" >}}
+*Ich habe in Moldau, Italien und Schweden studiert. Diese internationale Erfahrung hat mir geholfen, offen zu sein und mich schnell an neue Situationen anzupassen.*
+{{< /collapse >}}
+
+### Warum sind Sie in die Schweiz gekommen?
+
+{{< collapse summary="Show sample answer" class="qa-answer" >}}
+*Ich bin wegen der beruflichen Möglichkeiten und der hohen Lebensqualität in die Schweiz gekommen. Ausserdem finde ich das Land sehr gut organisiert und international.*
+{{< /collapse >}}
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Schreibstrategien für SDS (Writing Strategies for SDS)"
-weight: 50
+weight: 10
 ---
 
 ## Kernprinzip (Core Principle): Complete All Parts of the Prompt

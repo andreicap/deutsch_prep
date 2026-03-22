@@ -1,9 +1,9 @@
 ---
 title: "Reading Practice Exercises"
-weight: 50
+weight: 20
 ---
 
-> Work through these exercises to build SDS reading skills. Check your answers at the bottom of each section.
+> Work through these exercises to build SDS reading skills. Each question now has its answer tucked underneath, so you can check yourself one step at a time.
 
 ---
 
@@ -31,25 +31,41 @@ Read the job ad, then mark each statement **ja** or **nein**.
 
 ### Statements
 
-| # | Statement | Ja / Nein |
-|---|-----------|-----------|
-| 1 | Die Stelle ist in Zürich. | |
-| 2 | Man arbeitet Vollzeit. | |
-| 3 | Man braucht Verkaufserfahrung. | |
-| 4 | Die Arbeitszeit ist nachmittags. | |
-| 5 | Man muss Deutsch sprechen können. | |
-| 6 | Die Stelle beginnt im März. | |
+**1. Die Stelle ist in Zürich.**
 
-<details>
-<summary>Answers</summary>
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**Nein**. Die Stelle ist in Bern, nicht in Zürich.
+{{< /collapse >}}
 
-1. **Nein** — Die Stelle ist in Bern (nicht Zürich).
-2. **Nein** — 60% Pensum = Teilzeit.
-3. **Ja** — "Erfahrung im Verkauf (mindestens 1 Jahr)".
-4. **Nein** — 6:00–12:00 = morgens (vormittags).
-5. **Ja** — "Gute Deutschkenntnisse (B1)".
-6. **Nein** — "ab 1. April" (nicht März).
-</details>
+**2. Man arbeitet Vollzeit.**
+
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**Nein**. 60% Pensum bedeutet Teilzeit, nicht Vollzeit.
+{{< /collapse >}}
+
+**3. Man braucht Verkaufserfahrung.**
+
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**Ja**. In der Anzeige steht: "Erfahrung im Verkauf (mindestens 1 Jahr)".
+{{< /collapse >}}
+
+**4. Die Arbeitszeit ist nachmittags.**
+
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**Nein**. Die Arbeitszeit ist von 6:00 bis 12:00, also am Morgen bzw. Vormittag.
+{{< /collapse >}}
+
+**5. Man muss Deutsch sprechen können.**
+
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**Ja**. Gefordert werden gute Deutschkenntnisse auf B1-Niveau.
+{{< /collapse >}}
+
+**6. Die Stelle beginnt im März.**
+
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**Nein**. Die Stelle beginnt "ab 1. April", nicht im März.
+{{< /collapse >}}
 
 ---
 
@@ -65,24 +81,31 @@ Read the job ad, then mark each statement **ja** or **nein**.
 ### Questions
 
 **1. Wann beginnt der Kurs?**
+
 - a) Im August
 - b) Im September
 
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**b)** Im September. Im Text steht: "Neuer Kurs ab September!"
+{{< /collapse >}}
+
 **2. Wie oft pro Woche ist der Kurs?**
+
 - a) Einmal
 - b) Zweimal
 
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**a)** Einmal. "Jeden Mittwoch" bedeutet einmal pro Woche.
+{{< /collapse >}}
+
 **3. Wie meldet man sich an?**
+
 - a) Per E-Mail
 - b) Per Telefon
 
-<details>
-<summary>Answers</summary>
-
-1. **b)** Im September — "Neuer Kurs ab September!"
-2. **a)** Einmal — "Jeden Mittwoch" = 1x pro Woche.
-3. **b)** Per Telefon — "unter Tel. 031 123 45 67".
-</details>
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**b)** Per Telefon. Die Anmeldung läuft "unter Tel. 031 123 45 67".
+{{< /collapse >}}
 
 ---
 
@@ -110,14 +133,12 @@ Match each title (A–D) to the correct text (1–4).
 **Text 4:**
 > Mit wenig Geld kann man trotzdem gesund essen. Kaufen Sie saisonales Gemüse und kochen Sie grosse Portionen für die ganze Woche. So sparen Sie Zeit und Geld.
 
-<details>
-<summary>Answers</summary>
-
-- Text 1 → **C** (Velofahren in der Stadt)
-- Text 2 → **A** (Neue Öffnungszeiten der Bibliothek)
-- Text 3 → **D** (Sprachkurse für Anfänger)
-- Text 4 → **B** (Günstig und gesund kochen)
-</details>
+{{< collapse summary="Show answer key" class="qa-answer" >}}
+- Text 1 -> **C** (Velofahren in der Stadt)
+- Text 2 -> **A** (Neue Öffnungszeiten der Bibliothek)
+- Text 3 -> **D** (Sprachkurse für Anfänger)
+- Text 4 -> **B** (Günstig und gesund kochen)
+{{< /collapse >}}
 
 ---
 
@@ -132,27 +153,34 @@ Match each title (A–D) to the correct text (1–4).
 ### Questions
 
 **1. Wie viele Arbeitnehmende arbeiten mindestens einmal pro Woche von zu Hause?**
+
 - a) Die meisten
 - b) Fast die Hälfte
 - c) Etwa 40%
 
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**c)** Etwa 40%. Der Text sagt ausdrücklich, dass 40% mindestens einen Tag pro Woche im Homeoffice sind.
+{{< /collapse >}}
+
 **2. Was ist ein Nachteil von Homeoffice?**
+
 - a) Man verdient weniger.
 - b) Man hat weniger Kontakt zu Kollegen.
 - c) Man muss mehr arbeiten.
 
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**b)** Man hat weniger Kontakt zu Kollegen. Genau das wird im Text als Nachteil genannt.
+{{< /collapse >}}
+
 **3. Was empfehlen Experten?**
+
 - a) Kein Homeoffice
 - b) Jeden Tag Homeoffice
 - c) Zwei bis drei Tage pro Woche
 
-<details>
-<summary>Answers</summary>
-
-1. **c)** Etwa 40% — "dass 40% der Arbeitnehmenden mindestens einen Tag pro Woche im Homeoffice sind".
-2. **b)** Man hat weniger Kontakt zu Kollegen — "Es fehlt der soziale Kontakt mit Kollegen".
-3. **c)** Zwei bis drei Tage pro Woche — "Experten empfehlen maximal zwei bis drei Tage".
-</details>
+{{< collapse summary="Show answer" class="qa-answer" >}}
+**c)** Zwei bis drei Tage pro Woche. Experten empfehlen maximal zwei bis drei Tage, um die Vorteile zu nutzen.
+{{< /collapse >}}
 
 ---
 
@@ -177,9 +205,7 @@ Read the text, then fill in the form.
 | Familienstand | |
 | Beruf | |
 
-<details>
-<summary>Answers</summary>
-
+{{< collapse summary="Show completed form" class="qa-answer" >}}
 | Feld | Antwort |
 |------|---------|
 | Nachname | Surname |
@@ -190,7 +216,7 @@ Read the text, then fill in the form.
 | Geburtsdatum | 15.12.1993 |
 | Familienstand | ledig |
 | Beruf | Data Scientist |
-</details>
+{{< /collapse >}}
 
 ---
 

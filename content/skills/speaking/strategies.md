@@ -1,6 +1,6 @@
 ---
 title: "Speaking Strategies for SDS"
-weight: 50
+weight: 10
 ---
 
 ## Core Principle: Structure Over Perfection

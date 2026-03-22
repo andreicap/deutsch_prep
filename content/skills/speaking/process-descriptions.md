@@ -1,6 +1,6 @@
 ---
 title: "Speaking Module: Process Descriptions (Ablauf beschreiben)"
-weight: 50
+weight: 40
 ---
 
 > Duration: 2–4 minutes. Common at B1 level. Describe the steps of a familiar process.

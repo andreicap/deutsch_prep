@@ -1,6 +1,6 @@
 ---
 title: "Test-Day Tips (Prüfungstag)"
-weight: 50
+weight: 10
 ---
 
 > Everything you need to know and do on the day of the SDS exam.

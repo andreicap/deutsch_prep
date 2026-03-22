@@ -1,6 +1,6 @@
 ---
 title: "Email Phrases — Ready-to-Use (E-Mail Bausteine)"
-weight: 50
+weight: 20
 ---
 
 > Memorize these building blocks. Mix and match them to write any email the SDS asks for.

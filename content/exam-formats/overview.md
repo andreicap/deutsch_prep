@@ -1,6 +1,6 @@
 ---
 title: "SDS Exam — Format Overview"
-weight: 50
+weight: 10
 ---
 
 ## Test Structure

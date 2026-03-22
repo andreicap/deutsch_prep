@@ -1,6 +1,6 @@
 ---
 title: "SDS Writing — Task Formats"
-weight: 50
+weight: 40
 ---
 
 ## Overview

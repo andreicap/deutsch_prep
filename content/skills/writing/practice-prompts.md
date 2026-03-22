@@ -1,6 +1,6 @@
 ---
 title: "Writing Practice Prompts"
-weight: 50
+weight: 30
 ---
 
 > 30 writing prompts organized by level. Write each one, then compare with the templates in `email-templates.md`.

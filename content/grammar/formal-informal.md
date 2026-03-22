@@ -1,6 +1,6 @@
 ---
 title: "Formell vs. Informell (Formal vs. Informal) — Sie vs. Du"
-weight: 50
+weight: 30
 ---
 
 > In the SDS, choosing the right register matters. Here's when to use formal vs. informal German.

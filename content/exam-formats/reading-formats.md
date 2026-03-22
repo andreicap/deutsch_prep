@@ -1,6 +1,6 @@
 ---
 title: "SDS Reading — Task Formats"
-weight: 50
+weight: 20
 ---
 
 ## Overview
@@ -107,4 +107,3 @@ Reading tasks test your ability to understand written German at increasing diffi
 3. **Watch for traps**: negation (nicht, kein), time words (schon, noch, ab, bis), and qualifiers (nur, fast, etwa)
 4. **Manage your time** — move on if stuck; come back later
 5. **Practice with real Swiss-style texts**: SRF articles, job ads from jobs.ch, notices from Gemeinde websites
-
