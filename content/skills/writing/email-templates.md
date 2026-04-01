@@ -62,6 +62,21 @@ Freundliche Grüsse
 [Ihr Name]
 ```
 
+### Example filled in:
+
+> *Sehr geehrter Herr Keller,*
+>
+> *ich schreibe Ihnen, weil ich gerne fünf Tage Ferien nehmen möchte.*
+>
+> *Ich möchte vom 15. Juli bis zum 19. Juli frei haben. Der Grund ist, dass meine Eltern mich in Rumänien besuchen und ich Zeit mit ihnen verbringen möchte.*
+>
+> *Meine Arbeit kann in dieser Zeit von Frau Weber übernommen werden. Ich würde alle wichtigen Aufgaben vorher erledigen.*
+>
+> *Wäre das möglich? Ich freue mich auf Ihre Antwort.*
+>
+> *Freundliche Grüsse*
+> *Andrei Surname*
+
 ---
 
 ## Template 3: Excuse from School Event (B1)
@@ -83,6 +98,19 @@ Oder gibt es einen anderen Termin für ein Gespräch?
 Vielen Dank und freundliche Grüsse
 [Ihr Name]
 ```
+
+### Example filled in:
+
+> *Sehr geehrte Frau Zimmermann,*
+>
+> *vielen Dank für die Einladung zum Elternabend am 12. März.*
+>
+> *Leider kann ich an diesem Abend nicht teilnehmen, weil ich bis 19 Uhr arbeiten muss. Ich finde den Elternabend aber sehr wichtig und würde gerne die Informationen bekommen.*
+>
+> *Könnten Sie mir bitte die wichtigsten Punkte per E-Mail schicken? Oder gibt es einen anderen Termin für ein Gespräch?*
+>
+> *Vielen Dank und freundliche Grüsse*
+> *Andrei Surname*
 
 ---
 
@@ -108,6 +136,24 @@ Freundliche Grüsse
 [Ihr Name]
 ```
 
+### Example filled in:
+
+> *Sehr geehrte Damen und Herren,*
+>
+> *ich interessiere mich für den Intensivkurs Deutsch B1 und hätte einige Fragen.*
+>
+> *1. Wann beginnt der nächste Kurs?*
+> *2. Wie viel kostet der Kurs?*
+> *3. An welchen Tagen und zu welchen Zeiten findet er statt?*
+> *4. Brauche ich Vorkenntnisse?*
+>
+> *Könnten Sie mir bitte weitere Informationen schicken?*
+>
+> *Vielen Dank im Voraus.*
+>
+> *Freundliche Grüsse*
+> *Andrei Surname*
+
 ---
 
 ## Template 5: Report a Problem to Landlord (B1)
@@ -130,6 +176,19 @@ Ich bin [Tage/Zeiten] zu Hause.
 Vielen Dank und freundliche Grüsse
 [Ihr Name]
 ```
+
+### Example filled in:
+
+> *Sehr geehrter Herr Brunner,*
+>
+> *ich wohne in der Wohnung Bahnhofstrasse 12, 3. Stock, und möchte ein Problem melden.*
+>
+> *Seit letzter Woche funktioniert die Heizung im Wohnzimmer nicht richtig. Sie wird kaum warm, obwohl das Thermostat auf 22 Grad steht.*
+>
+> *Könnten Sie bitte jemanden schicken, der das repariert? Ich bin montags und mittwochs ab 16 Uhr sowie samstags den ganzen Tag zu Hause.*
+>
+> *Vielen Dank und freundliche Grüsse*
+> *Andrei Surname*
 
 ---
 
@@ -154,6 +213,21 @@ Ich freue mich auf Ihre Rückmeldung.
 Freundliche Grüsse
 [Ihr Name]
 ```
+
+### Example filled in:
+
+> *Sehr geehrte Frau Huber,*
+>
+> *vielen Dank für die Einladung zum Vorstellungsgespräch am 8. April um 10 Uhr.*
+>
+> *Leider habe ich an diesem Tag einen dringenden Termin beim Arzt und kann nicht kommen. Ich bitte um Entschuldigung.*
+>
+> *Wäre es möglich, das Gespräch auf einen anderen Tag zu verschieben? Ich könnte am 10. April oder am 11. April kommen.*
+>
+> *Ich freue mich auf Ihre Rückmeldung.*
+>
+> *Freundliche Grüsse*
+> *Andrei Surname*
 
 ---
 
