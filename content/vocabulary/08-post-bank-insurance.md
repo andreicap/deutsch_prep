@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 08 — Post / Bank / Versicherung (Post, Bank, Insurance)"
+title: "Wortschatzpaket 08 — Post / Bank / Versicherung (Vocabulary Pack 08 — Post, Bank, Insurance)"
 weight: 8
 ---
 

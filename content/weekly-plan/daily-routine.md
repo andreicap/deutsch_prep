@@ -1,5 +1,5 @@
 ---
-title: "Daily Routine — 45–75 Minutes"
+title: "Tagesroutine — 45–75 Minuten (Daily Routine — 45–75 Minutes)"
 weight: 50
 ---
 
@@ -7,7 +7,7 @@ weight: 50
 
 ---
 
-## Structure
+## Struktur (Structure)
 
 | Block | Duration | Focus | Options |
 |-------|----------|-------|---------|
@@ -17,7 +17,7 @@ weight: 50
 
 ---
 
-## Suggested Weekly Rhythm
+## Empfohlener Wochenrhythmus (Suggested Weekly Rhythm)
 
 | Day | Block 1 (Vocab) | Block 2 (Input) | Block 3 (Output) |
 |-----|-----------------|-----------------|-------------------|
@@ -31,7 +31,7 @@ weight: 50
 
 ---
 
-## Quick Activity Ideas
+## Schnelle Übungsideen (Quick Activity Ideas)
 
 ### Vocabulary (15 min)
 - Study a new vocab pack from `02-vocabulary/`
@@ -70,7 +70,7 @@ weight: 50
 
 ---
 
-## Daily Log (copy and paste for each day)
+## Tagesprotokoll (Daily Log — copy and paste for each day)
 
 | Date | Vocab topic | Input activity | Output activity | Minutes | Notes |
 |------|-------------|---------------|-----------------|---------|-------|

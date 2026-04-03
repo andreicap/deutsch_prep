@@ -1,5 +1,5 @@
 ---
-title: "Reading Practice Exercises"
+title: "Leseübungen (Reading Practice Exercises)"
 weight: 20
 ---
 
@@ -33,37 +33,37 @@ Read the job ad, then mark each statement **ja** or **nein**.
 
 **1. Die Stelle ist in Zürich.**
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **Nein**. Die Stelle ist in Bern, nicht in Zürich.
 {{< /collapse >}}
 
 **2. Man arbeitet Vollzeit.**
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **Nein**. 60% Pensum bedeutet Teilzeit, nicht Vollzeit.
 {{< /collapse >}}
 
 **3. Man braucht Verkaufserfahrung.**
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **Ja**. In der Anzeige steht: "Erfahrung im Verkauf (mindestens 1 Jahr)".
 {{< /collapse >}}
 
 **4. Die Arbeitszeit ist nachmittags.**
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **Nein**. Die Arbeitszeit ist von 6:00 bis 12:00, also am Morgen bzw. Vormittag.
 {{< /collapse >}}
 
 **5. Man muss Deutsch sprechen können.**
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **Ja**. Gefordert werden gute Deutschkenntnisse auf B1-Niveau.
 {{< /collapse >}}
 
 **6. Die Stelle beginnt im März.**
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **Nein**. Die Stelle beginnt "ab 1. April", nicht im März.
 {{< /collapse >}}
 
@@ -85,7 +85,7 @@ Read the job ad, then mark each statement **ja** or **nein**.
 - a) Im August
 - b) Im September
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **b)** Im September. Im Text steht: "Neuer Kurs ab September!"
 {{< /collapse >}}
 
@@ -94,7 +94,7 @@ Read the job ad, then mark each statement **ja** or **nein**.
 - a) Einmal
 - b) Zweimal
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **a)** Einmal. "Jeden Mittwoch" bedeutet einmal pro Woche.
 {{< /collapse >}}
 
@@ -103,7 +103,7 @@ Read the job ad, then mark each statement **ja** or **nein**.
 - a) Per E-Mail
 - b) Per Telefon
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **b)** Per Telefon. Die Anmeldung läuft "unter Tel. 031 123 45 67".
 {{< /collapse >}}
 
@@ -133,7 +133,7 @@ Match each title (A–D) to the correct text (1–4).
 **Text 4:**
 > Mit wenig Geld kann man trotzdem gesund essen. Kaufen Sie saisonales Gemüse und kochen Sie grosse Portionen für die ganze Woche. So sparen Sie Zeit und Geld.
 
-{{< collapse summary="Show answer key" class="qa-answer" >}}
+{{< collapse summary="Lösungsschlüssel anzeigen (Show answer key)" class="qa-answer" >}}
 - Text 1 -> **C** (Velofahren in der Stadt)
 - Text 2 -> **A** (Neue Öffnungszeiten der Bibliothek)
 - Text 3 -> **D** (Sprachkurse für Anfänger)
@@ -158,7 +158,7 @@ Match each title (A–D) to the correct text (1–4).
 - b) Fast die Hälfte
 - c) Etwa 40%
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **c)** Etwa 40%. Der Text sagt ausdrücklich, dass 40% mindestens einen Tag pro Woche im Homeoffice sind.
 {{< /collapse >}}
 
@@ -168,7 +168,7 @@ Match each title (A–D) to the correct text (1–4).
 - b) Man hat weniger Kontakt zu Kollegen.
 - c) Man muss mehr arbeiten.
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **b)** Man hat weniger Kontakt zu Kollegen. Genau das wird im Text als Nachteil genannt.
 {{< /collapse >}}
 
@@ -178,7 +178,7 @@ Match each title (A–D) to the correct text (1–4).
 - b) Jeden Tag Homeoffice
 - c) Zwei bis drei Tage pro Woche
 
-{{< collapse summary="Show answer" class="qa-answer" >}}
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
 **c)** Zwei bis drei Tage pro Woche. Experten empfehlen maximal zwei bis drei Tage, um die Vorteile zu nutzen.
 {{< /collapse >}}
 
@@ -205,7 +205,7 @@ Read the text, then fill in the form.
 | Familienstand | |
 | Beruf | |
 
-{{< collapse summary="Show completed form" class="qa-answer" >}}
+{{< collapse summary="Ausgefülltes Formular anzeigen (Show completed form)" class="qa-answer" >}}
 | Feld | Antwort |
 |------|---------|
 | Nachname | Surname |
@@ -220,7 +220,7 @@ Read the text, then fill in the form.
 
 ---
 
-## Tracking Your Progress
+## Lernfortschritt festhalten (Tracking Your Progress)
 
 | Exercise | Date | Score | Notes |
 |----------|------|-------|-------|

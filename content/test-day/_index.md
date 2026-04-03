@@ -1,4 +1,4 @@
 ---
-title: "Test Day"
+title: "Prüfungstag (Test Day)"
 weight: 6
 ---

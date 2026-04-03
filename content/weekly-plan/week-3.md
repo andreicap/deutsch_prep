@@ -1,5 +1,5 @@
 ---
-title: "Week 3 — Reading Focus + Speaking Intro & Process Descriptions"
+title: "Woche 3 — Fokus Lesen + Sprecheinführung & Abläufe beschreiben (Week 3 — Reading Focus + Speaking Intro & Process Descriptions)"
 weight: 50
 ---
 

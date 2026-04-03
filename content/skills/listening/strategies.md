@@ -1,15 +1,15 @@
 ---
-title: "Listening Strategies for SDS"
+title: "Hörstrategien für SDS (Listening Strategies for SDS)"
 weight: 10
 ---
 
-## Core Principle: One-Pass Listening
+## Kernprinzip: Einmal hören (Core Principle: One-Pass Listening)
 
 At B1/B2 level, some audio may play **only once**. You must extract key information on the first listen. This is a trainable skill.
 
 ---
 
-## Strategy 1: Pre-Read Everything
+## Strategie 1: Alles vorher lesen (Strategy 1: Pre-Read Everything)
 
 Before the audio plays:
 1. Read ALL questions and answer options
@@ -18,7 +18,7 @@ Before the audio plays:
 
 **This is the most important strategy.** If you know what to listen for, you'll hear it.
 
-## Strategy 2: Listen for Keywords, Not Full Understanding
+## Strategie 2: Auf Schlüsselwörter hören, nicht auf vollständiges Verstehen (Strategy 2: Listen for Keywords, Not Full Understanding)
 
 You do NOT need to understand every word. Focus on:
 - **Names and numbers** (dates, times, prices, phone numbers)
@@ -27,14 +27,14 @@ You do NOT need to understand every word. Focus on:
 - **Negation** (nicht, kein, nie, ohne)
 - **Transition words** ("aber" often reverses meaning)
 
-## Strategy 3: Track Speakers
+## Strategie 3: Sprecher verfolgen (Strategy 3: Track Speakers)
 
 For interview/survey tasks (B1/B2):
 - Notice when the **voice changes** — that's a new speaker
 - Mentally number the speakers (Person 1, 2, 3)
 - Write the keyword you hear for each speaker immediately
 
-## Strategy 4: Listen for Tone and "Aber"
+## Strategie 4: Auf Tonfall und "aber" achten (Strategy 4: Listen for Tone and "Aber")
 
 For satisfaction/opinion tasks:
 - A positive start + "aber" + negative = **negative overall**
@@ -49,7 +49,7 @@ For satisfaction/opinion tasks:
 | "Leider war es nicht so toll." | unzufrieden |
 | "Zum Glück hat alles geklappt." | zufrieden |
 
-## Strategy 5: Don't Freeze
+## Strategie 5: Nicht blockieren (Strategy 5: Don't Freeze)
 
 If you miss an answer:
 1. Make your best guess immediately
@@ -59,7 +59,7 @@ If you miss an answer:
 
 ---
 
-## Training Drills
+## Trainingsübungen (Training Drills)
 
 ### Drill 1: Number Dictation (5 min daily)
 
@@ -90,7 +90,7 @@ German number pitfalls:
 
 ---
 
-## Practice Sources
+## Übungsquellen (Practice Sources)
 
 | Source | Type | Level |
 |--------|------|-------|
@@ -104,7 +104,7 @@ German number pitfalls:
 
 ---
 
-## Daily Listening Routine (15–20 min)
+## Tägliche Hörroutine (Daily Listening Routine) (15–20 min)
 
 | Day | Activity |
 |-----|----------|

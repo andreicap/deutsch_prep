@@ -3,7 +3,7 @@ title: "Schreibstrategien für SDS (Writing Strategies for SDS)"
 weight: 10
 ---
 
-## Kernprinzip (Core Principle): Complete All Parts of the Prompt
+## Kernprinzip (Core Principle): Alle Teile der Aufgabe beantworten (Complete All Parts of the Prompt)
 
 The #1 mistake in SDS writing: **not answering all parts of the prompt**. If the prompt says "apologize, explain why, suggest a new date" — you MUST do all three.
 

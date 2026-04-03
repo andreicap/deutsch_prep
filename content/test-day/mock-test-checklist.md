@@ -1,5 +1,5 @@
 ---
-title: "Mock Test Checklist"
+title: "Checkliste für Probetests (Mock Test Checklist)"
 weight: 20
 ---
 

@@ -1,4 +1,4 @@
 ---
-title: "Writing"
+title: "Schreiben (Writing)"
 weight: 3
 ---

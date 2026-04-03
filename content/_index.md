@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Startseite (Home)"
 weight: 0
 ---
 
@@ -7,11 +7,11 @@ weight: 0
 
 ---
 
-## Master Checklist
+## Haupt-Checkliste (Master Checklist)
 
 Track your progress across all preparation areas. Check items off as you complete them.
 
-### Phase 0: Setup & Orientation
+### Phase 0: Einrichtung & Orientierung (Setup & Orientation)
 
 - [ ] Read the full `README.md` for the 6-week plan overview
 - [ ] Review all 4 exam format guides (`01-exam-formats/`)
@@ -20,7 +20,7 @@ Track your progress across all preparation areas. Check items off as you complet
 - [ ] Set your target level (minimum needed for your permit/application)
 - [ ] Practice typing on a tablet/touch keyboard (test is on a tablet!)
 
-### Phase 1: Vocabulary — 10 Topic Packs
+### Phase 1: Wortschatz — 10 Themenpakete (Vocabulary — 10 Topic Packs)
 
 Complete each pack (30–80 words). Review with flashcards or self-testing.
 
@@ -35,7 +35,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Pack 09 — [Transport (Verkehr / Mobilität)](02-vocabulary/09-transport.md)
 - [ ] Pack 10 — [Housing & Neighborhood (Wohnen & Nachbarschaft)](02-vocabulary/10-housing-neighborhood.md)
 
-### Phase 2: Skill Training — Reading
+### Phase 2: Fertigkeitstraining — Lesen (Skill Training — Reading)
 
 - [ ] Read [Reading Strategies](03-skills/reading/strategies.md)
 - [ ] Practice: Word ↔ Picture matching (pre-A1/A1)
@@ -47,7 +47,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Do 5 timed true/false exercises on job ads
 - [ ] Do 3 title-matching exercises
 
-### Phase 3: Skill Training — Listening
+### Phase 3: Fertigkeitstraining — Hören (Skill Training — Listening)
 
 - [ ] Read [Listening Strategies](03-skills/listening/strategies.md)
 - [ ] Practice: 3 words → match 3 pictures (pre-A1/A1)
@@ -58,7 +58,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Practice with workplace dialogues
 - [ ] Practice with short announcements (train, shop, office)
 
-### Phase 4: Skill Training — Writing
+### Phase 4: Fertigkeitstraining — Schreiben (Skill Training — Writing)
 
 - [ ] Read [Writing Strategies](03-skills/writing/strategies.md)
 - [ ] Read [Email Templates](03-skills/writing/email-templates.md)
@@ -71,7 +71,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Write 5 opinion/pro-con texts (~200 words) (B2)
 - [ ] Practice writing on a tablet/touch keyboard
 
-### Phase 5: Skill Training — Speaking
+### Phase 5: Fertigkeitstraining — Sprechen (Skill Training — Speaking)
 
 - [ ] Read [Speaking Strategies](03-skills/speaking/strategies.md)
 - [ ] Prepare 60–90 sec self-introduction (memorize structure, not script)
@@ -85,7 +85,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Do at least 2 mock speaking interviews (with a partner or tutor)
 - [ ] Practice handling follow-up / counter-questions
 
-### Phase 6: Grammar & Connectors
+### Phase 6: Grammatik & Konnektoren (Grammar & Connectors)
 
 - [ ] Read [Connectors](05-grammar/connectors.md) — learn B1/B2 connectors
 - [ ] Read [Email Phrases](05-grammar/email-phrases.md) — learn formal + informal phrases
@@ -93,7 +93,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Practice using connectors in writing (weil, obwohl, deswegen, außerdem)
 - [ ] Practice email openings/closings from memory
 
-### Phase 7: Weekly Plan Execution
+### Phase 7: Wochenplan umsetzen (Weekly Plan Execution)
 
 - [ ] Complete Week 1: Formats + baseline + vocabulary packs 1–3
 - [ ] Complete Week 2: A1/A2 writing (messages + simple emails) + listening basics
@@ -102,7 +102,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Complete Week 5: B2 argumentation (speaking + writing) + timed mixed practice
 - [ ] Complete Week 6: 2–3 full mock runs + error log + weak-area repair
 
-### Phase 8: Mock Tests & Final Review
+### Phase 8: Probetests & Schlusswiederholung (Mock Tests & Final Review)
 
 - [ ] Complete Mock Test 1 (all 4 skills, timed)
 - [ ] Complete Mock Test 2 (all 4 skills, timed)
@@ -113,7 +113,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 - [ ] Final email writing review (write 3 emails under time pressure)
 - [ ] Final speaking rehearsal (all modules once)
 
-### Phase 9: Test-Day Preparation
+### Phase 9: Vorbereitung auf den Prüfungstag (Test-Day Preparation)
 
 - [ ] Read [Tips & Preparation](06-test-day/test-day-tips.md)
 - [ ] Confirm test date, time, location
@@ -125,7 +125,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 
 ---
 
-## Daily Minimum (45–75 min)
+## Tagesminimum (Daily Minimum) (45–75 min)
 
 - **15 min** — Vocabulary (one topic)
 - **15–20 min** — Listening or Reading
@@ -133,7 +133,7 @@ Complete each pack (30–80 words). Review with flashcards or self-testing.
 
 ---
 
-## Progress Tracker
+## Fortschrittsübersicht (Progress Tracker)
 
 | Week | Vocab Packs Done | Reading | Listening | Writing | Speaking | Notes |
 | ---- | ---------------- | ------- | --------- | ------- | -------- | ----- |

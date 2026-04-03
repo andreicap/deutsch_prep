@@ -1,5 +1,5 @@
 ---
-title: "Week 1 — Formats + Baseline + Vocabulary Packs 1–3"
+title: "Woche 1 — Formate + Ausgangsniveau + Wortschatzpakete 1–3 (Week 1 — Formats + Baseline + Vocabulary Packs 1–3)"
 weight: 50
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 06 — Kinder / Schule (Children & School)"
+title: "Wortschatzpaket 06 — Kinder / Schule (Vocabulary Pack 06 — Children & School)"
 weight: 6
 ---
 

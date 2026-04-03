@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 07 — Medien & Freizeit (Media & Leisure)"
+title: "Wortschatzpaket 07 — Medien & Freizeit (Vocabulary Pack 07 — Media & Leisure)"
 weight: 7
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: "SDS Speaking — Task Formats"
+title: "SDS Sprechen — Aufgabenformate (SDS Speaking — Task Formats)"
 weight: 50
 ---
 
-## Overview
+## Überblick (Overview)
 
 The speaking section is a **live interview** (phone or video call) during the test. An examiner calls you and asks you to do 1–4 tasks, depending on your level. You can speak **Hochdeutsch** (Standard German) or **Mundart** (Swiss German).
 
 ---
 
-## Task Type 1: Answer Personal Questions (A1 / A2)
+## Aufgabentyp 1: Persönliche Fragen beantworten (Task Type 1: Answer Personal Questions) (A1 / A2)
 
 **Format**: The interviewer asks about you — name, origin, family, job, daily life.
 
@@ -28,7 +28,7 @@ The speaking section is a **live interview** (phone or video call) during the te
 
 ---
 
-## Task Type 2: Describe a Process (B1)
+## Aufgabentyp 2: Einen Ablauf beschreiben (Task Type 2: Describe a Process) (B1)
 
 **Format**: Describe how something works or the steps involved in a process.
 
@@ -50,7 +50,7 @@ The speaking section is a **live interview** (phone or video call) during the te
 
 ---
 
-## Task Type 3: Hypothesis / Description with Justification (B1 / B2)
+## Aufgabentyp 3: Vermutung / Beschreibung mit Begründung (Task Type 3: Hypothesis / Description with Justification) (B1 / B2)
 
 **Format**: You're given a situation or picture → describe it and give reasons / speculate.
 
@@ -66,7 +66,7 @@ The speaking section is a **live interview** (phone or video call) during the te
 
 ---
 
-## Task Type 4: Short Presentation — Pro/Contra + Opinion (B2)
+## Aufgabentyp 4: Kurzpräsentation — Pro/Contra + Meinung (Task Type 4: Short Presentation — Pro/Contra + Opinion) (B2)
 
 **Format**: You get a topic → prepare briefly → present pros and cons + your opinion (2–4 minutes).
 
@@ -89,7 +89,7 @@ The speaking section is a **live interview** (phone or video call) during the te
 
 ---
 
-## Common Test-Taker Experiences (from Swiss forum reports)
+## Häufige Erfahrungen von Prüfungsteilnehmenden (Common Test-Taker Experiences — from Swiss forum reports)
 
 - The interview gets **longer and more probing** if you perform well — expect counter-questions
 - Some examiners ask: *"Können Sie das genauer erklären?"* or *"Warum denken Sie das?"*
@@ -98,7 +98,7 @@ The speaking section is a **live interview** (phone or video call) during the te
 
 ---
 
-## General Speaking Tips
+## Allgemeine Sprechtipps (General Speaking Tips)
 
 1. **Don't memorize scripts** — memorize structures and key phrases
 2. **Speak in full sentences** — avoid one-word answers

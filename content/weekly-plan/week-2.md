@@ -1,5 +1,5 @@
 ---
-title: "Week 2 — A1/A2 Writing + Listening Basics"
+title: "Woche 2 — A1/A2 Schreiben + Grundlagen im Hören (Week 2 — A1/A2 Writing + Listening Basics)"
 weight: 50
 ---
 

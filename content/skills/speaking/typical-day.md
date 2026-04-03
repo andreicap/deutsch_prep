@@ -1,13 +1,13 @@
 ---
-title: "Speaking Module: Typical Day (Ein typischer Tag)"
+title: "Sprechmodul: Ein typischer Tag (Typical Day)"
 weight: 30
 ---
 
-> Duration: 2–3 minutes. Common at A2–B1 level. Describe your daily routine at work and/or in your free time.
+> Dauer (Duration): 2–3 Minuten. Häufig auf A2–B1-Niveau. Beschreiben Sie Ihren Tagesablauf bei der Arbeit und/oder in der Freizeit.
 
 ---
 
-## Structure
+## Struktur (Structure)
 
 ```
 1. Morning routine (aufstehen, frühstücken, zur Arbeit fahren)
@@ -20,7 +20,7 @@ weight: 30
 
 ---
 
-## Useful Time Expressions
+## Nützliche Zeitangaben (Useful Time Expressions)
 
 | Deutsch | English |
 |---------|---------|
@@ -39,7 +39,7 @@ weight: 30
 
 ---
 
-## Template (pre-filled with your details)
+## Vorlage (Template — pre-filled with your details)
 
 > *Ich stehe normalerweise um [Uhrzeit] auf. Zuerst dusche ich und mache mir einen Kaffee.*
 >
@@ -55,7 +55,7 @@ weight: 30
 
 ---
 
-## Example (Andrei's version)
+## Beispiel (Example — Andrei's version)
 
 > *Ich stehe normalerweise um sieben Uhr auf. Zuerst dusche ich und dann mache ich mir einen Kaffee und frühstücke mit meiner Freundin.*
 >
@@ -71,7 +71,7 @@ weight: 30
 
 ---
 
-## Variation: Weekend
+## Variante: Wochenende (Variation: Weekend)
 
 If asked *"Was machen Sie am Wochenende?"*:
 
@@ -85,7 +85,7 @@ If asked *"Was machen Sie am Wochenende?"*:
 
 ---
 
-## Common Follow-Up Questions
+## Häufige Anschlussfragen (Common Follow-Up Questions)
 
 | Question | Key vocabulary to prepare |
 |----------|-------------------------|
@@ -97,7 +97,7 @@ If asked *"Was machen Sie am Wochenende?"*:
 
 ---
 
-## Practice Checklist
+## Übungscheckliste (Practice Checklist)
 
 - [ ] Write your own "typical day" (using the template)
 - [ ] Write a "typical weekend" variant

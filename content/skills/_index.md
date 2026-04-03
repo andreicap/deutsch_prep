@@ -1,4 +1,4 @@
 ---
-title: "Skills"
+title: "Fertigkeiten (Skills)"
 weight: 3
 ---

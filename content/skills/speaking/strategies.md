@@ -1,15 +1,15 @@
 ---
-title: "Speaking Strategies for SDS"
+title: "Sprechstrategien für SDS (Speaking Strategies for SDS)"
 weight: 10
 ---
 
-## Core Principle: Structure Over Perfection
+## Kernprinzip: Struktur vor Perfektion (Core Principle: Structure Over Perfection)
 
 The examiner is listening for **structured, understandable speech** — not perfect grammar. A well-organized answer with some grammar mistakes scores higher than a grammatically perfect one-word answer.
 
 ---
 
-## Strategy 1: Memorize Structures, Not Scripts
+## Strategie 1: Strukturen lernen, nicht Skripte (Strategy 1: Memorize Structures, Not Scripts)
 
 Don't learn answers word-for-word. Instead, learn **frameworks** you can fill with any content:
 
@@ -20,7 +20,7 @@ Don't learn answers word-for-word. Instead, learn **frameworks** you can fill wi
 | Pro/contra | Thema → 2 Vorteile → 2 Nachteile → Meine Meinung |
 | Picture description | Was ich sehe → Was passiert → Was ich denke |
 
-## Strategy 2: Expand Your Answers
+## Strategie 2: Antworten ausbauen (Strategy 2: Expand Your Answers)
 
 Never give one-word answers. Use the **3-sentence rule**:
 
@@ -29,7 +29,7 @@ Never give one-word answers. Use the **3-sentence rule**:
 | Was machen Sie beruflich? | "Ich arbeite." | "Ich arbeite als Data Scientist bei SMG in Zürich. Ich analysiere Daten und programmiere. Die Arbeit gefällt mir, weil sie abwechslungsreich ist." |
 | Woher kommen Sie? | "Moldau." | "Ich komme aus Chișinău in Moldau. Ich habe in Moldau, Italien und Schweden studiert. Jetzt lebe ich in Zürich mit meiner Freundin." |
 
-## Strategy 3: Use Fillers and Stalling Phrases
+## Strategie 3: Füllwörter und Denkpausen nutzen (Strategy 3: Use Fillers and Stalling Phrases)
 
 When you need time to think:
 
@@ -44,7 +44,7 @@ When you need time to think:
 
 These are **not** signs of weakness — native speakers use them constantly.
 
-## Strategy 4: Self-Correct Confidently
+## Strategie 4: Sich selbst sicher korrigieren (Strategy 4: Self-Correct Confidently)
 
 If you make a mistake, correct it smoothly:
 
@@ -53,7 +53,7 @@ If you make a mistake, correct it smoothly:
 
 Self-correction shows awareness and is scored positively.
 
-## Strategy 5: Handle Follow-Up Questions
+## Strategie 5: Mit Anschlussfragen umgehen (Strategy 5: Handle Follow-Up Questions)
 
 At higher levels, the examiner asks probing questions. Be ready:
 
@@ -65,7 +65,7 @@ At higher levels, the examiner asks probing questions. Be ready:
 | Was wäre die Alternative? | Eine Möglichkeit wäre, dass… |
 | Sind Sie sicher? | Ja, ich denke schon, weil… / Vielleicht nicht ganz, aber… |
 
-## Strategy 6: Ask for Repetition (It's OK!)
+## Strategie 6: Um Wiederholung bitten (Strategy 6: Ask for Repetition)
 
 If you don't understand:
 - *Entschuldigung, können Sie die Frage bitte wiederholen?*
@@ -76,7 +76,7 @@ Asking for repetition is much better than guessing wrong.
 
 ---
 
-## Speaking Warm-Up Routine (5 min before practice)
+## Sprech-Warm-up (Speaking Warm-Up Routine — 5 min before practice)
 
 1. Count from 1 to 20 out loud
 2. Say the days of the week and months
@@ -85,7 +85,7 @@ Asking for repetition is much better than guessing wrong.
 
 ---
 
-## Practice Method: Record and Review
+## Übungsmethode: Aufnehmen und auswerten (Practice Method: Record and Review)
 
 1. Set a timer (1–3 minutes depending on task)
 2. Record yourself on your phone
@@ -99,7 +99,7 @@ Asking for repetition is much better than guessing wrong.
 
 ---
 
-## Common Speaking Topics (from test-taker reports)
+## Häufige Sprechthemen (Common Speaking Topics — from test-taker reports)
 
 - [ ] Introduce yourself (name, origin, family, job, hobbies)
 - [ ] Talk about your family / job + follow-up questions

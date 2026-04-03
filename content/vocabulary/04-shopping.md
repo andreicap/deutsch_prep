@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 04 — Einkaufen (Shopping)"
+title: "Wortschatzpaket 04 — Einkaufen (Vocabulary Pack 04 — Shopping)"
 weight: 4
 ---
 

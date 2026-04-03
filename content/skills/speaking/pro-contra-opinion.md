@@ -1,13 +1,13 @@
 ---
-title: "Speaking Module: Pro/Contra + Opinion (Argumentation)"
+title: "Sprechmodul: Pro/Contra + Meinung (Speaking Module: Pro/Contra + Opinion)"
 weight: 50
 ---
 
-> Duration: 2–4 minutes. B2-level task. Present both sides of a topic and give your opinion.
+> Dauer (Duration): 2–4 Minuten. B2-Aufgabe. Präsentieren Sie beide Seiten eines Themas und geben Sie Ihre Meinung.
 
 ---
 
-## Structure (memorize this framework)
+## Struktur (Structure — memorize this framework)
 
 ```
 1. INTRODUCTION (10 sec)
@@ -31,15 +31,15 @@ weight: 50
 
 ---
 
-## Key Phrases for Argumentation
+## Wichtige Formulierungen für die Argumentation (Key Phrases for Argumentation)
 
-### Introducing the topic
+### Das Thema einführen (Introducing the topic)
 - *Es geht um die Frage, ob…*
 - *Das Thema… wird oft diskutiert.*
 - *Viele Menschen fragen sich, ob…*
 - *Heutzutage ist… ein wichtiges Thema.*
 
-### Arguments FOR
+### Argumente DAFÜR (Arguments FOR)
 - *Einerseits…*
 - *Ein Vorteil ist, dass…*
 - *Dafür spricht, dass…*
@@ -47,7 +47,7 @@ weight: 50
 - *Ausserdem / Darüber hinaus…*
 - *Zum Beispiel…*
 
-### Arguments AGAINST
+### Argumente DAGEGEN (Arguments AGAINST)
 - *Andererseits…*
 - *Ein Nachteil ist, dass…*
 - *Dagegen spricht, dass…*
@@ -55,25 +55,25 @@ weight: 50
 - *Ein Problem dabei ist, dass…*
 - *Allerdings…*
 
-### Your opinion
+### Ihre Meinung (Your opinion)
 - *Meiner Meinung nach…*
 - *Ich persönlich denke, dass…*
 - *Ich bin der Meinung, dass…*
 - *Aus meiner Sicht…*
 - *Ich finde, dass…*
 
-### Conclusion
+### Schluss / Fazit (Conclusion)
 - *Zusammenfassend kann man sagen, dass…*
 - *Alles in allem denke ich, dass…*
 - *Insgesamt überwiegen die Vorteile / Nachteile.*
 
 ---
 
-## Topic 1: Sunday Shopping (Sonntagsverkauf)
+## Thema 1: Sonntagsverkauf (Sunday Shopping)
 
 *Sollten Geschäfte am Sonntag geöffnet sein?*
 
-{{< collapse summary="Show model answer" class="qa-answer" >}}
+{{< collapse summary="Musterantwort anzeigen (Show model answer)" class="qa-answer" >}}
 *Das Thema Sonntagsverkauf wird in der Schweiz oft diskutiert. Es gibt sowohl Argumente dafür als auch dagegen.*
 
 *Einerseits wäre es praktisch für berufstätige Menschen, die unter der Woche keine Zeit zum Einkaufen haben. Besonders Familien könnten davon profitieren. Ausserdem könnten die Geschäfte mehr Umsatz machen und vielleicht sogar neue Arbeitsplätze schaffen.*
@@ -87,11 +87,11 @@ weight: 50
 
 ---
 
-## Topic 2: Home Office
+## Thema 2: Homeoffice (Home Office)
 
 *Sollten Arbeitnehmer das Recht auf Home-Office haben?*
 
-{{< collapse summary="Show model answer" class="qa-answer" >}}
+{{< collapse summary="Musterantwort anzeigen (Show model answer)" class="qa-answer" >}}
 *Viele Menschen diskutieren heute darüber, ob Arbeitnehmer ein Recht auf Home-Office haben sollten. Dieses Thema ist besonders seit der Pandemie sehr aktuell geworden.*
 
 *Einerseits bietet Home-Office mehr Flexibilität und oft auch eine bessere Work-Life-Balance. Man spart Pendelzeit, was weniger Stress bedeutet und auch besser für die Umwelt sein kann. In meinem Beruf als Data Scientist kann ich viele Aufgaben gut von zu Hause erledigen, weil ich hauptsächlich einen Laptop brauche.*
@@ -103,11 +103,11 @@ weight: 50
 
 ---
 
-## Topic 3: Smartphones for Children
+## Thema 3: Smartphones für Kinder (Smartphones for Children)
 
 *Ab welchem Alter sollten Kinder ein Smartphone haben?*
 
-{{< collapse summary="Show model answer" class="qa-answer" >}}
+{{< collapse summary="Musterantwort anzeigen (Show model answer)" class="qa-answer" >}}
 *Die Frage, ab welchem Alter Kinder ein Smartphone haben sollten, wird oft diskutiert. Es gibt gute Gründe dafür, aber auch wichtige Risiken.*
 
 *Einerseits kann ein Smartphone die Sicherheit verbessern, weil Eltern ihre Kinder erreichen können. Ausserdem lernen Kinder früh den Umgang mit digitaler Technik, was in der Zukunft wichtig sein wird. Viele Kinder möchten auch mit ihren Freunden in Kontakt bleiben.*
@@ -119,11 +119,11 @@ weight: 50
 
 ---
 
-## Topic 4: Free Public Transport
+## Thema 4: Gratiser öffentlicher Verkehr (Free Public Transport)
 
 *Sollte der öffentliche Verkehr gratis sein?*
 
-{{< collapse summary="Show model answer" class="qa-answer" >}}
+{{< collapse summary="Musterantwort anzeigen (Show model answer)" class="qa-answer" >}}
 *Es wird oft gefragt, ob der öffentliche Verkehr gratis sein sollte. Besonders in grossen Städten ist dieses Thema sehr interessant.*
 
 *Einerseits wäre gratiser öffentlicher Verkehr gut für die Umwelt, weil vielleicht weniger Menschen mit dem Auto fahren würden. Ausserdem wäre es sozial gerechter, weil auch Menschen mit wenig Geld mobil bleiben könnten. Gerade in einer Stadt wie Zürich wäre das für viele Personen attraktiv.*
@@ -135,11 +135,11 @@ weight: 50
 
 ---
 
-## Topic 5: Workplace Training (Weiterbildung)
+## Thema 5: Weiterbildung am Arbeitsplatz (Workplace Training)
 
 *Sollten Arbeitgeber Weiterbildungen für alle Mitarbeitenden bezahlen?*
 
-{{< collapse summary="Show model answer" class="qa-answer" >}}
+{{< collapse summary="Musterantwort anzeigen (Show model answer)" class="qa-answer" >}}
 *Viele Firmen fragen sich, ob sie Weiterbildungen für alle Mitarbeitenden bezahlen sollten. Das ist ein wichtiges Thema, besonders in Berufen, die sich schnell verändern.*
 
 *Einerseits profitieren die Mitarbeitenden, weil sie neue Kenntnisse und Fähigkeiten erwerben. Davon profitiert aber auch die Firma, weil qualifizierte Mitarbeiter bessere Arbeit leisten können. In Bereichen wie IT und Data Science ist Weiterbildung besonders wichtig, weil sich Tools und Methoden ständig weiterentwickeln.*
@@ -151,7 +151,7 @@ weight: 50
 
 ---
 
-## Practice Method
+## Übungsmethode (Practice Method)
 
 1. **Choose a topic**
 2. **Take 2 minutes to prepare** (write down 2 pro + 2 contra keywords)
@@ -164,7 +164,7 @@ weight: 50
 
 ---
 
-## Practice Checklist
+## Übungscheckliste (Practice Checklist)
 
 - [ ] Topic 1 (Sunday shopping) — can argue for 3+ minutes
 - [ ] Topic 2 (Home office) — can argue for 3+ minutes

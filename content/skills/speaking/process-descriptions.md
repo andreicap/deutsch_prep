@@ -1,13 +1,13 @@
 ---
-title: "Speaking Module: Process Descriptions (Ablauf beschreiben)"
+title: "Sprechmodul: Abläufe beschreiben (Process Descriptions)"
 weight: 40
 ---
 
-> Duration: 2–4 minutes. Common at B1 level. Describe the steps of a familiar process.
+> Dauer (Duration): 2–4 Minuten. Häufig auf B1-Niveau. Beschreiben Sie die Schritte eines vertrauten Ablaufs.
 
 ---
 
-## Structure (use for ANY process)
+## Struktur (Structure — use for ANY process)
 
 ```
 Introduction: "Wenn man [X] machen möchte, muss man Folgendes tun:"
@@ -21,7 +21,7 @@ Closing: "So funktioniert das normalerweise."
 
 ---
 
-## Sequence Words (Reihenfolge)
+## Reihenfolge-Wörter (Sequence Words)
 
 | Deutsch | English |
 |---------|---------|
@@ -38,7 +38,7 @@ Closing: "So funktioniert das normalerweise."
 
 ---
 
-## Process 1: Going to the Doctor (Zum Arzt gehen)
+## Ablauf 1: Zum Arzt gehen (Going to the Doctor)
 
 > *Wenn man in der Schweiz zum Arzt gehen möchte, muss man ein paar Schritte beachten.*
 >
@@ -54,7 +54,7 @@ Closing: "So funktioniert das normalerweise."
 
 ---
 
-## Process 2: Searching for an Apartment (Wohnungssuche)
+## Ablauf 2: Eine Wohnung suchen (Searching for an Apartment)
 
 > *Die Wohnungssuche in der Schweiz ist oft nicht einfach, besonders in Zürich. Man muss mehrere Schritte machen.*
 >
@@ -70,7 +70,7 @@ Closing: "So funktioniert das normalerweise."
 
 ---
 
-## Process 3: Renewing a Residence Permit (Aufenthaltsbewilligung verlängern)
+## Ablauf 3: Eine Aufenthaltsbewilligung verlängern (Renewing a Residence Permit)
 
 > *Wenn die Aufenthaltsbewilligung bald abläuft, muss man sie rechtzeitig verlängern. Das kenne ich gut, weil ich als Moldauer in der Schweiz einen Ausweis B habe.*
 >
@@ -88,7 +88,7 @@ Closing: "So funktioniert das normalerweise."
 
 ---
 
-## Process 4: Starting a New Job (Eine neue Stelle anfangen)
+## Ablauf 4: Eine neue Stelle anfangen (Starting a New Job)
 
 > *Wenn man eine Zusage für eine neue Stelle bekommt, gibt es einige Schritte. Als ich bei SMG als Data Scientist angefangen habe, war es ähnlich.*
 >
@@ -104,7 +104,7 @@ Closing: "So funktioniert das normalerweise."
 
 ---
 
-## How to Practice
+## So üben Sie (How to Practice)
 
 1. **Choose a process** from above (or create your own)
 2. **Read it once** to understand the structure
@@ -113,7 +113,7 @@ Closing: "So funktioniert das normalerweise."
 5. **Listen back** — check: Did you cover all steps? Was the order logical?
 6. **Repeat** until you can describe it fluently
 
-### Additional processes to practice:
+### Weitere Abläufe zum Üben (Additional processes to practice):
 
 - [ ] How to register at the Gemeinde (Anmeldung)
 - [ ] How to open a bank account
@@ -123,7 +123,7 @@ Closing: "So funktioniert das normalerweise."
 
 ---
 
-## Practice Checklist
+## Übungscheckliste (Practice Checklist)
 
 - [ ] Process 1 (Doctor) — can describe in 2+ minutes without notes
 - [ ] Process 2 (Apartment) — can describe in 2+ minutes without notes

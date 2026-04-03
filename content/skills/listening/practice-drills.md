@@ -1,5 +1,5 @@
 ---
-title: "Listening Practice Drills"
+title: "Hörübungen (Listening Practice Drills)"
 weight: 20
 ---
 
@@ -7,14 +7,14 @@ weight: 20
 
 ---
 
-## Drill Set 1: Number & Details Dictation (pre-A1 / A1)
+## Übungsblock 1: Zahlen- und Detaildiktat (Drill Set 1: Number & Details Dictation) (pre-A1 / A1)
 
-### How to practice:
+### So üben Sie (How to practice):
 1. Go to YouTube and search: "Deutsch hören Zahlen" or "German numbers listening"
 2. Play the audio and write down every number, time, date, or price you hear
 3. Check against transcript or subtitles
 
-### Focus areas:
+### Fokusbereiche (Focus areas):
 - [ ] Numbers 1–100
 - [ ] Compound numbers (einundzwanzig, siebenundsiebzig)
 - [ ] Times (Uhrzeit): 8:30 = *halb neun* or *acht Uhr dreissig*
@@ -22,7 +22,7 @@ weight: 20
 - [ ] Prices: *dreiundzwanzig Franken fünfzig* = CHF 23.50
 - [ ] Phone numbers: spoken digit by digit
 
-### Common time expressions to recognize:
+### Häufige Zeitangaben zum Erkennen (Common time expressions to recognize):
 
 | Spoken | Written |
 |--------|---------|
@@ -35,13 +35,13 @@ weight: 20
 
 ---
 
-## Drill Set 2: Short Dialogue Comprehension (A2)
+## Übungsblock 2: Kurze Dialoge verstehen (Drill Set 2: Short Dialogue Comprehension) (A2)
 
-### Suggested audio sources:
+### Empfohlene Audioquellen (Suggested audio sources):
 - DW Learn German: "Nicos Weg" (free online course with audio)
 - YouTube: "Deutsch lernen A2 Hören"
 
-### Practice format:
+### Übungsformat (Practice format):
 1. Listen to a 30–60 second dialogue
 2. Answer these questions from memory:
    - Who is speaking? (friends, colleagues, customer/seller, etc.)
@@ -50,7 +50,7 @@ weight: 20
    - What is the outcome/decision?
 3. Listen again and check
 
-### Common dialogue situations to practice:
+### Häufige Dialogsituationen zum Üben (Common dialogue situations to practice):
 
 - [ ] At the doctor: making an appointment, describing symptoms
 - [ ] At the shop: asking about price, size, availability
@@ -61,13 +61,13 @@ weight: 20
 
 ---
 
-## Drill Set 3: Announcement Comprehension (A2 / B1)
+## Übungsblock 3: Durchsagen verstehen (Drill Set 3: Announcement Comprehension) (A2 / B1)
 
-### Suggested audio:
+### Empfohlenes Audio (Suggested audio):
 - YouTube: "Durchsagen Deutsch" or "German announcements"
 - SBB app: listen to real announcements at train stations
 
-### Types of announcements to practice:
+### Arten von Durchsagen zum Üben (Types of announcements to practice):
 
 | Type | Key info to catch |
 |------|------------------|
@@ -76,20 +76,20 @@ weight: 20
 | Office announcement | Closure, new hours, contact info |
 | Voicemail message | Name, reason for call, callback number |
 
-### Practice:
+### Übung (Practice):
 1. Listen once
 2. Write down: WHO, WHAT, WHEN, WHERE
 3. Check against transcript
 
 ---
 
-## Drill Set 4: Interview/Survey — Speaker Assignment (B1)
+## Übungsblock 4: Interview/Umfrage — Aussagen den Sprechern zuordnen (Drill Set 4: Interview/Survey — Speaker Assignment) (B1)
 
-### Suggested audio:
+### Empfohlenes Audio (Suggested audio):
 - DW Top-Thema (episodes with multiple speakers)
 - YouTube: "Easy German" street interviews
 
-### Practice format:
+### Übungsformat (Practice format):
 1. Listen to an interview with 2–3 speakers
 2. For each speaker, write:
    - Name (if given)
@@ -97,7 +97,7 @@ weight: 20
    - One supporting detail
 3. After listening, assign statements to the correct speaker
 
-### Sample exercise (simulate with real audio):
+### Beispielübung (Sample exercise — simulate with real audio):
 
 > Topic: "Was machen Sie in der Freizeit?"
 >
@@ -109,14 +109,14 @@ weight: 20
 
 ---
 
-## Drill Set 5: Opinion/Satisfaction Detection (B1 / B2)
+## Übungsblock 5: Meinungen/Zufriedenheit erkennen (Drill Set 5: Opinion/Satisfaction Detection) (B1 / B2)
 
-### How to practice:
+### So üben Sie (How to practice):
 1. Find review/opinion audio (product reviews, restaurant reviews, survey responses)
 2. For each speaker, classify: **zufrieden** / **unzufrieden** / **keine Aussage**
 3. Note the words/phrases that told you the answer
 
-### Opinion word bank (listen for these):
+### Wortschatz für Meinungen (Opinion word bank — listen for these):
 
 **Positive (zufrieden)**:
 gut, toll, super, wunderbar, ausgezeichnet, fantastisch, perfekt, zufrieden, glücklich, zum Glück, erfreut
@@ -132,7 +132,7 @@ Always changes the direction. The part AFTER "aber" is usually the speaker's rea
 
 ---
 
-## Weekly Listening Log
+## Wöchentliches Hörprotokoll (Weekly Listening Log)
 
 Track what you practiced and how you did:
 

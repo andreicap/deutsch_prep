@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 03 — Behörden / Ämter (Authorities)"
+title: "Wortschatzpaket 03 — Behörden / Ämter (Vocabulary Pack 03 — Authorities)"
 weight: 3
 ---
 

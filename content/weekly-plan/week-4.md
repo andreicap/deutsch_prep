@@ -1,5 +1,5 @@
 ---
-title: "Week 4 — B1 Writing + Longer Comprehension + Interview Practice"
+title: "Woche 4 — B1 Schreiben + längeres Verstehen + Interviewtraining (Week 4 — B1 Writing + Longer Comprehension + Interview Practice)"
 weight: 50
 ---
 

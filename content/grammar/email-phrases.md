@@ -1,5 +1,5 @@
 ---
-title: "Email Phrases — Ready-to-Use (E-Mail Bausteine)"
+title: "E-Mail-Bausteine (Email Phrases — Ready-to-Use)"
 weight: 20
 ---
 
@@ -7,22 +7,22 @@ weight: 20
 
 ---
 
-## Greetings (Anrede)
+## Anreden (Greetings)
 
-### Formal
+### Formell (Formal)
 | Deutsch | When to use |
 |---------|------------|
 | Sehr geehrte Damen und Herren, | Don't know the name |
 | Sehr geehrte Frau Meier, | Know the woman's name |
 | Sehr geehrter Herr Schmidt, | Know the man's name |
 
-### Semi-formal
+### Halbformell (Semi-formal)
 | Deutsch | When to use |
 |---------|------------|
 | Guten Tag Frau/Herr [Name], | Polite but slightly less formal |
 | Liebe Frau Meier, / Lieber Herr Schmidt, | Know them a bit |
 
-### Informal
+### Informell (Informal)
 | Deutsch | When to use |
 |---------|------------|
 | Hallo [Name], | Colleague, acquaintance |
@@ -31,9 +31,9 @@ weight: 20
 
 ---
 
-## Opening Lines (Einleitung)
+## Einleitungssätze (Opening Lines)
 
-### Stating why you write
+### Anlass des Schreibens nennen (Stating why you write)
 | Deutsch | English |
 |---------|---------|
 | Ich schreibe Ihnen, weil… | I'm writing to you because… |
@@ -41,7 +41,7 @@ weight: 20
 | Hiermit möchte ich… | Hereby I would like to… |
 | Ich wende mich an Sie, weil… | I'm reaching out to you because… |
 
-### Responding to something
+### Auf etwas reagieren (Responding to something)
 | Deutsch | English |
 |---------|---------|
 | Vielen Dank für Ihre E-Mail / Nachricht. | Thank you for your email/message. |
@@ -51,7 +51,7 @@ weight: 20
 
 ---
 
-## Requests (Bitten)
+## Bitten (Requests)
 
 | Deutsch | English | Formality |
 |---------|---------|-----------|
@@ -64,7 +64,7 @@ weight: 20
 
 ---
 
-## Apologizing (Sich entschuldigen)
+## Sich entschuldigen (Apologizing)
 
 | Deutsch | English |
 |---------|---------|
@@ -76,7 +76,7 @@ weight: 20
 
 ---
 
-## Explaining Reasons (Gründe nennen)
+## Gründe nennen (Explaining Reasons)
 
 | Deutsch | English |
 |---------|---------|
@@ -88,7 +88,7 @@ weight: 20
 
 ---
 
-## Suggesting / Proposing (Vorschlagen)
+## Vorschlagen (Suggesting / Proposing)
 
 | Deutsch | English |
 |---------|---------|
@@ -101,7 +101,7 @@ weight: 20
 
 ---
 
-## Asking Questions (Fragen stellen)
+## Fragen stellen (Asking Questions)
 
 | Deutsch | English |
 |---------|---------|
@@ -115,7 +115,7 @@ weight: 20
 
 ---
 
-## Closing Lines (Schluss)
+## Schlusssätze (Closing Lines)
 
 | Deutsch | English | Use when |
 |---------|---------|----------|
@@ -129,18 +129,18 @@ weight: 20
 
 ---
 
-## Sign-Offs (Grussformel)
+## Grussformeln (Sign-Offs)
 
-### Formal
+### Formell (Formal)
 - Freundliche Grüsse *(most common in CH)*
 - Mit freundlichen Grüssen *(DE standard)*
 - Mit besten Grüssen
 
-### Semi-formal
+### Halbformell (Semi-formal)
 - Beste Grüsse
 - Herzliche Grüsse
 
-### Informal
+### Informell (Informal)
 - Liebe Grüsse
 - Viele Grüsse
 - LG *(text messages only)*
@@ -148,7 +148,7 @@ weight: 20
 
 ---
 
-## Complete Email Assembly Example
+## Komplettes E-Mail-Beispiel (Complete Email Assembly Example)
 
 ```
 [Anrede]        → Sehr geehrte Frau Müller,

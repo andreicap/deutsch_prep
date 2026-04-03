@@ -1,4 +1,4 @@
 ---
-title: "Exam Formats"
+title: "Prüfungsformate (Exam Formats)"
 weight: 1
 ---

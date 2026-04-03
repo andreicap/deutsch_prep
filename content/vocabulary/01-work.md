@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 01 — Arbeit (Work)"
+title: "Wortschatzpaket 01 — Arbeit (Vocabulary Pack 01 — Work)"
 weight: 1
 ---
 

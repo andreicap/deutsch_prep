@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 02 — Jobsuche (Job Search)"
+title: "Wortschatzpaket 02 — Jobsuche (Vocabulary Pack 02 — Job Search)"
 weight: 2
 ---
 

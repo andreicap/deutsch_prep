@@ -1,15 +1,15 @@
 ---
-title: "Reading Strategies for SDS"
+title: "Lesestrategien für SDS (Reading Strategies for SDS)"
 weight: 10
 ---
 
-## Core Principle: Scan, Don't Read
+## Kernprinzip: Scannen, nicht komplett lesen (Core Principle: Scan, Don't Read)
 
 The SDS reading section rewards **finding specific information quickly**, not understanding every word. Train your eyes to scan for keywords.
 
 ---
 
-## Strategy 1: Read Questions First
+## Strategie 1: Zuerst die Fragen lesen (Strategy 1: Read Questions First)
 
 Before reading any text:
 
@@ -19,7 +19,7 @@ Before reading any text:
 
 This turns reading into a **search task** rather than a comprehension task.
 
-## Strategy 2: Keyword Matching
+## Strategie 2: Schlüsselwörter zuordnen (Strategy 2: Keyword Matching)
 
 For true/false and MC tasks:
 
@@ -27,7 +27,7 @@ For true/false and MC tasks:
 - Look for **synonyms** and **rephrased ideas**, not exact word matches
 - Example: Question says "kostenlos" → Text might say "gratis" or "ohne Kosten"
 
-## Strategy 3: Watch for Traps
+## Strategie 3: Auf Fallen achten (Strategy 3: Watch for Traps)
 
 Common traps in SDS reading:
 
@@ -41,7 +41,7 @@ Common traps in SDS reading:
 | **Similar words**    | "Teilzeit" vs "Vollzeit", "montags" vs "monatlich"                      |
 
 
-## Strategy 4: Title-Text Matching (B1)
+## Strategie 4: Titel-Text-Zuordnung (Title-Text Matching) (B1)
 
 For title-matching exercises:
 
@@ -51,7 +51,7 @@ For title-matching exercises:
 4. Use elimination for the remaining ones
 5. Don't be distracted by details — a text about a cooking class might mention health, but the main topic is cooking
 
-## Strategy 5: Time Management
+## Strategie 5: Zeitmanagement (Strategy 5: Time Management)
 
 - **Don't get stuck**: If a question is hard, mark your best guess and move on
 - **Come back later**: If time allows, revisit skipped questions
@@ -60,7 +60,7 @@ For title-matching exercises:
 
 ---
 
-## Practice Routine
+## Übungsroutine (Practice Routine)
 
 ### Daily (15 min)
 
@@ -77,7 +77,7 @@ For title-matching exercises:
 
 ---
 
-## Text Sources for Practice
+## Textquellen zum Üben (Text Sources for Practice)
 
 
 | Source                  | Level | Link             |
@@ -88,4 +88,3 @@ For title-matching exercises:
 | 20 Minuten              | A2–B1 | 20min.ch         |
 | Gemeinde websites       | A2–B1 | Official notices |
 | Migros/Coop flyers      | A1–A2 | Shopping ads     |
-

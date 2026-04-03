@@ -1,5 +1,5 @@
 ---
-title: "Test-Day Tips (Prüfungstag)"
+title: "Tipps für den Prüfungstag (Test-Day Tips)"
 weight: 10
 ---
 

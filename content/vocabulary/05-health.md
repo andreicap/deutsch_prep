@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 05 — Gesundheit (Health)"
+title: "Wortschatzpaket 05 — Gesundheit (Vocabulary Pack 05 — Health)"
 weight: 5
 ---
 

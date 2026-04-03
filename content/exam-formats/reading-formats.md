@@ -1,15 +1,15 @@
 ---
-title: "SDS Reading — Task Formats"
+title: "SDS Lesen — Aufgabenformate (SDS Reading — Task Formats)"
 weight: 20
 ---
 
-## Overview
+## Überblick (Overview)
 
 Reading tasks test your ability to understand written German at increasing difficulty. The test is adaptive.
 
 ---
 
-## Task Type 1: Word ↔ Picture Matching (pre-A1 / A1)
+## Aufgabentyp 1: Wort ↔ Bild zuordnen (Task Type 1: Word ↔ Picture Matching) (pre-A1 / A1)
 
 **Format**: Drag & drop — match a German word to the correct picture.
 
@@ -26,7 +26,7 @@ Reading tasks test your ability to understand written German at increasing diffi
 
 ---
 
-## Task Type 2: True/False on Short Texts (A2)
+## Aufgabentyp 2: Richtig/Falsch bei kurzen Texten (Task Type 2: True/False on Short Texts) (A2)
 
 **Format**: Read a job ad or short notice → mark statements *ja* (true) or *nein* (false).
 
@@ -49,7 +49,7 @@ Reading tasks test your ability to understand written German at increasing diffi
 
 ---
 
-## Task Type 3: Title ↔ Text Matching (B1)
+## Aufgabentyp 3: Titel ↔ Text zuordnen (Task Type 3: Title ↔ Text Matching) (B1)
 
 **Format**: Several short texts + several titles → match each title to the correct text.
 
@@ -70,7 +70,7 @@ Reading tasks test your ability to understand written German at increasing diffi
 
 ---
 
-## Task Type 4: Multiple Choice (A1 → B2)
+## Aufgabentyp 4: Multiple Choice (Aufgabentyp 4: Multiple Choice) (A1 → B2)
 
 **Format**: Read a text → answer questions by choosing the correct option.
 
@@ -100,7 +100,7 @@ Reading tasks test your ability to understand written German at increasing diffi
 
 ---
 
-## General Reading Strategies
+## Allgemeine Lesestrategien (General Reading Strategies)
 
 1. **Read questions/statements BEFORE the text** — you know what to look for
 2. **Scan, don't read every word** — find keywords, skip filler

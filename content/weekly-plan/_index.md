@@ -1,4 +1,4 @@
 ---
-title: "Weekly Plan"
+title: "Wochenplan (Weekly Plan)"
 weight: 4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Email Templates for SDS Writing"
+title: "E-Mail-Vorlagen für das SDS-Schreiben (Email Templates for SDS Writing)"
 weight: 20
 ---
 
@@ -7,9 +7,9 @@ weight: 20
 
 ---
 
-## Template 1: Cancel/Reschedule an Appointment (A2)
+## Vorlage 1: Einen Termin absagen/verschieben (Cancel/Reschedule an Appointment) (A2)
 
-### Prompt type: You have an appointment but can't come. Write an email.
+### Aufgabentyp (Prompt type): Sie haben einen Termin, können aber nicht kommen. Schreiben Sie eine E-Mail. (You have an appointment but can't come. Write an email.)
 
 ```
 Sehr geehrte Damen und Herren,
@@ -26,7 +26,7 @@ Freundliche Grüsse
 [Ihr Name]
 ```
 
-### Example filled in:
+### Ausgefülltes Beispiel (Example filled in):
 
 > *Sehr geehrte Damen und Herren,*
 >
@@ -41,9 +41,9 @@ Freundliche Grüsse
 
 ---
 
-## Template 2: Ask for Vacation / Day Off (B1)
+## Vorlage 2: Ferien / einen freien Tag beantragen (Ask for Vacation / Day Off) (B1)
 
-### Prompt type: Write to your employer asking for vacation.
+### Aufgabentyp (Prompt type): Schreiben Sie Ihrem Arbeitgeber, um Ferien zu beantragen. (Write to your employer asking for vacation.)
 
 ```
 Sehr geehrte/r Frau/Herr [Name],
@@ -62,7 +62,7 @@ Freundliche Grüsse
 [Ihr Name]
 ```
 
-### Example filled in:
+### Ausgefülltes Beispiel (Example filled in):
 
 > *Sehr geehrter Herr Keller,*
 >
@@ -79,9 +79,9 @@ Freundliche Grüsse
 
 ---
 
-## Template 3: Excuse from School Event (B1)
+## Vorlage 3: Sich für einen Schulanlass entschuldigen (Excuse from School Event) (B1)
 
-### Prompt type: Write to the school that you can't come to a parents' evening.
+### Aufgabentyp (Prompt type): Schreiben Sie der Schule, dass Sie nicht zu einem Elternabend kommen können. (Write to the school that you can't come to a parents' evening.)
 
 ```
 Sehr geehrte Frau/Herr [Name],
@@ -99,7 +99,7 @@ Vielen Dank und freundliche Grüsse
 [Ihr Name]
 ```
 
-### Example filled in:
+### Ausgefülltes Beispiel (Example filled in):
 
 > *Sehr geehrte Frau Zimmermann,*
 >
@@ -114,9 +114,9 @@ Vielen Dank und freundliche Grüsse
 
 ---
 
-## Template 4: Request Information (B1)
+## Vorlage 4: Informationen anfragen (Request Information) (B1)
 
-### Prompt type: Write to a language school / course provider asking for information.
+### Aufgabentyp (Prompt type): Schreiben Sie an eine Sprachschule oder einen Kursanbieter und fragen Sie nach Informationen. (Write to a language school / course provider asking for information.)
 
 ```
 Sehr geehrte Damen und Herren,
@@ -136,7 +136,7 @@ Freundliche Grüsse
 [Ihr Name]
 ```
 
-### Example filled in:
+### Ausgefülltes Beispiel (Example filled in):
 
 > *Sehr geehrte Damen und Herren,*
 >
@@ -156,9 +156,9 @@ Freundliche Grüsse
 
 ---
 
-## Template 5: Report a Problem to Landlord (B1)
+## Vorlage 5: Dem Vermieter ein Problem melden (Report a Problem to Landlord) (B1)
 
-### Prompt type: There's a problem in your apartment. Write to the landlord.
+### Aufgabentyp (Prompt type): Es gibt ein Problem in Ihrer Wohnung. Schreiben Sie dem Vermieter. (There's a problem in your apartment. Write to the landlord.)
 
 ```
 Sehr geehrte/r Frau/Herr [Name],
@@ -177,7 +177,7 @@ Vielen Dank und freundliche Grüsse
 [Ihr Name]
 ```
 
-### Example filled in:
+### Ausgefülltes Beispiel (Example filled in):
 
 > *Sehr geehrter Herr Brunner,*
 >
@@ -192,9 +192,9 @@ Vielen Dank und freundliche Grüsse
 
 ---
 
-## Template 6: Reschedule a Job Interview (B1)
+## Vorlage 6: Ein Vorstellungsgespräch verschieben (Reschedule a Job Interview) (B1)
 
-### Prompt type: You have a job interview but need to change the date.
+### Aufgabentyp (Prompt type): Sie haben ein Vorstellungsgespräch, müssen den Termin aber verschieben. (You have a job interview but need to change the date.)
 
 ```
 Sehr geehrte/r Frau/Herr [Name],
@@ -214,7 +214,7 @@ Freundliche Grüsse
 [Ihr Name]
 ```
 
-### Example filled in:
+### Ausgefülltes Beispiel (Example filled in):
 
 > *Sehr geehrte Frau Huber,*
 >
@@ -231,9 +231,9 @@ Freundliche Grüsse
 
 ---
 
-## Template 7: Pro/Contra Opinion Text (B2)
+## Vorlage 7: Pro-/Contra-Meinungstext (Pro/Contra Opinion Text) (B2)
 
-### Prompt type: Write your opinion on a topic (~200 words).
+### Aufgabentyp (Prompt type): Schreiben Sie Ihre Meinung zu einem Thema (~200 Wörter). (Write your opinion on a topic (~200 words).)
 
 ```
 [Topic] ist ein Thema, das viele Menschen beschäftigt.
@@ -253,7 +253,7 @@ Zusammenfassend kann man sagen, dass [Schlussfolgerung].
 Es ist wichtig, dass [abschliessender Gedanke].
 ```
 
-### Example: Sunday shop opening
+### Beispiel: Sonntagsöffnung von Geschäften (Example: Sunday shop opening)
 
 > *Die Frage, ob Geschäfte am Sonntag geöffnet sein sollten, wird oft diskutiert. Es gibt sowohl Argumente dafür als auch dagegen.*
 >
@@ -267,35 +267,35 @@ Es ist wichtig, dass [abschliessender Gedanke].
 
 ---
 
-## Quick Reference: Email Phrases
+## Schnellübersicht: E-Mail-Formulierungen (Quick Reference: Email Phrases)
 
-### Greeting
+### Anrede (Greeting)
 | Formal | Informal |
 |--------|----------|
 | Sehr geehrte Damen und Herren, | Hallo [Name], |
 | Sehr geehrte Frau Meier, | Liebe/r [Name], |
 | Sehr geehrter Herr Schmidt, | Hi [Name], |
 
-### Why you're writing
+### Anlass des Schreibens (Why you're writing)
 - Ich schreibe Ihnen, weil…
 - Ich möchte Sie informieren, dass…
 - Ich habe eine Frage zu…
 - Vielen Dank für Ihre E-Mail / Einladung / Information.
 
-### Requests
+### Bitten / Anfragen (Requests)
 - Könnten Sie mir bitte… ?
 - Wäre es möglich, dass… ?
 - Ich bitte Sie um…
 - Ich würde gerne wissen, ob…
 
-### Closing
+### Schlusssatz (Closing)
 | Formal | Informal |
 |--------|----------|
 | Vielen Dank im Voraus. | Danke! |
 | Ich freue mich auf Ihre Antwort. | Bis bald! |
 | Vielen Dank für Ihr Verständnis. | Mach's gut! |
 
-### Sign-off
+### Grussformel (Sign-off)
 | Formal | Informal |
 |--------|----------|
 | Freundliche Grüsse | Liebe Grüsse |

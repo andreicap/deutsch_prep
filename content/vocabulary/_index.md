@@ -1,4 +1,4 @@
 ---
-title: "Vocabulary"
+title: "Wortschatz (Vocabulary)"
 weight: 2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Week 5 — B2 Argumentation + Timed Mixed Practice"
+title: "Woche 5 — B2-Argumentation + gemischte Übungen auf Zeit (Week 5 — B2 Argumentation + Timed Mixed Practice)"
 weight: 50
 ---
 

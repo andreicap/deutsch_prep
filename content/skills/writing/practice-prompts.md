@@ -1,5 +1,5 @@
 ---
-title: "Writing Practice Prompts"
+title: "Schreibübungen (Writing Practice Prompts)"
 weight: 30
 ---
 
@@ -14,7 +14,7 @@ weight: 30
 >
 > Write a reply (2–3 sentences). Mention your weekend plans (sport, Freundin, etc.).
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Hallo! Ja, ich habe am Samstag Zeit und komme gern zum Grillfest im Park. Am Morgen mache ich noch Sport, aber am Nachmittag bin ich frei. Bis dann!*
 {{< /collapse >}}
 
@@ -23,7 +23,7 @@ weight: 30
 >
 > Write a reply — suggest a meeting place and time in Zürich.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Hi! Treffen wir uns morgen um 18 Uhr beim Hauptbahnhof Zürich vor dem Haupteingang? Dann können wir zusammen zur Volleyballhalle fahren.*
 {{< /collapse >}}
 
@@ -32,7 +32,7 @@ weight: 30
 >
 > Write a reply — confirm or say you can't (you're still at the office).
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Hey! Ja, klar, ich kann dir etwas vom Coop mitbringen. Ich bin aber noch im Büro und komme erst gegen 19 Uhr nach Hause. Was brauchst du genau?*
 {{< /collapse >}}
 
@@ -41,7 +41,7 @@ weight: 30
 >
 > Write a reply — you have a late meeting at SMG and can't come.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Hallo! Leider kann ich heute nicht zum Deutschkurs kommen, weil ich bei SMG eine späte Besprechung habe. Schade, aber ich bin hoffentlich nächstes Mal wieder dabei.*
 {{< /collapse >}}
 
@@ -50,7 +50,7 @@ weight: 30
 >
 > Write a reply — confirm and ask how the person is doing.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Hallo! Danke, ich habe deine neue Telefonnummer schon gespeichert. Wie geht es dir? Hast du im Moment viel zu tun?*
 {{< /collapse >}}
 
@@ -61,7 +61,7 @@ weight: 30
 ### Prompt 6: Cancel a doctor's appointment
 > You have an appointment on Thursday at 10:00. You can't come because you have to work. Write an email: apologize, give a reason, ask for a new appointment.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich habe am Donnerstag um 10:00 Uhr einen Termin bei Ihnen. Leider kann ich nicht kommen, weil ich an diesem Morgen arbeiten muss.*
@@ -75,7 +75,7 @@ weight: 30
 ### Prompt 7: Ask about a course
 > You want to take a swimming course. Write to the Schwimmbad: ask about days, times, and price.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich interessiere mich für einen Schwimmkurs und hätte gern ein paar Informationen. An welchen Tagen findet der Kurs statt und um wie viel Uhr beginnt er? Ich möchte auch wissen, wie viel der Kurs kostet.*
@@ -89,7 +89,7 @@ weight: 30
 ### Prompt 8: Respond to an invitation
 > Your neighbor in Zürich invites you and your girlfriend to a Hausfest on Saturday. Write: accept the invitation, ask what you should bring, ask about the time.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Liebe Nina,*
 
 *vielen Dank für die Einladung zum Hausfest am Samstag. Meine Freundin und ich kommen sehr gern. Um wie viel Uhr beginnt das Fest? Sollen wir etwas mitbringen, zum Beispiel einen Salat oder Getränke?*
@@ -101,7 +101,7 @@ weight: 30
 ### Prompt 9: Cancel a reservation
 > You reserved a table at a restaurant in Zürich for Friday evening with your girlfriend. You can't come because of a work event. Write to the restaurant: cancel, apologize, ask if you can come next week instead.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich habe für Freitagabend einen Tisch für zwei Personen reserviert. Leider kann ich nicht kommen, weil ich eine Veranstaltung von der Arbeit habe.*
@@ -115,7 +115,7 @@ weight: 30
 ### Prompt 10: Report a problem
 > Your internet doesn't work. Write to the provider: describe the problem, say since when, ask for help.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *mein Internet zu Hause funktioniert seit gestern Abend nicht mehr. Der Router ist an, aber ich habe keine Verbindung.*
@@ -129,7 +129,7 @@ weight: 30
 ### Prompt 11: Ask about lost item
 > You left your bag on the bus. Write to the transport company: describe the bag, say which bus and when, ask if they found it.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich habe gestern meine Tasche im Bus vergessen. Es ist eine schwarze Sporttasche mit einem blauen Reissverschluss. Ich war im Bus Nummer 31, am Abend gegen 18:30 Uhr.*
@@ -143,7 +143,7 @@ weight: 30
 ### Prompt 12: Reply to a job ad
 > You see a job ad for a data analyst (80%, flexible). Write: say you're interested, mention your Data Science experience at SMG, ask about the team and when you can start.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich habe Ihre Stellenanzeige für die Position als Data Analyst gelesen und interessiere mich sehr dafür. Ich arbeite im Bereich Data Science bei SMG und habe Erfahrung mit Datenanalyse und Reporting.*
@@ -157,7 +157,7 @@ weight: 30
 ### Prompt 13: Thank someone
 > Your German teacher helped you a lot. Write a thank-you email: say what you learned, thank them, wish them well.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Liebe Frau Meier,*
 
 *vielen Dank für Ihre Hilfe im Deutschkurs. Ich habe bei Ihnen viel gelernt, besonders beim Schreiben von E-Mails und beim Sprechen.*
@@ -171,7 +171,7 @@ weight: 30
 ### Prompt 14: Ask about opening hours
 > You want to visit the Ausländeramt. Write: ask about opening hours, whether you need an appointment, and what documents to bring.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich möchte nächste Woche das Ausländeramt besuchen und habe dazu einige Fragen. Wie sind Ihre Öffnungszeiten? Brauche ich einen Termin? Welche Dokumente muss ich mitbringen?*
@@ -185,7 +185,7 @@ weight: 30
 ### Prompt 15: Complain about a product
 > You ordered shoes online and they are the wrong size. Write to the shop: explain the problem, ask for an exchange or refund.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich habe bei Ihnen Schuhe online bestellt, aber leider ist die Grösse falsch. Die Schuhe sind zu klein und ich kann sie nicht tragen.*
@@ -203,7 +203,7 @@ weight: 30
 ### Prompt 16: Ask for vacation
 > Write to your manager at SMG. Ask for 5 days vacation from 15–19 July. Give a reason (visiting your family in Chișinău, Moldova). Offer to finish your work before you leave.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrter Herr Keller,*
 
 *ich möchte Sie bitten, mir vom 15. bis 19. Juli fünf Tage Ferien zu geben. In dieser Zeit möchte ich meine Familie in Chișinău in Moldau besuchen.*
@@ -217,7 +217,7 @@ weight: 30
 ### Prompt 17: Excuse from a work event
 > Write to the organizer of a team event at SMG. You can't attend the team dinner on Tuesday because you have a German course. Explain why. Ask if there will be another team event soon.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Liebe Frau Huber,*
 
 *vielen Dank für die Einladung zum Teamessen am Dienstag. Leider kann ich nicht teilnehmen, weil ich am Dienstagabend einen Deutschkurs habe, den ich nicht verschieben kann.*
@@ -231,7 +231,7 @@ weight: 30
 ### Prompt 18: Ask about a German course
 > Write to a language school. Ask about: levels available, prices, schedule, start dates, class size.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich interessiere mich für einen Deutschkurs an Ihrer Sprachschule und hätte einige Fragen. Welche Niveaus bieten Sie an? Wie viel kostet ein Kurs? Wie sieht der Stundenplan aus, und wann beginnen die nächsten Kurse? Ich möchte auch gern wissen, wie gross die Klassen normalerweise sind.*
@@ -245,7 +245,7 @@ weight: 30
 ### Prompt 19: Request a reference letter
 > Write to your former employer. Ask for a reference letter (Arbeitszeugnis). Explain that you need it for a new job application. Ask how long it will take.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Frau Berger,*
 
 *ich hoffe, es geht Ihnen gut. Ich bewerbe mich gerade für eine neue Stelle und brauche dafür ein Arbeitszeugnis von meiner früheren Position bei Ihnen.*
@@ -261,7 +261,7 @@ weight: 30
 ### Prompt 20: Reschedule a job interview
 > Write to HR. Your interview is on Monday at 9:00. You can't come — you have a business trip that was just scheduled. Apologize. Suggest two alternative dates.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Frau Meier,*
 
 *vielen Dank für die Einladung zum Vorstellungsgespräch am Montag um 9:00 Uhr. Leider kann ich an diesem Termin nicht teilnehmen, weil kurzfristig eine Geschäftsreise geplant wurde. Dafür möchte ich mich entschuldigen.*
@@ -275,7 +275,7 @@ weight: 30
 ### Prompt 21: Report a noise problem
 > Write to your landlord. Your neighbors are very loud every evening after 22:00. Describe the noise. Ask the landlord to speak to them.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrter Herr Brunner,*
 
 *ich möchte Ihnen ein Problem in unserem Haus melden. Meine Nachbarn sind fast jeden Abend nach 22:00 Uhr sehr laut. Oft höre ich laute Musik, Gespräche und manchmal auch Türen.*
@@ -289,7 +289,7 @@ weight: 30
 ### Prompt 22: Ask about an apartment
 > You and your girlfriend found an apartment ad in Zürich online. Write to the landlord: ask about the exact rent, Nebenkosten, availability date, and whether the apartment is suitable for two people. Ask for a viewing appointment.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *meine Freundin und ich haben Ihre Wohnungsanzeige in Zürich online gesehen und interessieren uns sehr für die Wohnung. Ich hätte gern ein paar Informationen: Wie hoch ist die genaue Miete und wie viel sind die Nebenkosten? Ab wann ist die Wohnung frei? Ist sie für zwei Personen geeignet?*
@@ -303,7 +303,7 @@ weight: 30
 ### Prompt 23: Request training/Weiterbildung
 > Write to your manager at SMG. You want to take a 3-day machine learning course. Explain why it would help your Data Science work. Ask if the company will pay for it.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrter Herr Keller,*
 
 *ich würde gern an einem dreitägigen Machine-Learning-Kurs teilnehmen. Der Kurs würde mir helfen, neue Methoden zu lernen und sie direkt in meiner Arbeit im Bereich Data Science bei SMG anzuwenden.*
@@ -317,7 +317,7 @@ weight: 30
 ### Prompt 24: Cancel a membership
 > Write to your gym (Fitnessstudio) in Zürich. You want to cancel your membership because you're moving to a new apartment in a different part of the city and the gym is too far away. Ask about the Kündigungsfrist. Ask if you'll get a refund for the remaining months.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich möchte meine Mitgliedschaft in Ihrem Fitnessstudio kündigen, weil ich in einen anderen Teil von Zürich umziehe und das Studio dann zu weit von meiner neuen Wohnung entfernt ist.*
@@ -331,7 +331,7 @@ weight: 30
 ### Prompt 25: Ask about a German course
 > Write to a language school in Zürich. You want to take an intensive German course (B1/B2 level). Ask about the schedule, price, and whether they have evening classes that work with a full-time job.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Sehr geehrte Damen und Herren,*
 
 *ich suche einen Intensiv-Deutschkurs auf dem Niveau B1/B2 in Zürich und interessiere mich für Ihr Angebot. Könnten Sie mir bitte sagen, wie der Kursplan aussieht und wie viel der Kurs kostet?*
@@ -350,7 +350,7 @@ weight: 30
 > *Sollten Geschäfte am Sonntag geöffnet sein?*
 > Write ~200 words: arguments for and against, your opinion with reasons.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Die Frage, ob Geschäfte am Sonntag geöffnet sein sollten, wird oft diskutiert. Es gibt gute Argumente auf beiden Seiten.*
 
 *Einerseits wäre Sonntagsverkauf praktisch für Menschen, die unter der Woche viel arbeiten und kaum Zeit zum Einkaufen haben. Auch Familien könnten davon profitieren, weil sie am Wochenende flexibler planen könnten. Ausserdem würden manche Geschäfte wahrscheinlich mehr Umsatz machen.*
@@ -364,7 +364,7 @@ weight: 30
 > *Sollten Arbeitnehmer das Recht auf Home-Office haben?*
 > Write ~200 words: advantages and disadvantages, your conclusion.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Home-Office ist in den letzten Jahren ein sehr wichtiges Thema geworden. Viele Menschen fragen sich, ob Arbeitnehmer ein Recht darauf haben sollten.*
 
 *Ein grosser Vorteil ist die Flexibilität. Wer von zu Hause arbeitet, spart oft viel Zeit, weil der Arbeitsweg wegfällt. Das kann den Alltag entspannter machen und ist manchmal auch besser für die Umwelt. Für Berufe am Computer, zum Beispiel in Data Science oder im Marketing, funktioniert Home-Office oft sehr gut.*
@@ -378,7 +378,7 @@ weight: 30
 > *Ab welchem Alter sollten Kinder ein Smartphone haben?*
 > Write ~200 words: pros and cons, your recommendation.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Heute wird oft darüber gesprochen, ab welchem Alter Kinder ein Smartphone haben sollten. Das Thema ist wichtig, weil Smartphones viele Vorteile, aber auch Risiken haben.*
 
 *Einerseits kann ein Smartphone im Alltag praktisch sein. Eltern können ihre Kinder schnell erreichen, und Kinder lernen früh, mit digitaler Technik umzugehen. Ausserdem möchten viele Kinder mit ihren Freunden Kontakt haben, besonders wenn sie älter werden.*
@@ -392,7 +392,7 @@ weight: 30
 > *Sollte man den öffentlichen Verkehr gratis machen, um die Umwelt zu schützen?*
 > Write ~200 words: arguments for and against, your opinion.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Die Idee von kostenlosem öffentlichem Verkehr wird in vielen Ländern diskutiert. Ziel ist oft, die Umwelt zu schützen und weniger Autos auf die Strassen zu bringen.*
 
 *Dafür spricht, dass mehr Menschen Bus, Tram und Zug nutzen könnten, wenn sie nichts bezahlen müssten. Das wäre besonders hilfreich für Personen mit wenig Geld. Weniger Autos würden auch weniger Lärm und weniger CO2 bedeuten. In Städten wie Zürich könnte das die Lebensqualität verbessern.*
@@ -406,7 +406,7 @@ weight: 30
 > *Sollten Arbeitgeber Weiterbildungen für alle Mitarbeitenden bezahlen?*
 > Write ~200 words: advantages and disadvantages, your position.
 
-{{< collapse summary="Show sample answer" class="qa-answer" >}}
+{{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
 *Weiterbildung ist heute in vielen Berufen sehr wichtig. Deshalb stellt sich die Frage, ob Arbeitgeber die Kosten für Weiterbildungen aller Mitarbeitenden übernehmen sollten.*
 
 *Ein Vorteil ist, dass Mitarbeitende neue Kenntnisse erwerben und ihre Arbeit besser machen können. Davon profitiert nicht nur die einzelne Person, sondern auch das Unternehmen. In Bereichen wie IT, Gesundheit oder Finanzen verändern sich Methoden und Technologien schnell. Ohne Weiterbildung bleibt man leicht zurück.*

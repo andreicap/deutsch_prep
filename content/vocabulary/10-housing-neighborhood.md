@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary Pack 10 — Wohnen & Nachbarschaft (Housing & Neighborhood)"
+title: "Wortschatzpaket 10 — Wohnen & Nachbarschaft (Vocabulary Pack 10 — Housing & Neighborhood)"
 weight: 10
 ---
 

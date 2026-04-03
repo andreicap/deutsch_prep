@@ -1,15 +1,15 @@
 ---
-title: "SDS Listening — Task Formats"
+title: "SDS Hören — Aufgabenformate (SDS Listening — Task Formats)"
 weight: 30
 ---
 
-## Overview
+## Überblick (Overview)
 
 Listening tasks test your ability to understand spoken German. Audio may play **only once** at higher levels (B1/B2), so "one-pass listening" is a critical skill.
 
 ---
 
-## Task Type 1: Words → Pictures (pre-A1 / A1)
+## Aufgabentyp 1: Wörter → Bilder (Task Type 1: Words → Pictures) (pre-A1 / A1)
 
 **Format**: Hear 3 words → tap the 3 matching pictures from a set.
 
@@ -26,7 +26,7 @@ Listening tasks test your ability to understand spoken German. Audio may play **
 
 ---
 
-## Task Type 2: Short Text → Correct Picture (A1 / A2)
+## Aufgabentyp 2: Kurzer Text → richtiges Bild (Task Type 2: Short Text → Correct Picture) (A1 / A2)
 
 **Format**: Listen to a short text or dialogue → for each line, choose the correct picture.
 
@@ -43,7 +43,7 @@ Listening tasks test your ability to understand spoken German. Audio may play **
 
 ---
 
-## Task Type 3: Interview/Survey → Assign Statements (B1)
+## Aufgabentyp 3: Interview/Umfrage → Aussagen zuordnen (Task Type 3: Interview/Survey → Assign Statements) (B1)
 
 **Format**: Listen to a conversation or survey with multiple speakers → match each person to a statement.
 
@@ -65,7 +65,7 @@ Listening tasks test your ability to understand spoken German. Audio may play **
 
 ---
 
-## Task Type 4: Survey → Attitude Assessment (B1 / B2)
+## Aufgabentyp 4: Umfrage → Haltung einschätzen (Task Type 4: Survey → Attitude Assessment) (B1 / B2)
 
 **Format**: Listen to people giving opinions → classify each as: *zufrieden* (satisfied) / *unzufrieden* (dissatisfied) / *keine Aussage* (no statement).
 
@@ -83,7 +83,7 @@ Listening tasks test your ability to understand spoken German. Audio may play **
 
 ---
 
-## General Listening Strategies
+## Allgemeine Hörstrategien (General Listening Strategies)
 
 1. **One-pass preparation**: At B1/B2 level, audio may play only once. Train yourself to catch key info on first listen.
 2. **Pre-read everything**: Before audio starts, read all questions/options. Know what you're listening for.
@@ -91,7 +91,7 @@ Listening tasks test your ability to understand spoken German. Audio may play **
 4. **Numbers and names**: These are frequently tested. Practice hearing German numbers (especially 13–30 and compound numbers like 67, 84).
 5. **Don't freeze**: If you miss an answer, let it go and focus on the next one. You can't rewind.
 
-## Practice Sources
+## Übungsquellen (Practice Sources)
 
 - Deutsche Welle (DW) slow news: [langsam gesprochene Nachrichten](https://www.dw.com/de/langsam-gesprochene-nachrichten/s-8150)
 - SRF podcasts (Swiss perspective)

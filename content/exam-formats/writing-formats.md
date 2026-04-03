@@ -1,15 +1,15 @@
 ---
-title: "SDS Writing — Task Formats"
+title: "SDS Schreiben — Aufgabenformate (SDS Writing — Task Formats)"
 weight: 40
 ---
 
-## Overview
+## Überblick (Overview)
 
 Writing tasks progress from basic spelling to composing structured emails and opinion texts. You type on a **tablet/touch keyboard** — practice this!
 
 ---
 
-## Task Type 1: Fill Missing Letters (pre-A1)
+## Aufgabentyp 1: Fehlende Buchstaben ergänzen (Task Type 1: Fill Missing Letters) (pre-A1)
 
 **Format**: A word is shown with gaps → type the missing letters.
 
@@ -24,7 +24,7 @@ Writing tasks progress from basic spelling to composing structured emails and op
 
 ---
 
-## Task Type 2: Copy Details into Form Fields (pre-A1 / A1)
+## Aufgabentyp 2: Angaben in Formularfelder übertragen (Task Type 2: Copy Details into Form Fields) (pre-A1 / A1)
 
 **Format**: Given a text (letter, card, message), fill in a form with specific details (name, address, phone, date, etc.).
 
@@ -44,7 +44,7 @@ Writing tasks progress from basic spelling to composing structured emails and op
 
 ---
 
-## Task Type 3: Reply to Text Messages (A1)
+## Aufgabentyp 3: Auf Textnachrichten antworten (Task Type 3: Reply to Text Messages) (A1)
 
 **Format**: You see a text message → write a short reply (2–4 sentences).
 
@@ -61,7 +61,7 @@ Writing tasks progress from basic spelling to composing structured emails and op
 
 ---
 
-## Task Type 4: Write a Simple Email (A2)
+## Aufgabentyp 4: Eine einfache E-Mail schreiben (Task Type 4: Write a Simple Email) (A2)
 
 **Format**: Given a situation → write an email (5–8 sentences).
 
@@ -88,7 +88,7 @@ Writing tasks progress from basic spelling to composing structured emails and op
 
 ---
 
-## Task Type 5: Request Information (B1)
+## Aufgabentyp 5: Informationen anfragen (Task Type 5: Request Information) (B1)
 
 **Format**: Write an email requesting information about a course, service, or event.
 
@@ -104,7 +104,7 @@ Writing tasks progress from basic spelling to composing structured emails and op
 
 ---
 
-## Task Type 6: Opinion / Pro-Contra Text (B2)
+## Aufgabentyp 6: Meinungs- / Pro-Contra-Text (Task Type 6: Opinion / Pro-Contra Text) (B2)
 
 **Format**: Given a topic → write ~200 words with pros, cons, and your opinion.
 
@@ -125,7 +125,7 @@ Writing tasks progress from basic spelling to composing structured emails and op
 
 ---
 
-## Writing by Level — Summary
+## Schreiben nach Niveau — Übersicht (Writing by Level — Summary)
 
 | Level | Task | Length |
 |-------|------|--------|
@@ -137,7 +137,7 @@ Writing tasks progress from basic spelling to composing structured emails and op
 
 ---
 
-## Common Test-Taker Reports (Writing Prompts)
+## Häufige Rückmeldungen von Prüfungsteilnehmenden (Common Test-Taker Reports — Writing Prompts)
 
 From Swiss forum reports (2022–2025):
 - Email to employer asking for holiday
@@ -147,7 +147,7 @@ From Swiss forum reports (2022–2025):
 
 ---
 
-## General Writing Tips
+## Allgemeine Schreibtipps (General Writing Tips)
 
 1. **Practice on a tablet keyboard** — this is the #1 bottleneck reported by test-takers
 2. **Memorize email structures** — greeting, body, closing for formal + informal

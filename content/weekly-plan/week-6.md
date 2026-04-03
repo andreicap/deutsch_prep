@@ -1,5 +1,5 @@
 ---
-title: "Week 6 — Mock Tests + Error Log + Weak-Area Repair"
+title: "Woche 6 — Probetests + Fehlerprotokoll + Schwächen gezielt verbessern (Week 6 — Mock Tests + Error Log + Weak-Area Repair)"
 weight: 50
 ---
 
