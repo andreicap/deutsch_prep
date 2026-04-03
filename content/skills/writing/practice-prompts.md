@@ -62,6 +62,8 @@ weight: 30
 > You have an appointment on Thursday at 10:00. You can't come because you have to work. Write an email: apologize, give a reason, ask for a new appointment.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Termin am Donnerstag verschieben*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich habe am Donnerstag um 10:00 Uhr einen Termin bei Ihnen. Leider kann ich nicht kommen, weil ich an diesem Morgen arbeiten muss.*
@@ -76,6 +78,8 @@ weight: 30
 > You want to take a swimming course. Write to the Schwimmbad: ask about days, times, and price.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Anfrage zum Schwimmkurs*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich interessiere mich für einen Schwimmkurs und hätte gern ein paar Informationen. An welchen Tagen findet der Kurs statt und um wie viel Uhr beginnt er? Ich möchte auch wissen, wie viel der Kurs kostet.*
@@ -90,6 +94,8 @@ weight: 30
 > Your neighbor in Zürich invites you and your girlfriend to a Hausfest on Saturday. Write: accept the invitation, ask what you should bring, ask about the time.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Hausfest am Samstag*
+
 *Liebe Nina,*
 
 *vielen Dank für die Einladung zum Hausfest am Samstag. Meine Freundin und ich kommen sehr gern. Um wie viel Uhr beginnt das Fest? Sollen wir etwas mitbringen, zum Beispiel einen Salat oder Getränke?*
@@ -102,6 +108,8 @@ weight: 30
 > You reserved a table at a restaurant in Zürich for Friday evening with your girlfriend. You can't come because of a work event. Write to the restaurant: cancel, apologize, ask if you can come next week instead.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Reservation für Freitagabend absagen*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich habe für Freitagabend einen Tisch für zwei Personen reserviert. Leider kann ich nicht kommen, weil ich eine Veranstaltung von der Arbeit habe.*
@@ -116,6 +124,8 @@ weight: 30
 > Your internet doesn't work. Write to the provider: describe the problem, say since when, ask for help.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Internet funktioniert nicht*
+
 *Sehr geehrte Damen und Herren,*
 
 *mein Internet zu Hause funktioniert seit gestern Abend nicht mehr. Der Router ist an, aber ich habe keine Verbindung.*
@@ -130,6 +140,8 @@ weight: 30
 > You left your bag on the bus. Write to the transport company: describe the bag, say which bus and when, ask if they found it.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Verlorene Tasche im Bus 31*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich habe gestern meine Tasche im Bus vergessen. Es ist eine schwarze Sporttasche mit einem blauen Reissverschluss. Ich war im Bus Nummer 31, am Abend gegen 18:30 Uhr.*
@@ -144,6 +156,8 @@ weight: 30
 > You see a job ad for a data analyst (80%, flexible). Write: say you're interested, mention your Data Science experience at SMG, ask about the team and when you can start.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Bewerbung als Data Analyst*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich habe Ihre Stellenanzeige für die Position als Data Analyst gelesen und interessiere mich sehr dafür. Ich arbeite im Bereich Data Science bei SMG und habe Erfahrung mit Datenanalyse und Reporting.*
@@ -158,6 +172,8 @@ weight: 30
 > Your German teacher helped you a lot. Write a thank-you email: say what you learned, thank them, wish them well.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Vielen Dank für Ihre Hilfe im Deutschkurs*
+
 *Liebe Frau Meier,*
 
 *vielen Dank für Ihre Hilfe im Deutschkurs. Ich habe bei Ihnen viel gelernt, besonders beim Schreiben von E-Mails und beim Sprechen.*
@@ -172,6 +188,8 @@ weight: 30
 > You want to visit the Ausländeramt. Write: ask about opening hours, whether you need an appointment, and what documents to bring.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Anfrage zu Öffnungszeiten und Termin*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich möchte nächste Woche das Ausländeramt besuchen und habe dazu einige Fragen. Wie sind Ihre Öffnungszeiten? Brauche ich einen Termin? Welche Dokumente muss ich mitbringen?*
@@ -186,6 +204,8 @@ weight: 30
 > You ordered shoes online and they are the wrong size. Write to the shop: explain the problem, ask for an exchange or refund.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Schuhe in falscher Grösse erhalten*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich habe bei Ihnen Schuhe online bestellt, aber leider ist die Grösse falsch. Die Schuhe sind zu klein und ich kann sie nicht tragen.*
@@ -204,6 +224,8 @@ weight: 30
 > Write to your manager at SMG. Ask for 5 days vacation from 15–19 July. Give a reason (visiting your family in Chișinău, Moldova). Offer to finish your work before you leave.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Ferienantrag vom 15. bis 19. Juli*
+
 *Sehr geehrter Herr Keller,*
 
 *ich möchte Sie bitten, mir vom 15. bis 19. Juli fünf Tage Ferien zu geben. In dieser Zeit möchte ich meine Familie in Chișinău in Moldau besuchen.*
@@ -218,6 +240,8 @@ weight: 30
 > Write to the organizer of a team event at SMG. You can't attend the team dinner on Tuesday because you have a German course. Explain why. Ask if there will be another team event soon.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Teamessen am Dienstag*
+
 *Liebe Frau Huber,*
 
 *vielen Dank für die Einladung zum Teamessen am Dienstag. Leider kann ich nicht teilnehmen, weil ich am Dienstagabend einen Deutschkurs habe, den ich nicht verschieben kann.*
@@ -232,6 +256,8 @@ weight: 30
 > Write to a language school. Ask about: levels available, prices, schedule, start dates, class size.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Anfrage zu Ihrem Deutschkurs*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich interessiere mich für einen Deutschkurs an Ihrer Sprachschule und hätte einige Fragen. Welche Niveaus bieten Sie an? Wie viel kostet ein Kurs? Wie sieht der Stundenplan aus, und wann beginnen die nächsten Kurse? Ich möchte auch gern wissen, wie gross die Klassen normalerweise sind.*
@@ -246,6 +272,8 @@ weight: 30
 > Write to your former employer. Ask for a reference letter (Arbeitszeugnis). Explain that you need it for a new job application. Ask how long it will take.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Bitte um ein Arbeitszeugnis*
+
 *Sehr geehrte Frau Berger,*
 
 *ich hoffe, es geht Ihnen gut. Ich bewerbe mich gerade für eine neue Stelle und brauche dafür ein Arbeitszeugnis von meiner früheren Position bei Ihnen.*
@@ -262,6 +290,8 @@ weight: 30
 > Write to HR. Your interview is on Monday at 9:00. You can't come — you have a business trip that was just scheduled. Apologize. Suggest two alternative dates.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Vorstellungsgespräch am Montag verschieben*
+
 *Sehr geehrte Frau Meier,*
 
 *vielen Dank für die Einladung zum Vorstellungsgespräch am Montag um 9:00 Uhr. Leider kann ich an diesem Termin nicht teilnehmen, weil kurzfristig eine Geschäftsreise geplant wurde. Dafür möchte ich mich entschuldigen.*
@@ -276,6 +306,8 @@ weight: 30
 > Write to your landlord. Your neighbors are very loud every evening after 22:00. Describe the noise. Ask the landlord to speak to them.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Lärmproblem in unserem Haus*
+
 *Sehr geehrter Herr Brunner,*
 
 *ich möchte Ihnen ein Problem in unserem Haus melden. Meine Nachbarn sind fast jeden Abend nach 22:00 Uhr sehr laut. Oft höre ich laute Musik, Gespräche und manchmal auch Türen.*
@@ -290,6 +322,8 @@ weight: 30
 > You and your girlfriend found an apartment ad in Zürich online. Write to the landlord: ask about the exact rent, Nebenkosten, availability date, and whether the apartment is suitable for two people. Ask for a viewing appointment.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Anfrage zur Wohnung in Zürich*
+
 *Sehr geehrte Damen und Herren,*
 
 *meine Freundin und ich haben Ihre Wohnungsanzeige in Zürich online gesehen und interessieren uns sehr für die Wohnung. Ich hätte gern ein paar Informationen: Wie hoch ist die genaue Miete und wie viel sind die Nebenkosten? Ab wann ist die Wohnung frei? Ist sie für zwei Personen geeignet?*
@@ -304,6 +338,8 @@ weight: 30
 > Write to your manager at SMG. You want to take a 3-day machine learning course. Explain why it would help your Data Science work. Ask if the company will pay for it.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Anfrage zur Machine-Learning-Weiterbildung*
+
 *Sehr geehrter Herr Keller,*
 
 *ich würde gern an einem dreitägigen Machine-Learning-Kurs teilnehmen. Der Kurs würde mir helfen, neue Methoden zu lernen und sie direkt in meiner Arbeit im Bereich Data Science bei SMG anzuwenden.*
@@ -318,6 +354,8 @@ weight: 30
 > Write to your gym (Fitnessstudio) in Zürich. You want to cancel your membership because you're moving to a new apartment in a different part of the city and the gym is too far away. Ask about the Kündigungsfrist. Ask if you'll get a refund for the remaining months.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Kündigung meiner Mitgliedschaft*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich möchte meine Mitgliedschaft in Ihrem Fitnessstudio kündigen, weil ich in einen anderen Teil von Zürich umziehe und das Studio dann zu weit von meiner neuen Wohnung entfernt ist.*
@@ -332,6 +370,8 @@ weight: 30
 > Write to a language school in Zürich. You want to take an intensive German course (B1/B2 level). Ask about the schedule, price, and whether they have evening classes that work with a full-time job.
 
 {{< collapse summary="Beispielantwort anzeigen (Show sample answer)" class="qa-answer" >}}
+*Betreff: Anfrage zum Intensiv-Deutschkurs B1/B2*
+
 *Sehr geehrte Damen und Herren,*
 
 *ich suche einen Intensiv-Deutschkurs auf dem Niveau B1/B2 in Zürich und interessiere mich für Ihr Angebot. Könnten Sie mir bitte sagen, wie der Kursplan aussieht und wie viel der Kurs kostet?*

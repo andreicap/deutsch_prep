@@ -24,6 +24,8 @@ Example prompt: *"Write an email to your boss. Ask for vacation. Say when and ho
 For emails, always use the same structure:
 
 ```
+Betreff (Subject line)
+↓
 Anrede (Greeting)
 ↓
 Einleitung (Why you're writing — 1 sentence)
@@ -82,6 +84,7 @@ Target: ~200 words. Practice until you can write this in 15–20 minutes.
 | Fehler (Mistake) | Lösung (Fix) |
 |-------------------|---------------|
 | Forgetting the Anrede (greeting) | Always start with Sehr geehrte/r… or Liebe/r… |
+| Forgetting the Betreffzeile (subject line) | Add a short, clear Betreff before the greeting |
 | Forgetting the Grussformel (sign-off) | Always end with Freundliche Grüsse + your name |
 | Not answering all parts | Count the tasks in the prompt before writing |
 | Wrong register | Formell (formal) for authority/employer, informell (informal) for friends |

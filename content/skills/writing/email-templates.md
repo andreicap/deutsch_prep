@@ -12,6 +12,8 @@ weight: 20
 ### Aufgabentyp (Prompt type): Sie haben einen Termin, können aber nicht kommen. Schreiben Sie eine E-Mail. (You have an appointment but can't come. Write an email.)
 
 ```
+Betreff: Termin verschieben
+
 Sehr geehrte Damen und Herren,
 
 ich habe am [Tag] um [Uhrzeit] einen Termin bei Ihnen.
@@ -28,6 +30,8 @@ Freundliche Grüsse
 
 ### Ausgefülltes Beispiel (Example filled in):
 
+> *Betreff: Termin am Mittwoch verschieben*
+>
 > *Sehr geehrte Damen und Herren,*
 >
 > *ich habe am Mittwoch um 14 Uhr einen Termin bei Ihnen. Leider kann ich nicht kommen, weil ich eine wichtige Besprechung bei der Arbeit habe.*
@@ -46,6 +50,8 @@ Freundliche Grüsse
 ### Aufgabentyp (Prompt type): Schreiben Sie Ihrem Arbeitgeber, um Ferien zu beantragen. (Write to your employer asking for vacation.)
 
 ```
+Betreff: Ferienantrag
+
 Sehr geehrte/r Frau/Herr [Name],
 
 ich schreibe Ihnen, weil ich gerne [Anzahl] Tage Ferien nehmen möchte.
@@ -64,6 +70,8 @@ Freundliche Grüsse
 
 ### Ausgefülltes Beispiel (Example filled in):
 
+> *Betreff: Ferien vom 15. bis 19. Juli*
+>
 > *Sehr geehrter Herr Keller,*
 >
 > *ich schreibe Ihnen, weil ich gerne fünf Tage Ferien nehmen möchte.*
@@ -84,6 +92,8 @@ Freundliche Grüsse
 ### Aufgabentyp (Prompt type): Schreiben Sie der Schule, dass Sie nicht zu einem Elternabend kommen können. (Write to the school that you can't come to a parents' evening.)
 
 ```
+Betreff: Elternabend am [Datum]
+
 Sehr geehrte Frau/Herr [Name],
 
 vielen Dank für die Einladung zum Elternabend am [Datum].
@@ -101,6 +111,8 @@ Vielen Dank und freundliche Grüsse
 
 ### Ausgefülltes Beispiel (Example filled in):
 
+> *Betreff: Elternabend am 12. März*
+>
 > *Sehr geehrte Frau Zimmermann,*
 >
 > *vielen Dank für die Einladung zum Elternabend am 12. März.*
@@ -119,6 +131,8 @@ Vielen Dank und freundliche Grüsse
 ### Aufgabentyp (Prompt type): Schreiben Sie an eine Sprachschule oder einen Kursanbieter und fragen Sie nach Informationen. (Write to a language school / course provider asking for information.)
 
 ```
+Betreff: Anfrage zu [Kurs/Angebot]
+
 Sehr geehrte Damen und Herren,
 
 ich interessiere mich für [Kurs/Angebot] und hätte einige Fragen.
@@ -138,6 +152,8 @@ Freundliche Grüsse
 
 ### Ausgefülltes Beispiel (Example filled in):
 
+> *Betreff: Anfrage zum Intensivkurs Deutsch B1*
+>
 > *Sehr geehrte Damen und Herren,*
 >
 > *ich interessiere mich für den Intensivkurs Deutsch B1 und hätte einige Fragen.*
@@ -161,6 +177,8 @@ Freundliche Grüsse
 ### Aufgabentyp (Prompt type): Es gibt ein Problem in Ihrer Wohnung. Schreiben Sie dem Vermieter. (There's a problem in your apartment. Write to the landlord.)
 
 ```
+Betreff: Problem in der Wohnung
+
 Sehr geehrte/r Frau/Herr [Name],
 
 ich wohne in der Wohnung [Adresse / Stockwerk] und möchte
@@ -179,6 +197,8 @@ Vielen Dank und freundliche Grüsse
 
 ### Ausgefülltes Beispiel (Example filled in):
 
+> *Betreff: Heizung im Wohnzimmer funktioniert nicht richtig*
+>
 > *Sehr geehrter Herr Brunner,*
 >
 > *ich wohne in der Wohnung Bahnhofstrasse 12, 3. Stock, und möchte ein Problem melden.*
@@ -197,6 +217,8 @@ Vielen Dank und freundliche Grüsse
 ### Aufgabentyp (Prompt type): Sie haben ein Vorstellungsgespräch, müssen den Termin aber verschieben. (You have a job interview but need to change the date.)
 
 ```
+Betreff: Vorstellungsgespräch verschieben
+
 Sehr geehrte/r Frau/Herr [Name],
 
 vielen Dank für die Einladung zum Vorstellungsgespräch am [Datum]
@@ -216,6 +238,8 @@ Freundliche Grüsse
 
 ### Ausgefülltes Beispiel (Example filled in):
 
+> *Betreff: Vorstellungsgespräch am 8. April*
+>
 > *Sehr geehrte Frau Huber,*
 >
 > *vielen Dank für die Einladung zum Vorstellungsgespräch am 8. April um 10 Uhr.*
