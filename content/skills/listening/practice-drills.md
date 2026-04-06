@@ -132,6 +132,284 @@ Always changes the direction. The part AFTER "aber" is usually the speaker's rea
 
 ---
 
+## Konkrete Hörbeispiele zum Vorlesen (Read-Aloud Listening Examples)
+
+Use a text-to-speech reader or ask someone to read each script aloud. First listen without looking too closely at the text, answer the questions, then open the expandable answers to check.
+
+---
+
+## Example 1: Personal Details (pre-A1 / A1)
+
+### Vorlesetext
+
+> Guten Tag. Ich heisse Lara Meier. Ich wohne in Winterthur in der Bahnhofstrasse 18. Meine Telefonnummer ist 079 234 56 81. Ich arbeite als Verkäuferin.
+
+### Questions
+
+**1. Wie heisst die Person?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Lara Meier.
+{{< /collapse >}}
+
+**2. Wo wohnt sie?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+In Winterthur, Bahnhofstrasse 18.
+{{< /collapse >}}
+
+**3. Wie ist die Telefonnummer?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+079 234 56 81.
+{{< /collapse >}}
+
+**4. Was ist ihr Beruf?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Verkäuferin.
+{{< /collapse >}}
+
+---
+
+## Example 2: Appointment Details (pre-A1 / A1)
+
+### Vorlesetext
+
+> Hallo Jonas, dein Zahnarzttermin ist am Dienstag, dem 14. Mai, um 9 Uhr 30. Die Praxis ist am Lindenplatz 5 in Bern. Bitte komm zehn Minuten früher.
+
+### Questions
+
+**1. Wann ist der Termin?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Am Dienstag, dem 14. Mai.
+{{< /collapse >}}
+
+**2. Um wie viel Uhr ist der Termin?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Um 9 Uhr 30.
+{{< /collapse >}}
+
+**3. Wo ist die Praxis?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Am Lindenplatz 5 in Bern.
+{{< /collapse >}}
+
+**4. Wann soll Jonas kommen?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Zehn Minuten früher.
+{{< /collapse >}}
+
+---
+
+## Example 3: At the Bakery (A2)
+
+### Vorlesetext
+
+> Guten Morgen. Ich hätte gern ein Brot und vier Gipfeli, bitte. Das Brot kostet 3 Franken 80 und die Gipfeli zusammen 6 Franken. Möchten Sie sonst noch etwas? Nein danke, das ist alles. Dann macht das 9 Franken 80.
+
+### Questions
+
+**1. Was möchte die Kundin oder der Kunde kaufen?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Ein Brot und vier Gipfeli.
+{{< /collapse >}}
+
+**2. Wie viel kostet das Brot?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+3 Franken 80.
+{{< /collapse >}}
+
+**3. Wie viel kosten die Gipfeli zusammen?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+6 Franken.
+{{< /collapse >}}
+
+**4. Wie viel kostet alles zusammen?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+9 Franken 80.
+{{< /collapse >}}
+
+---
+
+## Example 4: Voicemail Message (A2)
+
+### Vorlesetext
+
+> Guten Tag Frau Keller, hier ist Marco Steiner von der Sprachschule Dialog. Ihr Deutschkurs beginnt neu am Montag um 18 Uhr statt um 17 Uhr 30. Das Zimmer bleibt gleich: Raum 12 im zweiten Stock. Wenn Sie Fragen haben, rufen Sie uns bitte zurück.
+
+### Questions
+
+**1. Wer spricht?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Marco Steiner von der Sprachschule Dialog.
+{{< /collapse >}}
+
+**2. Wann beginnt der Deutschkurs jetzt?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Am Montag um 18 Uhr.
+{{< /collapse >}}
+
+**3. Welche Uhrzeit war vorher geplant?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+17 Uhr 30.
+{{< /collapse >}}
+
+**4. In welchem Raum ist der Kurs?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+In Raum 12 im zweiten Stock.
+{{< /collapse >}}
+
+---
+
+## Example 5: Short Interview (B1)
+
+### Vorlesetext
+
+> Ich heisse Selim und fahre jeden Tag mit dem Velo zur Arbeit. Früher bin ich mit dem Bus gefahren, aber das war oft langsam und unpünktlich. Jetzt brauche ich nur noch zwanzig Minuten und bewege mich mehr. Wenn es stark regnet, nehme ich trotzdem manchmal den Zug.
+
+### Questions
+
+**1. Wie heisst die Person?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Selim.
+{{< /collapse >}}
+
+**2. Wie ist Selim früher zur Arbeit gefahren?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Mit dem Bus.
+{{< /collapse >}}
+
+**3. Warum fährt er jetzt mit dem Velo? Nennen Sie einen Grund.**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Weil es schneller ist / weil er nur zwanzig Minuten braucht / weil er sich mehr bewegt.
+{{< /collapse >}}
+
+**4. Wann nimmt er manchmal den Zug?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Wenn es stark regnet.
+{{< /collapse >}}
+
+---
+
+## Example 6: Public Announcement (B1)
+
+### Vorlesetext
+
+> Achtung, liebe Fahrgäste. Der Zug nach Basel SBB um 16 Uhr 12 fällt heute aus. Reisende nach Basel benutzen bitte den Intercity um 16 Uhr 27 auf Gleis 5. Wegen einer technischen Störung kann es zu weiteren Verspätungen kommen.
+
+### Questions
+
+**1. Welcher Zug fällt aus?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Der Zug nach Basel SBB um 16 Uhr 12.
+{{< /collapse >}}
+
+**2. Welchen Zug sollen die Reisenden stattdessen nehmen?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Den Intercity um 16 Uhr 27.
+{{< /collapse >}}
+
+**3. Auf welchem Gleis fährt der Ersatzzug ab?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Auf Gleis 5.
+{{< /collapse >}}
+
+**4. Warum kann es weitere Verspätungen geben?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Wegen einer technischen Störung.
+{{< /collapse >}}
+
+---
+
+## Example 7: Opinion With Contrast (B2)
+
+### Vorlesetext
+
+> Ich finde Online-Meetings praktisch, weil man keine Pendelzeit hat und flexibel von zu Hause arbeiten kann. Für kurze Besprechungen ist das ideal. Aber für kreative Diskussionen oder wichtige Entscheidungen treffe ich mein Team lieber persönlich, weil die Gespräche dann natürlicher sind.
+
+### Questions
+
+**1. Welche zwei Vorteile von Online-Meetings nennt die Person?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Keine Pendelzeit und mehr Flexibilität beim Arbeiten von zu Hause.
+{{< /collapse >}}
+
+**2. Für welche Art von Besprechungen findet die Person Online-Meetings ideal?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Für kurze Besprechungen.
+{{< /collapse >}}
+
+**3. Was ist die eigentliche Gesamtmeinung der Person?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Gemischt: Online-Meetings sind praktisch, aber für kreative oder wichtige Gespräche bevorzugt die Person Treffen vor Ort.
+{{< /collapse >}}
+
+**4. Warum bevorzugt die Person manchmal persönliche Treffen?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Weil die Gespräche dann natürlicher sind.
+{{< /collapse >}}
+
+---
+
+## Example 8: Survey Response (B2)
+
+### Vorlesetext
+
+> Letztes Jahr habe ich ein GA gekauft und bin insgesamt sehr zufrieden. Ich reise oft beruflich zwischen Zürich, Bern und Lausanne, deshalb lohnt es sich für mich finanziell. Am Anfang fand ich den Preis hoch, aber inzwischen spare ich Zeit und muss mich nicht mehr um einzelne Tickets kümmern.
+
+### Questions
+
+**1. Was hat die Person gekauft?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Ein GA.
+{{< /collapse >}}
+
+**2. Wie ist die Person insgesamt zufrieden oder unzufrieden?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Insgesamt zufrieden.
+{{< /collapse >}}
+
+**3. Warum lohnt sich das GA für die Person?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Weil die Person oft beruflich zwischen mehreren Städten reist und es sich finanziell lohnt.
+{{< /collapse >}}
+
+**4. Welcher Nachteil wird kurz erwähnt?**
+
+{{< collapse summary="Antwort anzeigen (Show answer)" class="qa-answer" >}}
+Der hohe Preis am Anfang.
+{{< /collapse >}}
+
+---
+
 ## Wöchentliches Hörprotokoll (Weekly Listening Log)
 
 Track what you practiced and how you did:
