@@ -11,15 +11,15 @@ weight: 5
 
 Modal verbs modify the meaning of another verb. They have irregular present tense forms and always send the main verb to the **end** of the sentence as an infinitive.
 
-| Infinitiv | Bedeutung (Meaning) | Hilfsverb (Perfekt) | Präteritum (ich) | Partizip II | Beispiel (Example) |
-|-----------|---------------------|---------------------|-----------------|-------------|-------------------|
-| müssen | must / have to | haben | musste | gemusst | Ich **muss** heute früh **aufstehen**. — I have to get up early today. |
-| dürfen | may / to be allowed to | haben | durfte | gedurft | Man **darf** hier nicht **rauchen**. — You are not allowed to smoke here. |
-| können | can / to be able to | haben | konnte | gekonnt | Ich **kann** gut Deutsch **sprechen**. — I can speak German well. |
-| wollen | to want to | haben | wollte | gewollt | Sie **will** Ärztin **werden**. — She wants to become a doctor. |
-| sollen | should / to be supposed to | haben | sollte | gesollt | Du **sollst** das nicht **machen**. — You should not do that. |
-| mögen | to like / may | haben | mochte | gemocht | Ich **mag** keinen Kaffee. — I don't like coffee. |
-| möchten | would like to | — | — (use wollte) | — | Ich **möchte** bitte einen Kaffee **bestellen**. — I would like to order a coffee please. |
+| Infinitiv | Bedeutung (Meaning) | Präteritum (ich) | Perfekt | Beispiel (Example) |
+|-----------|---------------------|-----------------|---------|-------------------|
+| müssen | must / have to | musste | habe gemusst | Ich **muss** heute früh **aufstehen**. — I have to get up early today. |
+| dürfen | may / to be allowed to | durfte | habe gedurft | Man **darf** hier nicht **rauchen**. — You are not allowed to smoke here. |
+| können | can / to be able to | konnte | habe gekonnt | Ich **kann** gut Deutsch **sprechen**. — I can speak German well. |
+| wollen | to want to | wollte | habe gewollt | Sie **will** Ärztin **werden**. — She wants to become a doctor. |
+| sollen | should / to be supposed to | sollte | habe gesollt | Du **sollst** das nicht **machen**. — You should not do that. |
+| mögen | to like / may | mochte | habe gemocht | Ich **mag** keinen Kaffee. — I don't like coffee. |
+| möchten | would like to | — (use wollte) | — | Ich **möchte** bitte einen Kaffee **bestellen**. — I would like to order a coffee please. |
 
 ### 💡 Modalverben — Präsens Konjugation (Present Tense Conjugation)
 
@@ -86,120 +86,120 @@ With modal verbs plus another infinitive, spoken and written German usually uses
 
 ### Sein, Haben & Werden (To Be, To Have & To Become)
 
-| Infinitiv | Hilfsverb (Perfekt) | Partizip II | Präteritum (ich) | Beispiel (Example) |
-|-----------|---------------------|-------------|-----------------|-------------------|
-| sein ⭐ | sein | gewesen | war | Ich **war** gestern krank. — I was sick yesterday. |
-| haben ⭐ | haben | gehabt | hatte | Ich **hatte** keine Zeit. — I had no time. |
-| werden ⭐ | sein | geworden | wurde | Er **wurde** Arzt. — He became a doctor. |
+| Infinitiv | Perfekt | Präteritum (ich) | Beispiel (Example) |
+|-----------|---------|-----------------|-------------------|
+| sein ⭐ | bin gewesen | war | Ich **war** gestern krank. — I was sick yesterday. |
+| haben ⭐ | habe gehabt | hatte | Ich **hatte** keine Zeit. — I had no time. |
+| werden ⭐ | bin geworden | wurde | Er **wurde** Arzt. — He became a doctor. |
 
 ### Wichtige Verben A1 🌱
 
-| Infinitiv | Hilfsverb (Perfekt) | Partizip II | Präteritum (ich) | Beispiel (Example) |
-|-----------|---------------------|-------------|-----------------|-------------------|
-| heißen | haben | geheißen | hieß | Ich **heiße** Andrei. — My name is Andrei. |
-| wohnen 🏠 | haben | gewohnt | wohnte | Ich **wohne** in Zürich. — I live in Zurich. |
-| kommen 🚶 | sein | gekommen | kam | Er **kam** aus Moldau. — He came from Moldova. |
-| gehen 🚶 | sein | gegangen | ging | Ich **ging** zur Arbeit. — I went to work. |
-| machen ✅ | haben | gemacht | machte | Ich **habe** das **gemacht**. — I did that. |
-| sagen 💬 | haben | gesagt | sagte | Sie **sagte** nichts. — She said nothing. |
-| arbeiten 💼 | haben | gearbeitet | arbeitete | Er **arbeitete** lange. — He worked long hours. |
-| lernen 📚 | haben | gelernt | lernte | Ich **lerne** Deutsch. — I am learning German. |
-| essen 🍽️ | haben | gegessen | aß | Ich **habe** gut **gegessen**. — I ate well. |
-| trinken 🥤 | haben | getrunken | trank | Sie **trank** Wasser. — She drank water. |
-| schlafen 😴 | haben | geschlafen | schlief | Ich **schlief** acht Stunden. — I slept eight hours. |
-| kaufen 🛍️ | haben | gekauft | kaufte | Ich **kaufte** Brot. — I bought bread. |
-| spielen 🎮 | haben | gespielt | spielte | Die Kinder **spielten** draußen. — The children played outside. |
-| lesen 📖 | haben | gelesen | las | Ich **las** ein Buch. — I read a book. |
-| schreiben ✍️ | haben | geschrieben | schrieb | Sie **schrieb** einen Brief. — She wrote a letter. |
-| sprechen 🗣️ | haben | gesprochen | sprach | Er **sprach** kein Englisch. — He didn't speak English. |
-| hören 👂 | haben | gehört | hörte | Ich **hörte** Musik. — I listened to music. |
-| sehen 👀 | haben | gesehen | sah | Ich **sah** ihn gestern. — I saw him yesterday. |
-| fahren 🚗 | sein / haben | gefahren | fuhr | Ich **fuhr** mit dem Zug. — I went by train. |
-| fliegen ✈️ | sein / haben | geflogen | flog | Wir **flogen** nach Berlin. — We flew to Berlin. |
+| Infinitiv | Perfekt | Präteritum (ich) | Beispiel (Example) |
+|-----------|---------|-----------------|-------------------|
+| heißen | habe geheißen | hieß | Ich **heiße** Andrei. — My name is Andrei. |
+| wohnen 🏠 | habe gewohnt | wohnte | Ich **wohne** in Zürich. — I live in Zurich. |
+| kommen 🚶 | bin gekommen | kam | Er **kam** aus Moldau. — He came from Moldova. |
+| gehen 🚶 | bin gegangen | ging | Ich **ging** zur Arbeit. — I went to work. |
+| machen ✅ | habe gemacht | machte | Ich **habe** das **gemacht**. — I did that. |
+| sagen 💬 | habe gesagt | sagte | Sie **sagte** nichts. — She said nothing. |
+| arbeiten 💼 | habe gearbeitet | arbeitete | Er **arbeitete** lange. — He worked long hours. |
+| lernen 📚 | habe gelernt | lernte | Ich **lerne** Deutsch. — I am learning German. |
+| essen 🍽️ | habe gegessen | aß | Ich **habe** gut **gegessen**. — I ate well. |
+| trinken 🥤 | habe getrunken | trank | Sie **trank** Wasser. — She drank water. |
+| schlafen 😴 | habe geschlafen | schlief | Ich **schlief** acht Stunden. — I slept eight hours. |
+| kaufen 🛍️ | habe gekauft | kaufte | Ich **kaufte** Brot. — I bought bread. |
+| spielen 🎮 | habe gespielt | spielte | Die Kinder **spielten** draußen. — The children played outside. |
+| lesen 📖 | habe gelesen | las | Ich **las** ein Buch. — I read a book. |
+| schreiben ✍️ | habe geschrieben | schrieb | Sie **schrieb** einen Brief. — She wrote a letter. |
+| sprechen 🗣️ | habe gesprochen | sprach | Er **sprach** kein Englisch. — He didn't speak English. |
+| hören 👂 | habe gehört | hörte | Ich **hörte** Musik. — I listened to music. |
+| sehen 👀 | habe gesehen | sah | Ich **sah** ihn gestern. — I saw him yesterday. |
+| fahren 🚗 | bin / habe gefahren | fuhr | Ich **fuhr** mit dem Zug. — I went by train. |
+| fliegen ✈️ | bin / habe geflogen | flog | Wir **flogen** nach Berlin. — We flew to Berlin. |
 
 ---
 
 ## 🔵 A2 — Aufbauverben (Building Blocks)
 
-| Infinitiv | Hilfsverb (Perfekt) | Partizip II | Präteritum (ich) | Beispiel (Example) |
-|-----------|---------------------|-------------|-----------------|-------------------|
-| brauchen 🔧 | haben | gebraucht | brauchte | Ich **brauche** deine Hilfe. — I need your help. |
-| helfen 🤝 | haben | geholfen | half | Er **half** mir beim Umzug. — He helped me with the move. |
-| finden 🔍 | haben | gefunden | fand | Ich **fand** das sehr interessant. — I found that very interesting. |
-| denken 💭 | haben | gedacht | dachte | Ich **dachte**, du kommst nicht. — I thought you weren't coming. |
-| wissen 🧠 | haben | gewusst | wusste | Ich **wusste** das nicht. — I didn't know that. |
-| kennen 👋 | haben | gekannt | kannte | Ich **kannte** ihn schon lange. — I had known him for a long time. |
-| verstehen 💡 | haben | verstanden | verstand | Ich **verstand** die Frage nicht. — I didn't understand the question. |
-| beginnen / anfangen 🚀 | haben | begonnen / angefangen | begann / fing an | Der Kurs **begann** um neun. — The course started at nine. |
-| aufhören ⛔ | haben | aufgehört | hörte auf | Es **hörte** zu regnen **auf**. — It stopped raining. |
-| treffen 🤗 | haben | getroffen | traf | Ich **traf** sie im Café. — I met her at the café. |
-| schicken 📧 | haben | geschickt | schickte | Ich **schickte** eine E-Mail. — I sent an email. |
-| anrufen 📞 | haben | angerufen | rief an | Er **rief** mich an. — He called me. |
-| fragen ❓ | haben | gefragt | fragte | Sie **fragte** nach dem Weg. — She asked for directions. |
-| antworten 💬 | haben | geantwortet | antwortete | Ich **antwortete** sofort. — I answered immediately. |
-| bezahlen 💳 | haben | bezahlt | bezahlte | Ich **bezahlte** mit Karte. — I paid by card. |
-| kosten 🏷️ | haben | gekostet | kostete | Das **kostete** zu viel. — That cost too much. |
-| warten ⏳ | haben | gewartet | wartete | Ich **wartete** eine Stunde. — I waited for an hour. |
-| öffnen 🚪 | haben | geöffnet | öffnete | Er **öffnete** die Tür. — He opened the door. |
-| schließen 🔒 | haben | geschlossen | schloss | Sie **schloss** das Fenster. — She closed the window. |
-| nehmen 🤲 | haben | genommen | nahm | Ich **nahm** den Bus. — I took the bus. |
-| geben 🎁 | haben | gegeben | gab | Er **gab** mir das Buch. — He gave me the book. |
-| bringen 📦 | haben | gebracht | brachte | Sie **brachte** Kuchen mit. — She brought cake along. |
-| holen 🧺 | haben | geholt | holte | Ich **holte** die Kinder ab. — I picked up the children. |
-| bleiben 🏡 | sein | geblieben | blieb | Wir **blieben** zu Hause. — We stayed home. |
-| laufen 🏃 | sein / haben | gelaufen | lief | Ich **lief** jeden Morgen. — I ran every morning. |
+| Infinitiv | Perfekt | Präteritum (ich) | Beispiel (Example) |
+|-----------|---------|-----------------|-------------------|
+| brauchen 🔧 | habe gebraucht | brauchte | Ich **brauche** deine Hilfe. — I need your help. |
+| helfen 🤝 | habe geholfen | half | Er **half** mir beim Umzug. — He helped me with the move. |
+| finden 🔍 | habe gefunden | fand | Ich **fand** das sehr interessant. — I found that very interesting. |
+| denken 💭 | habe gedacht | dachte | Ich **dachte**, du kommst nicht. — I thought you weren't coming. |
+| wissen 🧠 | habe gewusst | wusste | Ich **wusste** das nicht. — I didn't know that. |
+| kennen 👋 | habe gekannt | kannte | Ich **kannte** ihn schon lange. — I had known him for a long time. |
+| verstehen 💡 | habe verstanden | verstand | Ich **verstand** die Frage nicht. — I didn't understand the question. |
+| beginnen / anfangen 🚀 | habe begonnen / habe angefangen | begann / fing an | Der Kurs **begann** um neun. — The course started at nine. |
+| aufhören ⛔ | habe aufgehört | hörte auf | Es **hörte** zu regnen **auf**. — It stopped raining. |
+| treffen 🤗 | habe getroffen | traf | Ich **traf** sie im Café. — I met her at the café. |
+| schicken 📧 | habe geschickt | schickte | Ich **schickte** eine E-Mail. — I sent an email. |
+| anrufen 📞 | habe angerufen | rief an | Er **rief** mich an. — He called me. |
+| fragen ❓ | habe gefragt | fragte | Sie **fragte** nach dem Weg. — She asked for directions. |
+| antworten 💬 | habe geantwortet | antwortete | Ich **antwortete** sofort. — I answered immediately. |
+| bezahlen 💳 | habe bezahlt | bezahlte | Ich **bezahlte** mit Karte. — I paid by card. |
+| kosten 🏷️ | habe gekostet | kostete | Das **kostete** zu viel. — That cost too much. |
+| warten ⏳ | habe gewartet | wartete | Ich **wartete** eine Stunde. — I waited for an hour. |
+| öffnen 🚪 | habe geöffnet | öffnete | Er **öffnete** die Tür. — He opened the door. |
+| schließen 🔒 | habe geschlossen | schloss | Sie **schloss** das Fenster. — She closed the window. |
+| nehmen 🤲 | habe genommen | nahm | Ich **nahm** den Bus. — I took the bus. |
+| geben 🎁 | habe gegeben | gab | Er **gab** mir das Buch. — He gave me the book. |
+| bringen 📦 | habe gebracht | brachte | Sie **brachte** Kuchen mit. — She brought cake along. |
+| holen 🧺 | habe geholt | holte | Ich **holte** die Kinder ab. — I picked up the children. |
+| bleiben 🏡 | bin geblieben | blieb | Wir **blieben** zu Hause. — We stayed home. |
+| laufen 🏃 | bin / habe gelaufen | lief | Ich **lief** jeden Morgen. — I ran every morning. |
 
 ---
 
 ## 🟠 B1 — Mittelstufe (Intermediate)
 
-| Infinitiv | Hilfsverb (Perfekt) | Partizip II | Präteritum (ich) | Beispiel (Example) |
-|-----------|---------------------|-------------|-----------------|-------------------|
-| erklären 🗒️ | haben | erklärt | erklärte | Der Arzt **erklärte** die Diagnose. — The doctor explained the diagnosis. |
-| beschreiben 🖊️ | haben | beschrieben | beschrieb | Ich **beschrieb** das Problem genau. — I described the problem precisely. |
-| berichten 📰 | haben | berichtet | berichtete | Er **berichtete** über den Unfall. — He reported about the accident. |
-| entscheiden ⚖️ | haben | entschieden | entschied | Ich **entschied** mich für die Stelle. — I decided on the position. |
-| sich bewerben 📄 | haben | sich beworben | bewarb sich | Ich **bewarb** mich um die Stelle. — I applied for the job. |
-| erlauben ✅ | haben | erlaubt | erlaubte | Das **ist** hier nicht **erlaubt**. — That is not permitted here. |
-| verbieten 🚫 | haben | verboten | verbot | Das Rauchen **ist** hier **verboten**. — Smoking is forbidden here. |
-| vergessen 🤦 | haben | vergessen | vergaß | Ich **vergaß** meinen Ausweis. — I forgot my ID. |
-| verlieren 😰 | haben | verloren | verlor | Er **verlor** seinen Job. — He lost his job. |
-| gewinnen 🏆 | haben | gewonnen | gewann | Das Team **gewann** das Spiel. — The team won the game. |
-| passieren ⚡ | sein | passiert | passierte | Was **ist** passiert? — What happened? |
-| funktionieren ⚙️ | haben | funktioniert | funktionierte | Das Gerät **hat** nicht **funktioniert**. — The device didn't work. |
-| sich kümmern (um) 🤍 | haben | sich gekümmert | kümmerte sich | Sie **kümmert** sich um die Kinder. — She takes care of the children. |
-| sich freuen (auf/über) 😊 | haben | sich gefreut | freute sich | Ich **freue** mich auf das Wochenende. — I'm looking forward to the weekend. |
-| sich vorstellen 👤 | haben | sich vorgestellt | stellte sich vor | Ich **stelle** mich **vor**: Ich heiße Andrei. — Let me introduce myself: My name is Andrei. |
-| vorhaben 📅 | haben | vorgehabt | hatte vor | Was **hast** du heute **vor**? — What are you planning today? |
-| stattfinden 🗓️ | haben | stattgefunden | fand statt | Die Feier **findet** morgen **statt**. — The celebration takes place tomorrow. |
-| sich ärgern (über) 😠 | haben | sich geärgert | ärgerte sich | Ich **ärgerte** mich über die Verspätung. — I was annoyed about the delay. |
-| empfehlen 👍 | haben | empfohlen | empfahl | Können Sie ein Restaurant **empfehlen**? — Can you recommend a restaurant? |
-| vergleichen 🔄 | haben | verglichen | verglich | Ich **verglich** die Preise. — I compared the prices. |
+| Infinitiv | Perfekt | Präteritum (ich) | Beispiel (Example) |
+|-----------|---------|-----------------|-------------------|
+| erklären 🗒️ | habe erklärt | erklärte | Der Arzt **erklärte** die Diagnose. — The doctor explained the diagnosis. |
+| beschreiben 🖊️ | habe beschrieben | beschrieb | Ich **beschrieb** das Problem genau. — I described the problem precisely. |
+| berichten 📰 | habe berichtet | berichtete | Er **berichtete** über den Unfall. — He reported about the accident. |
+| entscheiden ⚖️ | habe entschieden | entschied | Ich **entschied** mich für die Stelle. — I decided on the position. |
+| sich bewerben 📄 | habe mich beworben | bewarb sich | Ich **bewarb** mich um die Stelle. — I applied for the job. |
+| erlauben ✅ | habe erlaubt | erlaubte | Das **ist** hier nicht **erlaubt**. — That is not permitted here. |
+| verbieten 🚫 | habe verboten | verbot | Das Rauchen **ist** hier **verboten**. — Smoking is forbidden here. |
+| vergessen 🤦 | habe vergessen | vergaß | Ich **vergaß** meinen Ausweis. — I forgot my ID. |
+| verlieren 😰 | habe verloren | verlor | Er **verlor** seinen Job. — He lost his job. |
+| gewinnen 🏆 | habe gewonnen | gewann | Das Team **gewann** das Spiel. — The team won the game. |
+| passieren ⚡ | ist passiert | passierte | Was **ist** passiert? — What happened? |
+| funktionieren ⚙️ | habe funktioniert | funktionierte | Das Gerät **hat** nicht **funktioniert**. — The device didn't work. |
+| sich kümmern (um) 🤍 | habe mich gekümmert | kümmerte sich | Sie **kümmert** sich um die Kinder. — She takes care of the children. |
+| sich freuen (auf/über) 😊 | habe mich gefreut | freute sich | Ich **freue** mich auf das Wochenende. — I'm looking forward to the weekend. |
+| sich vorstellen 👤 | habe mich vorgestellt | stellte sich vor | Ich **stelle** mich **vor**: Ich heiße Andrei. — Let me introduce myself: My name is Andrei. |
+| vorhaben 📅 | habe vorgehabt | hatte vor | Was **hast** du heute **vor**? — What are you planning today? |
+| stattfinden 🗓️ | hat stattgefunden | fand statt | Die Feier **findet** morgen **statt**. — The celebration takes place tomorrow. |
+| sich ärgern (über) 😠 | habe mich geärgert | ärgerte sich | Ich **ärgerte** mich über die Verspätung. — I was annoyed about the delay. |
+| empfehlen 👍 | habe empfohlen | empfahl | Können Sie ein Restaurant **empfehlen**? — Can you recommend a restaurant? |
+| vergleichen 🔄 | habe verglichen | verglich | Ich **verglich** die Preise. — I compared the prices. |
 
 ---
 
 ## 🔴 B2 — Fortgeschritten (Advanced)
 
-| Infinitiv | Hilfsverb (Perfekt) | Partizip II | Präteritum (ich) | Beispiel (Example) |
-|-----------|---------------------|-------------|-----------------|-------------------|
-| behaupten 💬 | haben | behauptet | behauptete | Er **behauptete**, unschuldig zu sein. — He claimed to be innocent. |
-| beweisen 🔬 | haben | bewiesen | bewies | Sie **bewies** ihre Kompetenz. — She proved her competence. |
-| überzeugen 🤝 | haben | überzeugt | überzeugte | Es **gelang** mir, ihn zu **überzeugen**. — I managed to convince him. |
-| ablehnen ❌ | haben | abgelehnt | lehnte ab | Das Angebot **wurde abgelehnt**. — The offer was rejected. |
-| annehmen ✔️ | haben | angenommen | nahm an | Ich **nehme** an, dass das stimmt. — I assume that is correct. |
-| vorschlagen 💡 | haben | vorgeschlagen | schlug vor | Sie **schlug** eine Lösung **vor**. — She proposed a solution. |
-| erfordern 📋 | haben | erfordert | erforderte | Die Stelle **erfordert** Erfahrung. — The position requires experience. |
-| berücksichtigen 🧩 | haben | berücksichtigt | berücksichtigte | Bitte **berücksichtigen** Sie alle Optionen. — Please consider all options. |
-| widersprechen 🙅 | haben | widersprochen | widersprach | Ich **muss** Ihnen **widersprechen**. — I must contradict you. |
-| beitragen (zu) 🌱 | haben | beigetragen | trug bei | Jeder **kann** zum Erfolg **beitragen**. — Everyone can contribute to the success. |
-| durchführen ▶️ | haben | durchgeführt | führte durch | Das Projekt **wurde** erfolgreich **durchgeführt**. — The project was carried out successfully. |
-| vermeiden 🛡️ | haben | vermieden | vermied | Konflikte sollten **vermieden** werden. — Conflicts should be avoided. |
-| einschränken 🔽 | haben | eingeschränkt | schränkte ein | Die Maßnahmen **schränkten** die Freiheit **ein**. — The measures restricted freedom. |
-| herausfinden 🔎 | haben | herausgefunden | fand heraus | Ich **fand** heraus, was passiert **war**. — I found out what had happened. |
-| sich anpassen (an) 🔀 | haben | sich angepasst | passte sich an | Er **hat** sich gut **angepasst**. — He adapted well. |
-| gewährleisten ✅ | haben | gewährleistet | gewährleistete | Die Qualität **muss** **gewährleistet** werden. — Quality must be guaranteed. |
-| aufweisen 📊 | haben | aufgewiesen | wies auf | Der Bericht **weist** Mängel **auf**. — The report shows deficiencies. |
-| in Frage stellen ❓ | haben | in Frage gestellt | stellte in Frage | Sie **stellte** seine Methoden **in Frage**. — She called his methods into question. |
+| Infinitiv | Perfekt | Präteritum (ich) | Beispiel (Example) |
+|-----------|---------|-----------------|-------------------|
+| behaupten 💬 | habe behauptet | behauptete | Er **behauptete**, unschuldig zu sein. — He claimed to be innocent. |
+| beweisen 🔬 | habe bewiesen | bewies | Sie **bewies** ihre Kompetenz. — She proved her competence. |
+| überzeugen 🤝 | habe überzeugt | überzeugte | Es **gelang** mir, ihn zu **überzeugen**. — I managed to convince him. |
+| ablehnen ❌ | habe abgelehnt | lehnte ab | Das Angebot **wurde abgelehnt**. — The offer was rejected. |
+| annehmen ✔️ | habe angenommen | nahm an | Ich **nehme** an, dass das stimmt. — I assume that is correct. |
+| vorschlagen 💡 | habe vorgeschlagen | schlug vor | Sie **schlug** eine Lösung **vor**. — She proposed a solution. |
+| erfordern 📋 | habe erfordert | erforderte | Die Stelle **erfordert** Erfahrung. — The position requires experience. |
+| berücksichtigen 🧩 | habe berücksichtigt | berücksichtigte | Bitte **berücksichtigen** Sie alle Optionen. — Please consider all options. |
+| widersprechen 🙅 | habe widersprochen | widersprach | Ich **muss** Ihnen **widersprechen**. — I must contradict you. |
+| beitragen (zu) 🌱 | habe beigetragen | trug bei | Jeder **kann** zum Erfolg **beitragen**. — Everyone can contribute to the success. |
+| durchführen ▶️ | habe durchgeführt | führte durch | Das Projekt **wurde** erfolgreich **durchgeführt**. — The project was carried out successfully. |
+| vermeiden 🛡️ | habe vermieden | vermied | Konflikte sollten **vermieden** werden. — Conflicts should be avoided. |
+| einschränken 🔽 | habe eingeschränkt | schränkte ein | Die Maßnahmen **schränkten** die Freiheit **ein**. — The measures restricted freedom. |
+| herausfinden 🔎 | habe herausgefunden | fand heraus | Ich **fand** heraus, was passiert **war**. — I found out what had happened. |
+| sich anpassen (an) 🔀 | habe mich angepasst | passte sich an | Er **hat** sich gut **angepasst**. — He adapted well. |
+| gewährleisten ✅ | habe gewährleistet | gewährleistete | Die Qualität **muss** **gewährleistet** werden. — Quality must be guaranteed. |
+| aufweisen 📊 | habe aufgewiesen | wies auf | Der Bericht **weist** Mängel **auf**. — The report shows deficiencies. |
+| in Frage stellen ❓ | habe in Frage gestellt | stellte in Frage | Sie **stellte** seine Methoden **in Frage**. — She called his methods into question. |
 
 ---
 
