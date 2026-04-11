@@ -151,6 +151,24 @@ weight: 50
 
 ---
 
+## Thema 6: Junge Erwachsene und das Elternhaus (Young Adults and Living with Parents)
+
+*Sollten junge Erwachsene bis spät bei ihren Eltern wohnen?*
+
+{{< collapse summary="Musterantwort anzeigen (Show model answer)" class="qa-answer" >}}
+*Die Frage, ob junge Erwachsene lange bei ihren Eltern wohnen sollten, wird oft diskutiert. Es gibt Argumente dafür, aber auch klare Nachteile.*
+
+*Einerseits ist es günstiger, bei den Eltern zu wohnen. Gerade in Städten mit hohen Mieten kann das eine grosse finanzielle Hilfe sein. Ausserdem können junge Erwachsene in dieser Zeit Geld sparen und ihre Ausbildung in Ruhe abschliessen.*
+
+*Andererseits werden sie oft später selbstständig, wenn sie zu lange im Elternhaus bleiben. Sie lernen dann weniger, Verantwortung für den Alltag zu übernehmen, zum Beispiel für Haushalt, Finanzen oder wichtige Entscheidungen. Ein weiteres Problem ist, dass es auch für die Eltern auf Dauer belastend sein kann, wenn erwachsene Kinder sehr lange zu Hause wohnen.*
+
+*Meiner Meinung nach sollten junge Erwachsene nicht zu lange bei ihren Eltern wohnen. Für eine kurze Zeit kann das sinnvoll sein, aber später ist es wichtig, unabhängig zu werden und das eigene Leben zu organisieren.*
+
+*Zusammenfassend würde ich sagen, dass das Wohnen bei den Eltern kurzfristig Vorteile hat, aber auf lange Sicht die persönliche Entwicklung bremsen kann.*
+{{< /collapse >}}
+
+---
+
 ## Übungsmethode (Practice Method)
 
 1. **Choose a topic**
@@ -171,5 +189,6 @@ weight: 50
 - [ ] Topic 3 (Smartphones) — can argue for 3+ minutes
 - [ ] Topic 4 (Public transport) — can argue for 3+ minutes
 - [ ] Topic 5 (Workplace training) — can argue for 3+ minutes
+- [ ] Topic 6 (Young adults living with parents) — can argue for 3+ minutes
 - [ ] Practiced handling follow-up questions (Warum? Sind Sie sicher?)
 - [ ] Can use at least 5 argumentation phrases from memory

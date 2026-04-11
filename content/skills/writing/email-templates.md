@@ -3,325 +3,104 @@ title: "E-Mail-Vorlagen für das SDS-Schreiben (Email Templates for SDS Writing)
 weight: 20
 ---
 
-> Ready-to-use templates for the most common SDS email types. Adapt them to each prompt.
+> Keep one simple structure in mind and practise with short model texts.
 
 ---
 
-## Vorlage 1: Einen Termin absagen/verschieben (Cancel/Reschedule an Appointment) (A2)
-
-### Aufgabentyp (Prompt type): Sie haben einen Termin, können aber nicht kommen. Schreiben Sie eine E-Mail. (You have an appointment but can't come. Write an email.)
+## Allgemeine Vorlage (General Template)
 
 ```
-Betreff: Termin verschieben
+Betreff: [kurzes Thema]
 
-Sehr geehrte Damen und Herren,
+[Anrede]
 
-ich habe am [Tag] um [Uhrzeit] einen Termin bei Ihnen.
-Leider kann ich nicht kommen, weil [Grund].
+ich schreibe, weil / um ...
 
-Könnten Sie mir bitte einen neuen Termin geben?
-[Tag/Zeit] wäre gut für mich.
+[Hauptteil]
+- Punkt 1
+- Punkt 2
+- Punkt 3
 
-Vielen Dank für Ihr Verständnis.
+[Schlusssatz]
 
-Freundliche Grüsse
-[Ihr Name]
+[Gruss]
+[Name]
 ```
 
-### Ausgefülltes Beispiel (Example filled in):
+---
 
-> *Betreff: Termin am Mittwoch verschieben*
+## Beispiel: Mein Arbeitstag (My Day at Work)
+
+> *Betreff: Mein Arbeitstag*
 >
-> *Sehr geehrte Damen und Herren,*
+> *Hallo,* 
 >
-> *ich habe am Mittwoch um 14 Uhr einen Termin bei Ihnen. Leider kann ich nicht kommen, weil ich eine wichtige Besprechung bei der Arbeit habe.*
+> *ich möchte über meinen typischen Arbeitstag schreiben.*
 >
-> *Könnten Sie mir bitte einen neuen Termin geben? Donnerstag oder Freitag wäre gut für mich.*
+> *Ich stehe normalerweise um sieben Uhr auf und trinke zuerst einen Kaffee. Danach fahre ich mit dem Tram zur Arbeit. Ich arbeite als Data Scientist und beginne meistens um neun Uhr.*
 >
-> *Vielen Dank für Ihr Verständnis.*
+> *Bei der Arbeit analysiere ich Daten, programmiere und habe Besprechungen mit meinem Team. In der Mittagspause esse ich oft in der Kantine oder gehe mit Kollegen in ein Restaurant.*
+>
+> *Am Nachmittag arbeite ich weiter an meinen Projekten. Am Abend fahre ich nach Hause und freue mich auf meine Freizeit.*
 >
 > *Freundliche Grüsse*
-> *Andrei Surname*
+> *Andrei*
 
 ---
 
-## Vorlage 2: Ferien / einen freien Tag beantragen (Ask for Vacation / Day Off) (B1)
+## Beispiel: Mein typisches Wochenende (My Typical Weekend)
 
-### Aufgabentyp (Prompt type): Schreiben Sie Ihrem Arbeitgeber, um Ferien zu beantragen. (Write to your employer asking for vacation.)
-
-```
-Betreff: Ferienantrag
-
-Sehr geehrte/r Frau/Herr [Name],
-
-ich schreibe Ihnen, weil ich gerne [Anzahl] Tage Ferien nehmen möchte.
-
-Ich möchte vom [Datum] bis zum [Datum] frei haben.
-Der Grund ist, dass [Grund — z.B. Familie besuchen, Umzug, persönliche Gründe].
-
-Meine Arbeit kann in dieser Zeit von [Kollege/in] übernommen werden.
-Ich würde alle wichtigen Aufgaben vorher erledigen.
-
-Wäre das möglich? Ich freue mich auf Ihre Antwort.
-
-Freundliche Grüsse
-[Ihr Name]
-```
-
-### Ausgefülltes Beispiel (Example filled in):
-
-> *Betreff: Ferien vom 15. bis 19. Juli*
+> *Betreff: Mein typisches Wochenende*
 >
-> *Sehr geehrter Herr Keller,*
+> *Hallo,* 
 >
-> *ich schreibe Ihnen, weil ich gerne fünf Tage Ferien nehmen möchte.*
+> *heute schreibe ich über mein typisches Wochenende.*
 >
-> *Ich möchte vom 15. Juli bis zum 19. Juli frei haben. Der Grund ist, dass meine Eltern mich in Rumänien besuchen und ich Zeit mit ihnen verbringen möchte.*
+> *Am Samstag stehe ich später auf als unter der Woche. Oft mache ich Sport und spiele Volleyball oder Fussball mit Freunden. Manchmal gehe ich auch einkaufen oder in ein Restaurant in Zürich.*
 >
-> *Meine Arbeit kann in dieser Zeit von Frau Weber übernommen werden. Ich würde alle wichtigen Aufgaben vorher erledigen.*
+> *Im Winter fahre ich am Wochenende gern in die Berge zum Skifahren. Am Sonntag mache ich oft einen ruhigen Tag. Dann lese ich, spiele Schach oder verbringe Zeit mit meiner Freundin.*
 >
-> *Wäre das möglich? Ich freue mich auf Ihre Antwort.*
+> *Das Wochenende ist für mich sehr wichtig, weil ich mich erholen kann und Zeit für meine Hobbys habe.*
+>
+> *Liebe Grüsse*
+> *Andrei*
+
+---
+
+## Beispiel: Warum ich Zürich mag (Why I Like Zurich)
+
+> *Betreff: Warum ich Zürich mag*
+>
+> *Hallo,* 
+>
+> *ich möchte erklären, warum ich Zürich so gern mag.*
+>
+> *Zürich ist eine schöne und moderne Stadt. Besonders gut gefällt mir, dass die Stadt sauber, sicher und gut organisiert ist. Ausserdem ist der öffentliche Verkehr sehr gut, deshalb kann man schnell und einfach überallhin fahren.*
+>
+> *Ich mag auch die Natur rund um Zürich. Der See ist sehr schön, und man kann dort spazieren oder sich mit Freunden treffen. Auch die Berge sind nicht weit weg, was für mich perfekt ist, weil ich gern Ski fahre.*
+>
+> *Für mich ist Zürich eine Stadt mit hoher Lebensqualität. Deshalb lebe ich sehr gern hier.*
 >
 > *Freundliche Grüsse*
-> *Andrei Surname*
+> *Andrei*
 
 ---
 
-## Vorlage 3: Sich für einen Schulanlass entschuldigen (Excuse from School Event) (B1)
+## Beispiel: Warum ich eine Person mag (Why I Like a Person)
 
-### Aufgabentyp (Prompt type): Schreiben Sie der Schule, dass Sie nicht zu einem Elternabend kommen können. (Write to the school that you can't come to a parents' evening.)
-
-```
-Betreff: Elternabend am [Datum]
-
-Sehr geehrte Frau/Herr [Name],
-
-vielen Dank für die Einladung zum Elternabend am [Datum].
-
-Leider kann ich an diesem Abend nicht teilnehmen, weil [Grund].
-Ich finde den Elternabend aber sehr wichtig und würde gerne
-die Informationen bekommen.
-
-Könnten Sie mir bitte die wichtigsten Punkte per E-Mail schicken?
-Oder gibt es einen anderen Termin für ein Gespräch?
-
-Vielen Dank und freundliche Grüsse
-[Ihr Name]
-```
-
-### Ausgefülltes Beispiel (Example filled in):
-
-> *Betreff: Elternabend am 12. März*
+> *Betreff: Eine Person, die ich mag*
 >
-> *Sehr geehrte Frau Zimmermann,*
+> *Hallo,* 
 >
-> *vielen Dank für die Einladung zum Elternabend am 12. März.*
+> *ich möchte über eine Person schreiben, die ich sehr mag.*
 >
-> *Leider kann ich an diesem Abend nicht teilnehmen, weil ich bis 19 Uhr arbeiten muss. Ich finde den Elternabend aber sehr wichtig und würde gerne die Informationen bekommen.*
+> *Diese Person ist meine Freundin. Ich mag sie, weil sie freundlich, intelligent und humorvoll ist. Wenn ich einen stressigen Tag habe, kann sie mich immer beruhigen und motivieren.*
 >
-> *Könnten Sie mir bitte die wichtigsten Punkte per E-Mail schicken? Oder gibt es einen anderen Termin für ein Gespräch?*
+> *Ausserdem verbringen wir gern Zeit zusammen. Wir kochen, gehen ins Restaurant oder machen Ausflüge. Mit ihr wird es nie langweilig, und ich kann immer ich selbst sein.*
 >
-> *Vielen Dank und freundliche Grüsse*
-> *Andrei Surname*
+> *Darum ist sie eine sehr wichtige Person in meinem Leben.*
+>
+> *Liebe Grüsse*
+> *Andrei*
 
 ---
-
-## Vorlage 4: Informationen anfragen (Request Information) (B1)
-
-### Aufgabentyp (Prompt type): Schreiben Sie an eine Sprachschule oder einen Kursanbieter und fragen Sie nach Informationen. (Write to a language school / course provider asking for information.)
-
-```
-Betreff: Anfrage zu [Kurs/Angebot]
-
-Sehr geehrte Damen und Herren,
-
-ich interessiere mich für [Kurs/Angebot] und hätte einige Fragen.
-
-1. Wann beginnt der nächste Kurs?
-2. Wie viel kostet der Kurs?
-3. An welchen Tagen und zu welchen Zeiten findet er statt?
-4. Brauche ich Vorkenntnisse?
-
-Könnten Sie mir bitte weitere Informationen schicken?
-
-Vielen Dank im Voraus.
-
-Freundliche Grüsse
-[Ihr Name]
-```
-
-### Ausgefülltes Beispiel (Example filled in):
-
-> *Betreff: Anfrage zum Intensivkurs Deutsch B1*
->
-> *Sehr geehrte Damen und Herren,*
->
-> *ich interessiere mich für den Intensivkurs Deutsch B1 und hätte einige Fragen.*
->
-> *1. Wann beginnt der nächste Kurs?*
-> *2. Wie viel kostet der Kurs?*
-> *3. An welchen Tagen und zu welchen Zeiten findet er statt?*
-> *4. Brauche ich Vorkenntnisse?*
->
-> *Könnten Sie mir bitte weitere Informationen schicken?*
->
-> *Vielen Dank im Voraus.*
->
-> *Freundliche Grüsse*
-> *Andrei Surname*
-
----
-
-## Vorlage 5: Dem Vermieter ein Problem melden (Report a Problem to Landlord) (B1)
-
-### Aufgabentyp (Prompt type): Es gibt ein Problem in Ihrer Wohnung. Schreiben Sie dem Vermieter. (There's a problem in your apartment. Write to the landlord.)
-
-```
-Betreff: Problem in der Wohnung
-
-Sehr geehrte/r Frau/Herr [Name],
-
-ich wohne in der Wohnung [Adresse / Stockwerk] und möchte
-ein Problem melden.
-
-Seit [Zeitangabe] funktioniert [das Problem] nicht richtig.
-[Beschreibung: z.B. "Die Heizung macht laute Geräusche" /
-"Der Wasserhahn in der Küche tropft."]
-
-Könnten Sie bitte jemanden schicken, der das repariert?
-Ich bin [Tage/Zeiten] zu Hause.
-
-Vielen Dank und freundliche Grüsse
-[Ihr Name]
-```
-
-### Ausgefülltes Beispiel (Example filled in):
-
-> *Betreff: Heizung im Wohnzimmer funktioniert nicht richtig*
->
-> *Sehr geehrter Herr Brunner,*
->
-> *ich wohne in der Wohnung Bahnhofstrasse 12, 3. Stock, und möchte ein Problem melden.*
->
-> *Seit letzter Woche funktioniert die Heizung im Wohnzimmer nicht richtig. Sie wird kaum warm, obwohl das Thermostat auf 22 Grad steht.*
->
-> *Könnten Sie bitte jemanden schicken, der das repariert? Ich bin montags und mittwochs ab 16 Uhr sowie samstags den ganzen Tag zu Hause.*
->
-> *Vielen Dank und freundliche Grüsse*
-> *Andrei Surname*
-
----
-
-## Vorlage 6: Ein Vorstellungsgespräch verschieben (Reschedule a Job Interview) (B1)
-
-### Aufgabentyp (Prompt type): Sie haben ein Vorstellungsgespräch, müssen den Termin aber verschieben. (You have a job interview but need to change the date.)
-
-```
-Betreff: Vorstellungsgespräch verschieben
-
-Sehr geehrte/r Frau/Herr [Name],
-
-vielen Dank für die Einladung zum Vorstellungsgespräch am [Datum]
-um [Uhrzeit].
-
-Leider habe ich an diesem Tag einen dringenden Termin und kann
-nicht kommen. Ich bitte um Entschuldigung.
-
-Wäre es möglich, das Gespräch auf einen anderen Tag zu
-verschieben? Ich könnte am [Tag 1] oder am [Tag 2] kommen.
-
-Ich freue mich auf Ihre Rückmeldung.
-
-Freundliche Grüsse
-[Ihr Name]
-```
-
-### Ausgefülltes Beispiel (Example filled in):
-
-> *Betreff: Vorstellungsgespräch am 8. April*
->
-> *Sehr geehrte Frau Huber,*
->
-> *vielen Dank für die Einladung zum Vorstellungsgespräch am 8. April um 10 Uhr.*
->
-> *Leider habe ich an diesem Tag einen dringenden Termin beim Arzt und kann nicht kommen. Ich bitte um Entschuldigung.*
->
-> *Wäre es möglich, das Gespräch auf einen anderen Tag zu verschieben? Ich könnte am 10. April oder am 11. April kommen.*
->
-> *Ich freue mich auf Ihre Rückmeldung.*
->
-> *Freundliche Grüsse*
-> *Andrei Surname*
-
----
-
-## Vorlage 7: Pro-/Contra-Meinungstext (Pro/Contra Opinion Text) (B2)
-
-### Aufgabentyp (Prompt type): Schreiben Sie Ihre Meinung zu einem Thema (~200 Wörter). (Write your opinion on a topic (~200 words).)
-
-```
-[Topic] ist ein Thema, das viele Menschen beschäftigt.
-Es gibt sowohl Argumente dafür als auch dagegen.
-
-Einerseits [Argument 1 für]. Zum Beispiel [Beispiel].
-Ausserdem [Argument 2 für]. Das bedeutet, dass [Erklärung].
-
-Andererseits gibt es auch Nachteile. Ein Problem ist, dass
-[Argument 1 gegen]. Darüber hinaus [Argument 2 gegen].
-[Beispiel oder Erklärung].
-
-Meiner Meinung nach überwiegen die [Vorteile/Nachteile].
-Ich denke, dass [eigene Position + Begründung].
-
-Zusammenfassend kann man sagen, dass [Schlussfolgerung].
-Es ist wichtig, dass [abschliessender Gedanke].
-```
-
-### Beispiel: Sonntagsöffnung von Geschäften (Example: Sunday shop opening)
-
-> *Die Frage, ob Geschäfte am Sonntag geöffnet sein sollten, wird oft diskutiert. Es gibt sowohl Argumente dafür als auch dagegen.*
->
-> *Einerseits wäre es praktisch für berufstätige Menschen wie mich, die unter der Woche keine Zeit zum Einkaufen haben. Wenn ich am Samstag Ski fahren oder Volleyball spielen gehe, bleibt wenig Zeit für Einkäufe. Ausserdem könnten die Geschäfte mehr Umsatz machen.*
->
-> *Andererseits ist der Sonntag ein wichtiger Ruhetag für die Gesellschaft. Die Angestellten im Verkauf hätten weniger freie Zeit. Darüber hinaus gibt es in Zürich bereits Bahnhofsshops, die am Sonntag offen sind.*
->
-> *Meiner Meinung nach sollte der Sonntag als Ruhetag bestehen bleiben. Ich denke, dass die Erholung der Arbeitnehmenden wichtiger ist als die Bequemlichkeit beim Einkaufen.*
->
-> *Zusammenfassend kann man sagen, dass es gute Argumente auf beiden Seiten gibt, aber die Gesundheit und das Familienleben der Mitarbeitenden Priorität haben sollten.*
-
----
-
-## Schnellübersicht: E-Mail-Formulierungen (Quick Reference: Email Phrases)
-
-### Anrede (Greeting)
-| Formal | Informal |
-|--------|----------|
-| Sehr geehrte Damen und Herren, | Hallo [Name], |
-| Sehr geehrte Frau Meier, | Liebe/r [Name], |
-| Sehr geehrter Herr Schmidt, | Hi [Name], |
-
-### Anlass des Schreibens (Why you're writing)
-- Ich schreibe Ihnen, weil…
-- Ich möchte Sie informieren, dass…
-- Ich habe eine Frage zu…
-- Vielen Dank für Ihre E-Mail / Einladung / Information.
-
-### Bitten / Anfragen (Requests)
-- Könnten Sie mir bitte… ?
-- Wäre es möglich, dass… ?
-- Ich bitte Sie um…
-- Ich würde gerne wissen, ob…
-
-### Schlusssatz (Closing)
-| Formal | Informal |
-|--------|----------|
-| Vielen Dank im Voraus. | Danke! |
-| Ich freue mich auf Ihre Antwort. | Bis bald! |
-| Vielen Dank für Ihr Verständnis. | Mach's gut! |
-
-### Grussformel (Sign-off)
-| Formal | Informal |
-|--------|----------|
-| Freundliche Grüsse | Liebe Grüsse |
-| Mit freundlichen Grüssen | Viele Grüsse |
-| Mit besten Grüssen | LG |

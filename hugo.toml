@@ -4,7 +4,7 @@ title = 'Deutsch Prep — SDS Exam'
 theme = 'PaperMod'
 
 [params]
-description = 'Sprachstandstest Deutsch Schweiz preparation system'
+description = 'Sprachstandstest Deutsch Schweiz preparation system with grammar, vocabulary, email writing, and pro/contra opinion practice'
 defaultTheme = 'light'
 ShowReadingTime = false
 ShowShareButtons = false
@@ -16,7 +16,7 @@ TocOpen = true
 
 [params.homeInfoParams]
 Title = 'SDS Exam Preparation'
-Content = 'Comprehensive preparation system for the Sprachstandstest Deutsch Schweiz — all 4 skills at levels pre-A1 through B2.'
+Content = 'Comprehensive preparation system for the Sprachstandstest Deutsch Schweiz — all 4 skills at levels pre-A1 through B2, including email writing and structured pro/contra opinion practice.'
 
 [[params.socialIcons]]
 name = 'github'
